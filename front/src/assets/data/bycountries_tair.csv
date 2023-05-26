@@ -1,0 +1,2761 @@
+country_code,country_name,month,year,views
+AF,Afghanistan,1,2017,5
+AF,Afghanistan,2,2017,2
+AF,Afghanistan,2,2018,27
+AF,Afghanistan,3,2017,2
+AF,Afghanistan,4,2017,17
+AF,Afghanistan,5,2017,11
+AF,Afghanistan,6,2017,4
+AF,Afghanistan,7,2017,6
+AF,Afghanistan,8,2017,11
+AF,Afghanistan,9,2017,18
+AF,Afghanistan,10,2017,39
+AF,Afghanistan,11,2017,21
+AF,Afghanistan,12,2017,10
+AX,"Aland Islands",3,2017,2
+AX,"Aland Islands",4,2017,4
+AX,"Aland Islands",7,2017,2
+AX,"Aland Islands",10,2017,5
+AL,Albania,1,2017,482
+AL,Albania,1,2018,428
+AL,Albania,2,2017,485
+AL,Albania,2,2018,648
+AL,Albania,3,2017,394
+AL,Albania,4,2017,479
+AL,Albania,5,2017,1014
+AL,Albania,6,2017,809
+AL,Albania,7,2017,560
+AL,Albania,8,2017,745
+AL,Albania,9,2017,971
+AL,Albania,10,2017,1160
+AL,Albania,11,2017,1018
+AL,Albania,12,2017,933
+DZ,Algeria,1,2017,3078
+DZ,Algeria,1,2018,2341
+DZ,Algeria,2,2017,2939
+DZ,Algeria,2,2018,4264
+DZ,Algeria,3,2017,2709
+DZ,Algeria,4,2017,3238
+DZ,Algeria,5,2017,3991
+DZ,Algeria,6,2017,3498
+DZ,Algeria,7,2017,2104
+DZ,Algeria,8,2017,3781
+DZ,Algeria,9,2017,4271
+DZ,Algeria,10,2017,5004
+DZ,Algeria,11,2017,8706
+DZ,Algeria,12,2017,4600
+AS,"American Samoa",2,2017,2
+AS,"American Samoa",3,2017,4
+AS,"American Samoa",5,2017,10
+AS,"American Samoa",9,2017,52
+AS,"American Samoa",10,2017,2
+AS,"American Samoa",11,2017,221
+AD,Andorra,1,2017,2
+AD,Andorra,1,2018,13
+AD,Andorra,2,2017,8
+AD,Andorra,2,2018,6
+AD,Andorra,3,2017,7
+AD,Andorra,5,2017,42
+AD,Andorra,6,2017,3
+AD,Andorra,7,2017,2
+AD,Andorra,8,2017,16
+AD,Andorra,9,2017,10
+AD,Andorra,10,2017,12
+AD,Andorra,11,2017,32
+AD,Andorra,12,2017,25
+AO,Angola,1,2017,174
+AO,Angola,1,2018,54
+AO,Angola,2,2017,150
+AO,Angola,2,2018,199
+AO,Angola,3,2017,101
+AO,Angola,4,2017,105
+AO,Angola,5,2017,189
+AO,Angola,6,2017,252
+AO,Angola,7,2017,107
+AO,Angola,8,2017,256
+AO,Angola,9,2017,248
+AO,Angola,10,2017,191
+AO,Angola,11,2017,297
+AO,Angola,12,2017,164
+AI,Anguilla,6,2017,3
+A1,"Anonymous Proxy",1,2017,17
+A1,"Anonymous Proxy",2,2017,23
+A1,"Anonymous Proxy",2,2018,3
+A1,"Anonymous Proxy",4,2017,4
+A1,"Anonymous Proxy",5,2017,125
+A1,"Anonymous Proxy",6,2017,3
+A1,"Anonymous Proxy",7,2017,23
+A1,"Anonymous Proxy",8,2017,4
+A1,"Anonymous Proxy",10,2017,5
+A1,"Anonymous Proxy",11,2017,15
+A1,"Anonymous Proxy",12,2017,3
+AG,"Antigua and Barbuda",1,2017,31
+AG,"Antigua and Barbuda",1,2018,21
+AG,"Antigua and Barbuda",2,2017,8
+AG,"Antigua and Barbuda",2,2018,50
+AG,"Antigua and Barbuda",3,2017,34
+AG,"Antigua and Barbuda",4,2017,13
+AG,"Antigua and Barbuda",5,2017,14
+AG,"Antigua and Barbuda",6,2017,50
+AG,"Antigua and Barbuda",7,2017,7
+AG,"Antigua and Barbuda",8,2017,28
+AG,"Antigua and Barbuda",9,2017,6
+AG,"Antigua and Barbuda",10,2017,69
+AG,"Antigua and Barbuda",11,2017,67
+AG,"Antigua and Barbuda",12,2017,21
+AR,Argentina,1,2017,14856
+AR,Argentina,1,2018,9588
+AR,Argentina,2,2017,8928
+AR,Argentina,2,2018,11767
+AR,Argentina,3,2017,10477
+AR,Argentina,4,2017,12591
+AR,Argentina,5,2017,20199
+AR,Argentina,6,2017,19316
+AR,Argentina,7,2017,8515
+AR,Argentina,8,2017,14592
+AR,Argentina,9,2017,14699
+AR,Argentina,10,2017,18784
+AR,Argentina,11,2017,14299
+AR,Argentina,12,2017,18439
+AM,Armenia,1,2017,209
+AM,Armenia,1,2018,214
+AM,Armenia,2,2017,118
+AM,Armenia,2,2018,699
+AM,Armenia,3,2017,148
+AM,Armenia,4,2017,183
+AM,Armenia,5,2017,263
+AM,Armenia,6,2017,219
+AM,Armenia,7,2017,226
+AM,Armenia,8,2017,399
+AM,Armenia,9,2017,646
+AM,Armenia,10,2017,665
+AM,Armenia,11,2017,346
+AM,Armenia,12,2017,433
+AW,Aruba,1,2017,4
+AW,Aruba,1,2018,24
+AW,Aruba,2,2018,2
+AW,Aruba,3,2017,33
+AW,Aruba,4,2017,10
+AW,Aruba,5,2017,18
+AW,Aruba,6,2017,39
+AW,Aruba,7,2017,44
+AW,Aruba,8,2017,43
+AW,Aruba,9,2017,28
+AW,Aruba,10,2017,14
+AW,Aruba,11,2017,17
+AW,Aruba,12,2017,7
+AP,"Asia/Pacific Region",1,2017,347
+AP,"Asia/Pacific Region",1,2018,242
+AP,"Asia/Pacific Region",2,2017,56
+AP,"Asia/Pacific Region",2,2018,166
+AP,"Asia/Pacific Region",3,2017,373
+AP,"Asia/Pacific Region",4,2017,665
+AP,"Asia/Pacific Region",5,2017,800
+AP,"Asia/Pacific Region",6,2017,2183
+AP,"Asia/Pacific Region",7,2017,36
+AP,"Asia/Pacific Region",8,2017,40
+AP,"Asia/Pacific Region",9,2017,69
+AP,"Asia/Pacific Region",10,2017,47
+AP,"Asia/Pacific Region",11,2017,442
+AP,"Asia/Pacific Region",12,2017,531
+AU,Australia,1,2017,24895
+AU,Australia,1,2018,8424
+AU,Australia,2,2017,21426
+AU,Australia,2,2018,23088
+AU,Australia,3,2017,38400
+AU,Australia,4,2017,29566
+AU,Australia,5,2017,136586
+AU,Australia,6,2017,159461
+AU,Australia,7,2017,42153
+AU,Australia,8,2017,41796
+AU,Australia,9,2017,33127
+AU,Australia,10,2017,34315
+AU,Australia,11,2017,34722
+AU,Australia,12,2017,20124
+AT,Austria,1,2017,11187
+AT,Austria,1,2018,12313
+AT,Austria,2,2017,9377
+AT,Austria,2,2018,31205
+AT,Austria,3,2017,9836
+AT,Austria,4,2017,9922
+AT,Austria,5,2017,24930
+AT,Austria,6,2017,10372
+AT,Austria,7,2017,6756
+AT,Austria,8,2017,9744
+AT,Austria,9,2017,29793
+AT,Austria,10,2017,105722
+AT,Austria,11,2017,89912
+AT,Austria,12,2017,32918
+AZ,Azerbaijan,1,2017,295
+AZ,Azerbaijan,1,2018,329
+AZ,Azerbaijan,2,2017,304
+AZ,Azerbaijan,2,2018,432
+AZ,Azerbaijan,3,2017,355
+AZ,Azerbaijan,4,2017,377
+AZ,Azerbaijan,5,2017,272
+AZ,Azerbaijan,6,2017,312
+AZ,Azerbaijan,7,2017,214
+AZ,Azerbaijan,8,2017,464
+AZ,Azerbaijan,9,2017,504
+AZ,Azerbaijan,10,2017,395
+AZ,Azerbaijan,11,2017,564
+AZ,Azerbaijan,12,2017,653
+BS,Bahamas,1,2017,58
+BS,Bahamas,1,2018,13
+BS,Bahamas,2,2017,19
+BS,Bahamas,2,2018,26
+BS,Bahamas,3,2017,32
+BS,Bahamas,4,2017,10
+BS,Bahamas,5,2017,50
+BS,Bahamas,6,2017,72
+BS,Bahamas,7,2017,21
+BS,Bahamas,8,2017,54
+BS,Bahamas,9,2017,92
+BS,Bahamas,10,2017,22
+BS,Bahamas,11,2017,32
+BS,Bahamas,12,2017,6
+BH,Bahrain,1,2017,296
+BH,Bahrain,1,2018,192
+BH,Bahrain,2,2017,91
+BH,Bahrain,2,2018,113
+BH,Bahrain,3,2017,106
+BH,Bahrain,4,2017,170
+BH,Bahrain,5,2017,320
+BH,Bahrain,6,2017,266
+BH,Bahrain,7,2017,167
+BH,Bahrain,8,2017,228
+BH,Bahrain,9,2017,272
+BH,Bahrain,10,2017,159
+BH,Bahrain,11,2017,127
+BH,Bahrain,12,2017,169
+BD,Bangladesh,1,2017,1495
+BD,Bangladesh,1,2018,1115
+BD,Bangladesh,2,2017,1127
+BD,Bangladesh,2,2018,2016
+BD,Bangladesh,3,2017,1577
+BD,Bangladesh,4,2017,1543
+BD,Bangladesh,5,2017,1771
+BD,Bangladesh,6,2017,1599
+BD,Bangladesh,7,2017,1353
+BD,Bangladesh,8,2017,1876
+BD,Bangladesh,9,2017,2112
+BD,Bangladesh,10,2017,2822
+BD,Bangladesh,11,2017,2849
+BD,Bangladesh,12,2017,2730
+BB,Barbados,1,2017,1355
+BB,Barbados,1,2018,60
+BB,Barbados,2,2017,302
+BB,Barbados,2,2018,94
+BB,Barbados,3,2017,87
+BB,Barbados,4,2017,168
+BB,Barbados,5,2017,121
+BB,Barbados,6,2017,107
+BB,Barbados,7,2017,182
+BB,Barbados,8,2017,163
+BB,Barbados,9,2017,64
+BB,Barbados,10,2017,102
+BB,Barbados,11,2017,188
+BB,Barbados,12,2017,159
+BY,Belarus,1,2017,369
+BY,Belarus,1,2018,374
+BY,Belarus,2,2017,515
+BY,Belarus,2,2018,631
+BY,Belarus,3,2017,902
+BY,Belarus,4,2017,1339
+BY,Belarus,5,2017,2133
+BY,Belarus,6,2017,964
+BY,Belarus,7,2017,346
+BY,Belarus,8,2017,512
+BY,Belarus,9,2017,969
+BY,Belarus,10,2017,1023
+BY,Belarus,11,2017,971
+BY,Belarus,12,2017,693
+BE,Belgium,1,2017,18705
+BE,Belgium,1,2018,9951
+BE,Belgium,2,2017,16532
+BE,Belgium,2,2018,18869
+BE,Belgium,3,2017,21648
+BE,Belgium,4,2017,17624
+BE,Belgium,5,2017,29694
+BE,Belgium,6,2017,22259
+BE,Belgium,7,2017,12127
+BE,Belgium,8,2017,17910
+BE,Belgium,9,2017,17555
+BE,Belgium,10,2017,22371
+BE,Belgium,11,2017,22764
+BE,Belgium,12,2017,17667
+BZ,Belize,1,2017,90
+BZ,Belize,1,2018,8
+BZ,Belize,2,2017,42
+BZ,Belize,2,2018,29
+BZ,Belize,3,2017,293
+BZ,Belize,4,2017,58
+BZ,Belize,5,2017,45
+BZ,Belize,6,2017,36
+BZ,Belize,7,2017,82
+BZ,Belize,8,2017,132
+BZ,Belize,9,2017,60
+BZ,Belize,10,2017,125
+BZ,Belize,11,2017,163
+BZ,Belize,12,2017,42
+BJ,Benin,1,2017,2
+BJ,Benin,1,2018,2
+BJ,Benin,2,2018,49
+BJ,Benin,4,2017,1
+BJ,Benin,5,2017,2
+BJ,Benin,6,2017,1
+BJ,Benin,7,2017,26
+BJ,Benin,8,2017,12
+BJ,Benin,10,2017,10
+BJ,Benin,12,2017,2
+BM,Bermuda,1,2017,2
+BM,Bermuda,1,2018,1
+BM,Bermuda,2,2018,9
+BM,Bermuda,3,2017,4
+BM,Bermuda,4,2017,32
+BM,Bermuda,9,2017,5
+BM,Bermuda,10,2017,5
+BM,Bermuda,11,2017,2
+BM,Bermuda,12,2017,26
+BT,Bhutan,1,2017,39
+BT,Bhutan,1,2018,15
+BT,Bhutan,2,2017,6
+BT,Bhutan,2,2018,10
+BT,Bhutan,3,2017,22
+BT,Bhutan,4,2017,20
+BT,Bhutan,5,2017,33
+BT,Bhutan,6,2017,47
+BT,Bhutan,7,2017,20
+BT,Bhutan,8,2017,20
+BT,Bhutan,9,2017,28
+BT,Bhutan,10,2017,28
+BT,Bhutan,11,2017,29
+BT,Bhutan,12,2017,5
+BO,Bolivia,1,2017,103
+BO,Bolivia,1,2018,86
+BO,Bolivia,2,2017,79
+BO,Bolivia,2,2018,107
+BO,Bolivia,3,2017,113
+BO,Bolivia,4,2017,98
+BO,Bolivia,5,2017,117
+BO,Bolivia,6,2017,70
+BO,Bolivia,7,2017,55
+BO,Bolivia,8,2017,149
+BO,Bolivia,9,2017,140
+BO,Bolivia,10,2017,120
+BO,Bolivia,11,2017,199
+BO,Bolivia,12,2017,155
+BQ,"Bonaire, Saint Eustatius and Saba",1,2017,12
+BQ,"Bonaire, Saint Eustatius and Saba",2,2017,46
+BQ,"Bonaire, Saint Eustatius and Saba",2,2018,4
+BQ,"Bonaire, Saint Eustatius and Saba",3,2017,20
+BQ,"Bonaire, Saint Eustatius and Saba",4,2017,10
+BQ,"Bonaire, Saint Eustatius and Saba",5,2017,2
+BQ,"Bonaire, Saint Eustatius and Saba",9,2017,20
+BQ,"Bonaire, Saint Eustatius and Saba",11,2017,3
+BQ,"Bonaire, Saint Eustatius and Saba",12,2017,12
+BA,"Bosnia and Herzegovina",1,2017,1068
+BA,"Bosnia and Herzegovina",1,2018,688
+BA,"Bosnia and Herzegovina",2,2017,976
+BA,"Bosnia and Herzegovina",2,2018,1211
+BA,"Bosnia and Herzegovina",3,2017,1170
+BA,"Bosnia and Herzegovina",4,2017,1505
+BA,"Bosnia and Herzegovina",5,2017,1632
+BA,"Bosnia and Herzegovina",6,2017,1251
+BA,"Bosnia and Herzegovina",7,2017,590
+BA,"Bosnia and Herzegovina",8,2017,1057
+BA,"Bosnia and Herzegovina",9,2017,1345
+BA,"Bosnia and Herzegovina",10,2017,1139
+BA,"Bosnia and Herzegovina",11,2017,1371
+BA,"Bosnia and Herzegovina",12,2017,1041
+BW,Botswana,1,2017,47
+BW,Botswana,1,2018,414
+BW,Botswana,2,2017,61
+BW,Botswana,2,2018,253
+BW,Botswana,3,2017,96
+BW,Botswana,4,2017,150
+BW,Botswana,5,2017,256
+BW,Botswana,6,2017,126
+BW,Botswana,7,2017,69
+BW,Botswana,8,2017,266
+BW,Botswana,9,2017,106
+BW,Botswana,10,2017,246
+BW,Botswana,11,2017,504
+BW,Botswana,12,2017,941
+BV,"Bouvet Island",2,2018,10
+BV,"Bouvet Island",9,2017,4
+BV,"Bouvet Island",10,2017,1
+BV,"Bouvet Island",11,2017,4
+BR,Brazil,1,2017,27992
+BR,Brazil,1,2018,13000
+BR,Brazil,2,2017,31678
+BR,Brazil,2,2018,34002
+BR,Brazil,3,2017,38080
+BR,Brazil,4,2017,38378
+BR,Brazil,5,2017,53795
+BR,Brazil,6,2017,47527
+BR,Brazil,7,2017,29964
+BR,Brazil,8,2017,44611
+BR,Brazil,9,2017,42700
+BR,Brazil,10,2017,42651
+BR,Brazil,11,2017,46933
+BR,Brazil,12,2017,66920
+BN,"Brunei Darussalam",1,2017,142
+BN,"Brunei Darussalam",1,2018,185
+BN,"Brunei Darussalam",2,2017,86
+BN,"Brunei Darussalam",2,2018,275
+BN,"Brunei Darussalam",3,2017,123
+BN,"Brunei Darussalam",4,2017,177
+BN,"Brunei Darussalam",5,2017,188
+BN,"Brunei Darussalam",6,2017,124
+BN,"Brunei Darussalam",7,2017,71
+BN,"Brunei Darussalam",8,2017,211
+BN,"Brunei Darussalam",9,2017,239
+BN,"Brunei Darussalam",10,2017,256
+BN,"Brunei Darussalam",11,2017,270
+BN,"Brunei Darussalam",12,2017,204
+BG,Bulgaria,1,2017,2988
+BG,Bulgaria,1,2018,1483
+BG,Bulgaria,2,2017,2348
+BG,Bulgaria,2,2018,1738
+BG,Bulgaria,3,2017,2611
+BG,Bulgaria,4,2017,3385
+BG,Bulgaria,5,2017,2653
+BG,Bulgaria,6,2017,2243
+BG,Bulgaria,7,2017,1407
+BG,Bulgaria,8,2017,1942
+BG,Bulgaria,9,2017,14728
+BG,Bulgaria,10,2017,3107
+BG,Bulgaria,11,2017,2904
+BG,Bulgaria,12,2017,1929
+BF,"Burkina Faso",2,2018,21
+BF,"Burkina Faso",10,2017,8
+BI,Burundi,1,2017,2
+BI,Burundi,2,2018,4
+BI,Burundi,4,2017,4
+BI,Burundi,5,2017,2
+BI,Burundi,6,2017,4
+BI,Burundi,9,2017,7
+BI,Burundi,11,2017,17
+BI,Burundi,12,2017,6
+KH,Cambodia,1,2017,107
+KH,Cambodia,1,2018,41
+KH,Cambodia,2,2017,40
+KH,Cambodia,2,2018,74
+KH,Cambodia,3,2017,130
+KH,Cambodia,4,2017,82
+KH,Cambodia,5,2017,82
+KH,Cambodia,6,2017,122
+KH,Cambodia,7,2017,181
+KH,Cambodia,8,2017,865
+KH,Cambodia,9,2017,232
+KH,Cambodia,10,2017,204
+KH,Cambodia,11,2017,270
+KH,Cambodia,12,2017,150
+CM,Cameroon,1,2017,205
+CM,Cameroon,1,2018,123
+CM,Cameroon,2,2017,82
+CM,Cameroon,2,2018,317
+CM,Cameroon,3,2017,119
+CM,Cameroon,4,2017,178
+CM,Cameroon,5,2017,318
+CM,Cameroon,6,2017,280
+CM,Cameroon,7,2017,294
+CM,Cameroon,8,2017,404
+CM,Cameroon,9,2017,634
+CM,Cameroon,10,2017,352
+CM,Cameroon,11,2017,428
+CM,Cameroon,12,2017,234
+CA,Canada,1,2017,96755
+CA,Canada,1,2018,35384
+CA,Canada,2,2017,87792
+CA,Canada,2,2018,97666
+CA,Canada,3,2017,90300
+CA,Canada,4,2017,72356
+CA,Canada,5,2017,75496
+CA,Canada,6,2017,66850
+CA,Canada,7,2017,47271
+CA,Canada,8,2017,69709
+CA,Canada,9,2017,78426
+CA,Canada,10,2017,85520
+CA,Canada,11,2017,102670
+CA,Canada,12,2017,61275
+CV,"Cape Verde",1,2017,8
+CV,"Cape Verde",1,2018,2
+CV,"Cape Verde",2,2017,3
+CV,"Cape Verde",2,2018,55
+CV,"Cape Verde",3,2017,4
+CV,"Cape Verde",4,2017,4
+CV,"Cape Verde",5,2017,58
+CV,"Cape Verde",6,2017,26
+CV,"Cape Verde",7,2017,4
+CV,"Cape Verde",8,2017,58
+CV,"Cape Verde",9,2017,12
+CV,"Cape Verde",10,2017,6
+CV,"Cape Verde",11,2017,47
+CV,"Cape Verde",12,2017,11
+KY,"Cayman Islands",1,2017,10
+KY,"Cayman Islands",1,2018,1
+KY,"Cayman Islands",2,2017,22
+KY,"Cayman Islands",2,2018,6
+KY,"Cayman Islands",3,2017,24
+KY,"Cayman Islands",4,2017,18
+KY,"Cayman Islands",5,2017,16
+KY,"Cayman Islands",6,2017,17
+KY,"Cayman Islands",7,2017,16
+KY,"Cayman Islands",8,2017,18
+KY,"Cayman Islands",9,2017,7
+KY,"Cayman Islands",10,2017,26
+KY,"Cayman Islands",11,2017,1
+KY,"Cayman Islands",12,2017,6
+CF,"Central African Republic",1,2018,2
+CF,"Central African Republic",5,2017,4
+CF,"Central African Republic",6,2017,2
+CF,"Central African Republic",8,2017,2
+CF,"Central African Republic",9,2017,6
+CF,"Central African Republic",11,2017,17
+TD,Chad,3,2017,16
+TD,Chad,10,2017,2
+TD,Chad,11,2017,1
+CL,Chile,1,2017,14232
+CL,Chile,1,2018,4114
+CL,Chile,2,2017,6587
+CL,Chile,2,2018,9920
+CL,Chile,3,2017,18640
+CL,Chile,4,2017,17949
+CL,Chile,5,2017,25243
+CL,Chile,6,2017,27550
+CL,Chile,7,2017,8545
+CL,Chile,8,2017,15917
+CL,Chile,9,2017,12334
+CL,Chile,10,2017,17097
+CL,Chile,11,2017,22200
+CL,Chile,12,2017,12864
+CN,China,1,2017,660885
+CN,China,1,2018,396988
+CN,China,2,2017,199384
+CN,China,2,2018,1403023
+CN,China,3,2017,309344
+CN,China,4,2017,391107
+CN,China,5,2017,545003
+CN,China,6,2017,293507
+CN,China,7,2017,443646
+CN,China,8,2017,357566
+CN,China,9,2017,315682
+CN,China,10,2017,811911
+CN,China,11,2017,1592851
+CN,China,12,2017,1277943
+CO,Colombia,1,2017,2204
+CO,Colombia,1,2018,1205
+CO,Colombia,2,2017,3894
+CO,Colombia,2,2018,6979
+CO,Colombia,3,2017,7621
+CO,Colombia,4,2017,5535
+CO,Colombia,5,2017,9459
+CO,Colombia,6,2017,16356
+CO,Colombia,7,2017,3221
+CO,Colombia,8,2017,12394
+CO,Colombia,9,2017,12588
+CO,Colombia,10,2017,33662
+CO,Colombia,11,2017,11206
+CO,Colombia,12,2017,6607
+CG,Congo,1,2017,4
+CG,Congo,1,2018,15
+CG,Congo,2,2017,20
+CG,Congo,2,2018,11
+CG,Congo,3,2017,18
+CG,Congo,4,2017,23
+CG,Congo,5,2017,34
+CG,Congo,6,2017,45
+CG,Congo,7,2017,6
+CG,Congo,8,2017,21
+CG,Congo,9,2017,65
+CG,Congo,10,2017,6
+CG,Congo,11,2017,9
+CG,Congo,12,2017,2
+CD,"Congo, The Democratic Republic of the",1,2017,6
+CD,"Congo, The Democratic Republic of the",1,2018,10
+CD,"Congo, The Democratic Republic of the",2,2017,9
+CD,"Congo, The Democratic Republic of the",2,2018,35
+CD,"Congo, The Democratic Republic of the",3,2017,3
+CD,"Congo, The Democratic Republic of the",4,2017,8
+CD,"Congo, The Democratic Republic of the",5,2017,31
+CD,"Congo, The Democratic Republic of the",6,2017,29
+CD,"Congo, The Democratic Republic of the",7,2017,45
+CD,"Congo, The Democratic Republic of the",8,2017,25
+CD,"Congo, The Democratic Republic of the",9,2017,9
+CD,"Congo, The Democratic Republic of the",10,2017,6
+CD,"Congo, The Democratic Republic of the",11,2017,19
+CD,"Congo, The Democratic Republic of the",12,2017,8
+CK,"Cook Islands",9,2017,1
+CR,"Costa Rica",1,2017,504
+CR,"Costa Rica",1,2018,236
+CR,"Costa Rica",2,2017,1088
+CR,"Costa Rica",2,2018,1054
+CR,"Costa Rica",3,2017,2589
+CR,"Costa Rica",4,2017,626
+CR,"Costa Rica",5,2017,4698
+CR,"Costa Rica",6,2017,1129
+CR,"Costa Rica",7,2017,296
+CR,"Costa Rica",8,2017,1220
+CR,"Costa Rica",9,2017,6364
+CR,"Costa Rica",10,2017,2042
+CR,"Costa Rica",11,2017,1040
+CR,"Costa Rica",12,2017,918
+CI,"Cote D'Ivoire",1,2017,173
+CI,"Cote D'Ivoire",1,2018,8969
+CI,"Cote D'Ivoire",2,2017,199
+CI,"Cote D'Ivoire",2,2018,375
+CI,"Cote D'Ivoire",3,2017,216
+CI,"Cote D'Ivoire",4,2017,278
+CI,"Cote D'Ivoire",5,2017,401
+CI,"Cote D'Ivoire",6,2017,375
+CI,"Cote D'Ivoire",7,2017,615
+CI,"Cote D'Ivoire",8,2017,392
+CI,"Cote D'Ivoire",9,2017,508
+CI,"Cote D'Ivoire",10,2017,559
+CI,"Cote D'Ivoire",11,2017,650
+CI,"Cote D'Ivoire",12,2017,443
+HR,Croatia,1,2017,2543
+HR,Croatia,1,2018,3947
+HR,Croatia,2,2017,1602
+HR,Croatia,2,2018,3997
+HR,Croatia,3,2017,2962
+HR,Croatia,4,2017,2454
+HR,Croatia,5,2017,2857
+HR,Croatia,6,2017,2709
+HR,Croatia,7,2017,1374
+HR,Croatia,8,2017,3682
+HR,Croatia,9,2017,4289
+HR,Croatia,10,2017,4592
+HR,Croatia,11,2017,5657
+HR,Croatia,12,2017,4234
+CU,Cuba,1,2017,247
+CU,Cuba,1,2018,8
+CU,Cuba,2,2017,104
+CU,Cuba,2,2018,68
+CU,Cuba,3,2017,106
+CU,Cuba,4,2017,181
+CU,Cuba,5,2017,153
+CU,Cuba,6,2017,270
+CU,Cuba,7,2017,19
+CU,Cuba,8,2017,301
+CU,Cuba,9,2017,248
+CU,Cuba,10,2017,77
+CU,Cuba,11,2017,215
+CU,Cuba,12,2017,313
+CW,Curacao,1,2017,42
+CW,Curacao,1,2018,11
+CW,Curacao,2,2017,34
+CW,Curacao,2,2018,10
+CW,Curacao,3,2017,43
+CW,Curacao,4,2017,36
+CW,Curacao,5,2017,52
+CW,Curacao,6,2017,29
+CW,Curacao,7,2017,47
+CW,Curacao,8,2017,81
+CW,Curacao,9,2017,99
+CW,Curacao,10,2017,48
+CW,Curacao,11,2017,24
+CW,Curacao,12,2017,54
+CY,Cyprus,1,2017,586
+CY,Cyprus,1,2018,170
+CY,Cyprus,2,2017,1165
+CY,Cyprus,2,2018,607
+CY,Cyprus,3,2017,1440
+CY,Cyprus,4,2017,275
+CY,Cyprus,5,2017,492
+CY,Cyprus,6,2017,747
+CY,Cyprus,7,2017,162
+CY,Cyprus,8,2017,290
+CY,Cyprus,9,2017,1401
+CY,Cyprus,10,2017,698
+CY,Cyprus,11,2017,515
+CY,Cyprus,12,2017,429
+CZ,"Czech Republic",1,2017,11364
+CZ,"Czech Republic",1,2018,4588
+CZ,"Czech Republic",2,2017,9904
+CZ,"Czech Republic",2,2018,8881
+CZ,"Czech Republic",3,2017,783005
+CZ,"Czech Republic",4,2017,10585
+CZ,"Czech Republic",5,2017,25218
+CZ,"Czech Republic",6,2017,8246
+CZ,"Czech Republic",7,2017,4203
+CZ,"Czech Republic",8,2017,7345
+CZ,"Czech Republic",9,2017,17100
+CZ,"Czech Republic",10,2017,16833
+CZ,"Czech Republic",11,2017,9827
+CZ,"Czech Republic",12,2017,8512
+DK,Denmark,1,2017,21541
+DK,Denmark,1,2018,10977
+DK,Denmark,2,2017,19640
+DK,Denmark,2,2018,17038
+DK,Denmark,3,2017,19359
+DK,Denmark,4,2017,18258
+DK,Denmark,5,2017,24997
+DK,Denmark,6,2017,28004
+DK,Denmark,7,2017,12274
+DK,Denmark,8,2017,19962
+DK,Denmark,9,2017,16646
+DK,Denmark,10,2017,22416
+DK,Denmark,11,2017,27739
+DK,Denmark,12,2017,19283
+DJ,Djibouti,1,2018,2
+DJ,Djibouti,2,2017,3
+DJ,Djibouti,2,2018,26
+DJ,Djibouti,5,2017,4
+DJ,Djibouti,8,2017,1
+DJ,Djibouti,9,2017,8
+DJ,Djibouti,10,2017,2
+DJ,Djibouti,11,2017,2
+DJ,Djibouti,12,2017,1
+DM,Dominica,1,2017,4
+DM,Dominica,2,2017,10
+DM,Dominica,2,2018,10
+DM,Dominica,3,2017,8
+DM,Dominica,4,2017,24
+DM,Dominica,5,2017,30
+DM,Dominica,6,2017,10
+DM,Dominica,7,2017,17
+DM,Dominica,8,2017,19
+DM,Dominica,9,2017,63
+DO,"Dominican Republic",1,2017,305
+DO,"Dominican Republic",1,2018,265
+DO,"Dominican Republic",2,2017,349
+DO,"Dominican Republic",2,2018,365
+DO,"Dominican Republic",3,2017,317
+DO,"Dominican Republic",4,2017,498
+DO,"Dominican Republic",5,2017,529
+DO,"Dominican Republic",6,2017,440
+DO,"Dominican Republic",7,2017,274
+DO,"Dominican Republic",8,2017,335
+DO,"Dominican Republic",9,2017,546
+DO,"Dominican Republic",10,2017,483
+DO,"Dominican Republic",11,2017,585
+DO,"Dominican Republic",12,2017,362
+EC,Ecuador,1,2017,1470
+EC,Ecuador,1,2018,669
+EC,Ecuador,2,2017,483
+EC,Ecuador,2,2018,888
+EC,Ecuador,3,2017,1350
+EC,Ecuador,4,2017,1508
+EC,Ecuador,5,2017,5323
+EC,Ecuador,6,2017,1190
+EC,Ecuador,7,2017,878
+EC,Ecuador,8,2017,1518
+EC,Ecuador,9,2017,1149
+EC,Ecuador,10,2017,7070
+EC,Ecuador,11,2017,1440
+EC,Ecuador,12,2017,763
+EG,Egypt,1,2017,3685
+EG,Egypt,1,2018,2943
+EG,Egypt,2,2017,5458
+EG,Egypt,2,2018,4840
+EG,Egypt,3,2017,6361
+EG,Egypt,4,2017,3616
+EG,Egypt,5,2017,3756
+EG,Egypt,6,2017,3892
+EG,Egypt,7,2017,3101
+EG,Egypt,8,2017,4317
+EG,Egypt,9,2017,5302
+EG,Egypt,10,2017,6745
+EG,Egypt,11,2017,6276
+EG,Egypt,12,2017,6053
+SV,"El Salvador",1,2017,37
+SV,"El Salvador",1,2018,11
+SV,"El Salvador",2,2017,56
+SV,"El Salvador",2,2018,29
+SV,"El Salvador",3,2017,188
+SV,"El Salvador",4,2017,56
+SV,"El Salvador",5,2017,74
+SV,"El Salvador",6,2017,65
+SV,"El Salvador",7,2017,36
+SV,"El Salvador",8,2017,87
+SV,"El Salvador",9,2017,183
+SV,"El Salvador",10,2017,95
+SV,"El Salvador",11,2017,104
+SV,"El Salvador",12,2017,114
+GQ,"Equatorial Guinea",1,2018,19
+GQ,"Equatorial Guinea",2,2017,10
+GQ,"Equatorial Guinea",2,2018,16
+GQ,"Equatorial Guinea",3,2017,4
+GQ,"Equatorial Guinea",4,2017,15
+GQ,"Equatorial Guinea",5,2017,27
+GQ,"Equatorial Guinea",6,2017,2
+GQ,"Equatorial Guinea",7,2017,14
+GQ,"Equatorial Guinea",8,2017,11
+GQ,"Equatorial Guinea",9,2017,26
+GQ,"Equatorial Guinea",10,2017,8
+GQ,"Equatorial Guinea",11,2017,27
+GQ,"Equatorial Guinea",12,2017,21
+EE,Estonia,1,2017,2778
+EE,Estonia,1,2018,2138
+EE,Estonia,2,2017,3629
+EE,Estonia,2,2018,4372
+EE,Estonia,3,2017,921
+EE,Estonia,4,2017,1790
+EE,Estonia,5,2017,2698
+EE,Estonia,6,2017,1368
+EE,Estonia,7,2017,772
+EE,Estonia,8,2017,2126
+EE,Estonia,9,2017,3244
+EE,Estonia,10,2017,2419
+EE,Estonia,11,2017,6355
+EE,Estonia,12,2017,9695
+ET,Ethiopia,1,2017,32
+ET,Ethiopia,1,2018,64
+ET,Ethiopia,2,2017,25
+ET,Ethiopia,2,2018,84
+ET,Ethiopia,3,2017,22
+ET,Ethiopia,4,2017,54
+ET,Ethiopia,5,2017,50
+ET,Ethiopia,6,2017,33
+ET,Ethiopia,7,2017,40
+ET,Ethiopia,8,2017,63
+ET,Ethiopia,9,2017,48
+ET,Ethiopia,10,2017,308
+ET,Ethiopia,11,2017,84
+ET,Ethiopia,12,2017,99
+EU,Europe,1,2017,10745
+EU,Europe,1,2018,2432
+EU,Europe,2,2017,1033
+EU,Europe,2,2018,10080
+EU,Europe,3,2017,2120
+EU,Europe,4,2017,2043
+EU,Europe,5,2017,20962
+EU,Europe,6,2017,3465
+EU,Europe,7,2017,3318
+EU,Europe,8,2017,1900
+EU,Europe,9,2017,942
+EU,Europe,10,2017,8234
+EU,Europe,11,2017,1475
+EU,Europe,12,2017,1552
+FO,"Faroe Islands",1,2017,6
+FO,"Faroe Islands",2,2017,18
+FO,"Faroe Islands",2,2018,14
+FO,"Faroe Islands",3,2017,2
+FO,"Faroe Islands",4,2017,10
+FO,"Faroe Islands",5,2017,2
+FO,"Faroe Islands",6,2017,4
+FO,"Faroe Islands",8,2017,3
+FO,"Faroe Islands",9,2017,2
+FO,"Faroe Islands",10,2017,2
+FO,"Faroe Islands",11,2017,7
+FO,"Faroe Islands",12,2017,2
+FJ,Fiji,1,2017,57
+FJ,Fiji,1,2018,8
+FJ,Fiji,2,2017,37
+FJ,Fiji,2,2018,20
+FJ,Fiji,3,2017,51
+FJ,Fiji,4,2017,62
+FJ,Fiji,5,2017,33
+FJ,Fiji,6,2017,53
+FJ,Fiji,7,2017,68
+FJ,Fiji,8,2017,108
+FJ,Fiji,9,2017,79
+FJ,Fiji,10,2017,61
+FJ,Fiji,11,2017,114
+FJ,Fiji,12,2017,87
+FI,Finland,1,2017,4148
+FI,Finland,1,2018,2272
+FI,Finland,2,2017,3088
+FI,Finland,2,2018,3050
+FI,Finland,3,2017,3776
+FI,Finland,4,2017,4588
+FI,Finland,5,2017,4423
+FI,Finland,6,2017,2715
+FI,Finland,7,2017,1354
+FI,Finland,8,2017,2231
+FI,Finland,9,2017,2703
+FI,Finland,10,2017,2782
+FI,Finland,11,2017,2912
+FI,Finland,12,2017,3390
+FR,France,1,2017,151462
+FR,France,1,2018,82204
+FR,France,2,2017,116596
+FR,France,2,2018,162736
+FR,France,3,2017,169195
+FR,France,4,2017,125124
+FR,France,5,2017,223241
+FR,France,6,2017,152325
+FR,France,7,2017,72352
+FR,France,8,2017,102656
+FR,France,9,2017,133221
+FR,France,10,2017,209163
+FR,France,11,2017,221220
+FR,France,12,2017,212023
+GF,"French Guiana",1,2017,15
+GF,"French Guiana",1,2018,18
+GF,"French Guiana",2,2017,50
+GF,"French Guiana",2,2018,4
+GF,"French Guiana",3,2017,38
+GF,"French Guiana",4,2017,71
+GF,"French Guiana",5,2017,33
+GF,"French Guiana",6,2017,39
+GF,"French Guiana",7,2017,31
+GF,"French Guiana",8,2017,22
+GF,"French Guiana",9,2017,22
+GF,"French Guiana",10,2017,9
+GF,"French Guiana",11,2017,60
+GF,"French Guiana",12,2017,4
+PF,"French Polynesia",1,2017,22
+PF,"French Polynesia",1,2018,14
+PF,"French Polynesia",2,2017,18
+PF,"French Polynesia",2,2018,48
+PF,"French Polynesia",3,2017,4
+PF,"French Polynesia",4,2017,4
+PF,"French Polynesia",5,2017,38
+PF,"French Polynesia",6,2017,67
+PF,"French Polynesia",7,2017,4
+PF,"French Polynesia",8,2017,25
+PF,"French Polynesia",9,2017,88
+PF,"French Polynesia",10,2017,43
+PF,"French Polynesia",11,2017,193
+PF,"French Polynesia",12,2017,8
+GA,Gabon,1,2017,55
+GA,Gabon,1,2018,55
+GA,Gabon,2,2017,20
+GA,Gabon,2,2018,58
+GA,Gabon,3,2017,61
+GA,Gabon,4,2017,109
+GA,Gabon,5,2017,119
+GA,Gabon,6,2017,129
+GA,Gabon,7,2017,90
+GA,Gabon,8,2017,72
+GA,Gabon,9,2017,99
+GA,Gabon,10,2017,90
+GA,Gabon,11,2017,206
+GA,Gabon,12,2017,47
+GE,Georgia,1,2017,347
+GE,Georgia,1,2018,695
+GE,Georgia,2,2017,487
+GE,Georgia,2,2018,623
+GE,Georgia,3,2017,592
+GE,Georgia,4,2017,709
+GE,Georgia,5,2017,633
+GE,Georgia,6,2017,683
+GE,Georgia,7,2017,356
+GE,Georgia,8,2017,539
+GE,Georgia,9,2017,679
+GE,Georgia,10,2017,671
+GE,Georgia,11,2017,689
+GE,Georgia,12,2017,634
+DE,Germany,1,2017,176364
+DE,Germany,1,2018,102781
+DE,Germany,2,2017,145320
+DE,Germany,2,2018,249610
+DE,Germany,3,2017,180746
+DE,Germany,4,2017,389082
+DE,Germany,5,2017,423420
+DE,Germany,6,2017,429430
+DE,Germany,7,2017,319024
+DE,Germany,8,2017,363469
+DE,Germany,9,2017,407905
+DE,Germany,10,2017,299464
+DE,Germany,11,2017,449594
+DE,Germany,12,2017,309176
+GH,Ghana,1,2017,447
+GH,Ghana,1,2018,245
+GH,Ghana,2,2017,274
+GH,Ghana,2,2018,924
+GH,Ghana,3,2017,468
+GH,Ghana,4,2017,667
+GH,Ghana,5,2017,374
+GH,Ghana,6,2017,615
+GH,Ghana,7,2017,194
+GH,Ghana,8,2017,578
+GH,Ghana,9,2017,519
+GH,Ghana,10,2017,555
+GH,Ghana,11,2017,850
+GH,Ghana,12,2017,677
+GI,Gibraltar,1,2017,11
+GI,Gibraltar,1,2018,2
+GI,Gibraltar,2,2017,10
+GI,Gibraltar,3,2017,6
+GI,Gibraltar,5,2017,4
+GI,Gibraltar,7,2017,2
+GI,Gibraltar,8,2017,2
+GI,Gibraltar,9,2017,25
+GI,Gibraltar,10,2017,4
+GI,Gibraltar,12,2017,12
+GR,Greece,1,2017,6198
+GR,Greece,1,2018,2332
+GR,Greece,2,2017,6535
+GR,Greece,2,2018,8418
+GR,Greece,3,2017,7615
+GR,Greece,4,2017,6612
+GR,Greece,5,2017,4654
+GR,Greece,6,2017,5748
+GR,Greece,7,2017,6269
+GR,Greece,8,2017,5932
+GR,Greece,9,2017,5925
+GR,Greece,10,2017,6377
+GR,Greece,11,2017,7186
+GR,Greece,12,2017,3970
+GL,Greenland,1,2017,2
+GL,Greenland,1,2018,20
+GL,Greenland,2,2018,8
+GL,Greenland,4,2017,2
+GL,Greenland,5,2017,14
+GL,Greenland,7,2017,4
+GL,Greenland,8,2017,2
+GL,Greenland,10,2017,4
+GL,Greenland,11,2017,2
+GL,Greenland,12,2017,28
+GD,Grenada,1,2017,34
+GD,Grenada,1,2018,22
+GD,Grenada,2,2017,38
+GD,Grenada,2,2018,23
+GD,Grenada,3,2017,35
+GD,Grenada,4,2017,36
+GD,Grenada,5,2017,55
+GD,Grenada,6,2017,43
+GD,Grenada,7,2017,12
+GD,Grenada,8,2017,47
+GD,Grenada,9,2017,27
+GD,Grenada,10,2017,49
+GD,Grenada,11,2017,25
+GD,Grenada,12,2017,14
+GP,Guadeloupe,1,2017,21
+GP,Guadeloupe,1,2018,26
+GP,Guadeloupe,2,2017,20
+GP,Guadeloupe,2,2018,63
+GP,Guadeloupe,3,2017,13
+GP,Guadeloupe,4,2017,28
+GP,Guadeloupe,5,2017,45
+GP,Guadeloupe,6,2017,75
+GP,Guadeloupe,7,2017,74
+GP,Guadeloupe,8,2017,65
+GP,Guadeloupe,9,2017,69
+GP,Guadeloupe,10,2017,46
+GP,Guadeloupe,11,2017,40
+GP,Guadeloupe,12,2017,41
+GU,Guam,1,2018,4
+GU,Guam,2,2017,6
+GU,Guam,3,2017,12
+GU,Guam,4,2017,2
+GU,Guam,5,2017,1
+GU,Guam,6,2017,2
+GU,Guam,7,2017,2
+GU,Guam,8,2017,4
+GU,Guam,9,2017,36
+GU,Guam,10,2017,7
+GU,Guam,11,2017,9
+GU,Guam,12,2017,4
+GT,Guatemala,1,2017,95
+GT,Guatemala,1,2018,35
+GT,Guatemala,2,2017,140
+GT,Guatemala,2,2018,237
+GT,Guatemala,3,2017,278
+GT,Guatemala,4,2017,98
+GT,Guatemala,5,2017,1827
+GT,Guatemala,6,2017,210
+GT,Guatemala,7,2017,92
+GT,Guatemala,8,2017,115
+GT,Guatemala,9,2017,176
+GT,Guatemala,10,2017,198
+GT,Guatemala,11,2017,158
+GT,Guatemala,12,2017,145
+GG,Guernsey,1,2017,5
+GG,Guernsey,1,2018,7
+GG,Guernsey,2,2018,9
+GG,Guernsey,3,2017,1
+GG,Guernsey,4,2017,16
+GG,Guernsey,6,2017,4
+GG,Guernsey,7,2017,4
+GG,Guernsey,8,2017,26
+GG,Guernsey,11,2017,16
+GG,Guernsey,12,2017,4
+GW,Guinea-Bissau,5,2017,2
+GW,Guinea-Bissau,6,2017,6
+GW,Guinea-Bissau,8,2017,4
+GW,Guinea-Bissau,9,2017,2
+GW,Guinea-Bissau,10,2017,2
+GY,Guyana,1,2017,24
+GY,Guyana,1,2018,14
+GY,Guyana,2,2017,20
+GY,Guyana,2,2018,110
+GY,Guyana,3,2017,22
+GY,Guyana,4,2017,48
+GY,Guyana,5,2017,37
+GY,Guyana,6,2017,34
+GY,Guyana,7,2017,28
+GY,Guyana,8,2017,93
+GY,Guyana,9,2017,149
+GY,Guyana,10,2017,103
+GY,Guyana,11,2017,73
+GY,Guyana,12,2017,36
+HT,Haiti,9,2017,3
+HT,Haiti,10,2017,16
+HN,Honduras,1,2017,32
+HN,Honduras,1,2018,63
+HN,Honduras,2,2017,92
+HN,Honduras,2,2018,136
+HN,Honduras,3,2017,78
+HN,Honduras,4,2017,27
+HN,Honduras,5,2017,103
+HN,Honduras,6,2017,94
+HN,Honduras,7,2017,91
+HN,Honduras,8,2017,98
+HN,Honduras,9,2017,154
+HN,Honduras,10,2017,265
+HN,Honduras,11,2017,81
+HN,Honduras,12,2017,103
+HK,"Hong Kong",1,2017,17155
+HK,"Hong Kong",1,2018,8498
+HK,"Hong Kong",2,2017,25786
+HK,"Hong Kong",2,2018,11650
+HK,"Hong Kong",3,2017,23891
+HK,"Hong Kong",4,2017,14298
+HK,"Hong Kong",5,2017,16262
+HK,"Hong Kong",6,2017,16774
+HK,"Hong Kong",7,2017,12498
+HK,"Hong Kong",8,2017,21965
+HK,"Hong Kong",9,2017,18043
+HK,"Hong Kong",10,2017,17008
+HK,"Hong Kong",11,2017,20967
+HK,"Hong Kong",12,2017,13294
+HU,Hungary,1,2017,12143
+HU,Hungary,1,2018,5139
+HU,Hungary,2,2017,7193
+HU,Hungary,2,2018,7841
+HU,Hungary,3,2017,6371
+HU,Hungary,4,2017,6254
+HU,Hungary,5,2017,8291
+HU,Hungary,6,2017,6538
+HU,Hungary,7,2017,5236
+HU,Hungary,8,2017,7720
+HU,Hungary,9,2017,8886
+HU,Hungary,10,2017,10300
+HU,Hungary,11,2017,8522
+HU,Hungary,12,2017,7140
+IS,Iceland,1,2017,144
+IS,Iceland,1,2018,341
+IS,Iceland,2,2017,89
+IS,Iceland,2,2018,157
+IS,Iceland,3,2017,309
+IS,Iceland,4,2017,61
+IS,Iceland,5,2017,177
+IS,Iceland,6,2017,166
+IS,Iceland,7,2017,51
+IS,Iceland,8,2017,89
+IS,Iceland,9,2017,414
+IS,Iceland,10,2017,462
+IS,Iceland,11,2017,172
+IS,Iceland,12,2017,159
+IN,India,1,2017,124245
+IN,India,1,2018,70469
+IN,India,2,2017,102283
+IN,India,2,2018,141930
+IN,India,3,2017,114991
+IN,India,4,2017,182211
+IN,India,5,2017,157985
+IN,India,6,2017,110733
+IN,India,7,2017,94280
+IN,India,8,2017,108139
+IN,India,9,2017,131596
+IN,India,10,2017,148125
+IN,India,11,2017,149934
+IN,India,12,2017,157990
+ID,Indonesia,1,2017,4479
+ID,Indonesia,1,2018,3151
+ID,Indonesia,2,2017,3082
+ID,Indonesia,2,2018,6395
+ID,Indonesia,3,2017,5152
+ID,Indonesia,4,2017,5620
+ID,Indonesia,5,2017,5876
+ID,Indonesia,6,2017,4844
+ID,Indonesia,7,2017,3654
+ID,Indonesia,8,2017,6042
+ID,Indonesia,9,2017,7404
+ID,Indonesia,10,2017,8662
+ID,Indonesia,11,2017,7081
+ID,Indonesia,12,2017,6247
+IR,"Iran, Islamic Republic of",1,2017,9877
+IR,"Iran, Islamic Republic of",1,2018,5596
+IR,"Iran, Islamic Republic of",2,2017,8791
+IR,"Iran, Islamic Republic of",2,2018,7669
+IR,"Iran, Islamic Republic of",3,2017,5925
+IR,"Iran, Islamic Republic of",4,2017,6086
+IR,"Iran, Islamic Republic of",5,2017,10116
+IR,"Iran, Islamic Republic of",6,2017,9598
+IR,"Iran, Islamic Republic of",7,2017,4544
+IR,"Iran, Islamic Republic of",8,2017,6687
+IR,"Iran, Islamic Republic of",9,2017,8680
+IR,"Iran, Islamic Republic of",10,2017,9861
+IR,"Iran, Islamic Republic of",11,2017,16557
+IR,"Iran, Islamic Republic of",12,2017,12665
+IQ,Iraq,1,2017,990
+IQ,Iraq,1,2018,453
+IQ,Iraq,2,2017,467
+IQ,Iraq,2,2018,1023
+IQ,Iraq,3,2017,764
+IQ,Iraq,4,2017,564
+IQ,Iraq,5,2017,673
+IQ,Iraq,6,2017,798
+IQ,Iraq,7,2017,417
+IQ,Iraq,8,2017,814
+IQ,Iraq,9,2017,1171
+IQ,Iraq,10,2017,760
+IQ,Iraq,11,2017,1188
+IQ,Iraq,12,2017,722
+IE,Ireland,1,2017,11696
+IE,Ireland,1,2018,5143
+IE,Ireland,2,2017,7345
+IE,Ireland,2,2018,14140
+IE,Ireland,3,2017,9780
+IE,Ireland,4,2017,7184
+IE,Ireland,5,2017,6674
+IE,Ireland,6,2017,5964
+IE,Ireland,7,2017,5580
+IE,Ireland,8,2017,7460
+IE,Ireland,9,2017,11011
+IE,Ireland,10,2017,11581
+IE,Ireland,11,2017,12153
+IE,Ireland,12,2017,7986
+IM,"Isle of Man",1,2017,13
+IM,"Isle of Man",1,2018,14
+IM,"Isle of Man",2,2017,2
+IM,"Isle of Man",2,2018,2
+IM,"Isle of Man",4,2017,30
+IM,"Isle of Man",5,2017,6
+IM,"Isle of Man",6,2017,8
+IM,"Isle of Man",7,2017,2
+IM,"Isle of Man",9,2017,25
+IM,"Isle of Man",10,2017,14
+IM,"Isle of Man",11,2017,20
+IM,"Isle of Man",12,2017,6
+IL,Israel,1,2017,24527
+IL,Israel,1,2018,8066
+IL,Israel,2,2017,13953
+IL,Israel,2,2018,11480
+IL,Israel,3,2017,19434
+IL,Israel,4,2017,12253
+IL,Israel,5,2017,16857
+IL,Israel,6,2017,19643
+IL,Israel,7,2017,13524
+IL,Israel,8,2017,16155
+IL,Israel,9,2017,14938
+IL,Israel,10,2017,15606
+IL,Israel,11,2017,18016
+IL,Israel,12,2017,27867
+IT,Italy,1,2017,32733
+IT,Italy,1,2018,19550
+IT,Italy,2,2017,33503
+IT,Italy,2,2018,39396
+IT,Italy,3,2017,38431
+IT,Italy,4,2017,28448
+IT,Italy,5,2017,42382
+IT,Italy,6,2017,34216
+IT,Italy,7,2017,20856
+IT,Italy,8,2017,24000
+IT,Italy,9,2017,44702
+IT,Italy,10,2017,46703
+IT,Italy,11,2017,40945
+IT,Italy,12,2017,49881
+JM,Jamaica,1,2017,332
+JM,Jamaica,1,2018,152
+JM,Jamaica,2,2017,374
+JM,Jamaica,2,2018,404
+JM,Jamaica,3,2017,317
+JM,Jamaica,4,2017,367
+JM,Jamaica,5,2017,476
+JM,Jamaica,6,2017,383
+JM,Jamaica,7,2017,295
+JM,Jamaica,8,2017,371
+JM,Jamaica,9,2017,436
+JM,Jamaica,10,2017,378
+JM,Jamaica,11,2017,424
+JM,Jamaica,12,2017,430
+JP,Japan,1,2017,185923
+JP,Japan,1,2018,88716
+JP,Japan,2,2017,189184
+JP,Japan,2,2018,199859
+JP,Japan,3,2017,141755
+JP,Japan,4,2017,176185
+JP,Japan,5,2017,206829
+JP,Japan,6,2017,209807
+JP,Japan,7,2017,129780
+JP,Japan,8,2017,169281
+JP,Japan,9,2017,212719
+JP,Japan,10,2017,226118
+JP,Japan,11,2017,232970
+JP,Japan,12,2017,238689
+JE,Jersey,1,2017,17
+JE,Jersey,1,2018,24
+JE,Jersey,2,2017,24
+JE,Jersey,2,2018,5
+JE,Jersey,8,2017,100
+JE,Jersey,9,2017,13
+JE,Jersey,10,2017,17
+JE,Jersey,11,2017,15
+JE,Jersey,12,2017,7
+JO,Jordan,1,2017,696
+JO,Jordan,1,2018,410
+JO,Jordan,2,2017,740
+JO,Jordan,2,2018,586
+JO,Jordan,3,2017,1433
+JO,Jordan,4,2017,682
+JO,Jordan,5,2017,545
+JO,Jordan,6,2017,441
+JO,Jordan,7,2017,399
+JO,Jordan,8,2017,545
+JO,Jordan,9,2017,472
+JO,Jordan,10,2017,1208
+JO,Jordan,11,2017,937
+JO,Jordan,12,2017,795
+KZ,Kazakhstan,1,2017,184
+KZ,Kazakhstan,1,2018,255
+KZ,Kazakhstan,2,2017,2171
+KZ,Kazakhstan,2,2018,497
+KZ,Kazakhstan,3,2017,651
+KZ,Kazakhstan,4,2017,1376
+KZ,Kazakhstan,5,2017,1147
+KZ,Kazakhstan,6,2017,310
+KZ,Kazakhstan,7,2017,144
+KZ,Kazakhstan,8,2017,735
+KZ,Kazakhstan,9,2017,365
+KZ,Kazakhstan,10,2017,647
+KZ,Kazakhstan,11,2017,1234
+KZ,Kazakhstan,12,2017,503
+KE,Kenya,1,2017,956
+KE,Kenya,1,2018,468
+KE,Kenya,2,2017,661
+KE,Kenya,2,2018,729
+KE,Kenya,3,2017,210
+KE,Kenya,4,2017,129
+KE,Kenya,5,2017,256
+KE,Kenya,6,2017,291
+KE,Kenya,7,2017,390
+KE,Kenya,8,2017,1639
+KE,Kenya,9,2017,185
+KE,Kenya,10,2017,273
+KE,Kenya,11,2017,251
+KE,Kenya,12,2017,144
+KP,"Korea, Democratic People's Republic of",1,2018,1
+KR,"Korea, Republic of",1,2017,98323
+KR,"Korea, Republic of",1,2018,68980
+KR,"Korea, Republic of",2,2017,79434
+KR,"Korea, Republic of",2,2018,95549
+KR,"Korea, Republic of",3,2017,103766
+KR,"Korea, Republic of",4,2017,107307
+KR,"Korea, Republic of",5,2017,117816
+KR,"Korea, Republic of",6,2017,102730
+KR,"Korea, Republic of",7,2017,73968
+KR,"Korea, Republic of",8,2017,96340
+KR,"Korea, Republic of",9,2017,99039
+KR,"Korea, Republic of",10,2017,87932
+KR,"Korea, Republic of",11,2017,128267
+KR,"Korea, Republic of",12,2017,146896
+KW,Kuwait,1,2017,352
+KW,Kuwait,1,2018,177
+KW,Kuwait,2,2017,314
+KW,Kuwait,2,2018,326
+KW,Kuwait,3,2017,287
+KW,Kuwait,4,2017,332
+KW,Kuwait,5,2017,577
+KW,Kuwait,6,2017,578
+KW,Kuwait,7,2017,330
+KW,Kuwait,8,2017,510
+KW,Kuwait,9,2017,578
+KW,Kuwait,10,2017,571
+KW,Kuwait,11,2017,2270
+KW,Kuwait,12,2017,433
+KG,Kyrgyzstan,1,2017,28
+KG,Kyrgyzstan,1,2018,9
+KG,Kyrgyzstan,2,2017,20
+KG,Kyrgyzstan,2,2018,31
+KG,Kyrgyzstan,3,2017,100
+KG,Kyrgyzstan,4,2017,34
+KG,Kyrgyzstan,5,2017,43
+KG,Kyrgyzstan,6,2017,29
+KG,Kyrgyzstan,7,2017,19
+KG,Kyrgyzstan,8,2017,9
+KG,Kyrgyzstan,9,2017,58
+KG,Kyrgyzstan,10,2017,74
+KG,Kyrgyzstan,11,2017,92
+KG,Kyrgyzstan,12,2017,46
+LA,"Lao People's Democratic Republic",1,2017,26
+LA,"Lao People's Democratic Republic",1,2018,67
+LA,"Lao People's Democratic Republic",2,2017,21
+LA,"Lao People's Democratic Republic",2,2018,64
+LA,"Lao People's Democratic Republic",3,2017,92
+LA,"Lao People's Democratic Republic",4,2017,59
+LA,"Lao People's Democratic Republic",5,2017,32
+LA,"Lao People's Democratic Republic",6,2017,49
+LA,"Lao People's Democratic Republic",7,2017,5
+LA,"Lao People's Democratic Republic",8,2017,46
+LA,"Lao People's Democratic Republic",9,2017,29
+LA,"Lao People's Democratic Republic",10,2017,56
+LA,"Lao People's Democratic Republic",11,2017,49
+LA,"Lao People's Democratic Republic",12,2017,22
+LV,Latvia,1,2017,1294
+LV,Latvia,1,2018,225
+LV,Latvia,2,2017,1186
+LV,Latvia,2,2018,687
+LV,Latvia,3,2017,1035
+LV,Latvia,4,2017,883
+LV,Latvia,5,2017,715
+LV,Latvia,6,2017,1051
+LV,Latvia,7,2017,342
+LV,Latvia,8,2017,981
+LV,Latvia,9,2017,647
+LV,Latvia,10,2017,809
+LV,Latvia,11,2017,569
+LV,Latvia,12,2017,1006
+LB,Lebanon,1,2017,350
+LB,Lebanon,1,2018,378
+LB,Lebanon,2,2017,265
+LB,Lebanon,2,2018,857
+LB,Lebanon,3,2017,303
+LB,Lebanon,4,2017,272
+LB,Lebanon,5,2017,628
+LB,Lebanon,6,2017,330
+LB,Lebanon,7,2017,378
+LB,Lebanon,8,2017,382
+LB,Lebanon,9,2017,515
+LB,Lebanon,10,2017,653
+LB,Lebanon,11,2017,606
+LB,Lebanon,12,2017,508
+LS,Lesotho,1,2017,29
+LS,Lesotho,1,2018,4
+LS,Lesotho,2,2017,8
+LS,Lesotho,2,2018,45
+LS,Lesotho,3,2017,9
+LS,Lesotho,5,2017,13
+LS,Lesotho,8,2017,9
+LS,Lesotho,9,2017,6
+LS,Lesotho,10,2017,18
+LS,Lesotho,11,2017,7
+LS,Lesotho,12,2017,10
+LR,Liberia,2,2018,2
+LR,Liberia,6,2017,4
+LR,Liberia,9,2017,6
+LR,Liberia,12,2017,15
+LY,Libya,1,2017,81
+LY,Libya,1,2018,93
+LY,Libya,2,2017,112
+LY,Libya,2,2018,160
+LY,Libya,3,2017,209
+LY,Libya,4,2017,98
+LY,Libya,5,2017,144
+LY,Libya,6,2017,94
+LY,Libya,7,2017,83
+LY,Libya,8,2017,209
+LY,Libya,9,2017,195
+LY,Libya,10,2017,227
+LY,Libya,11,2017,131
+LY,Libya,12,2017,143
+LI,Liechtenstein,1,2018,3
+LI,Liechtenstein,5,2017,10
+LI,Liechtenstein,6,2017,2
+LI,Liechtenstein,9,2017,5
+LI,Liechtenstein,12,2017,2
+LT,Lithuania,1,2017,2291
+LT,Lithuania,1,2018,1223
+LT,Lithuania,2,2017,1386
+LT,Lithuania,2,2018,1091
+LT,Lithuania,3,2017,1944
+LT,Lithuania,4,2017,2078
+LT,Lithuania,5,2017,1802
+LT,Lithuania,6,2017,1134
+LT,Lithuania,7,2017,611
+LT,Lithuania,8,2017,1260
+LT,Lithuania,9,2017,1946
+LT,Lithuania,10,2017,1791
+LT,Lithuania,11,2017,12131
+LT,Lithuania,12,2017,3568
+LU,Luxembourg,1,2017,581
+LU,Luxembourg,1,2018,1966
+LU,Luxembourg,2,2017,689
+LU,Luxembourg,2,2018,10074
+LU,Luxembourg,3,2017,777
+LU,Luxembourg,4,2017,1620
+LU,Luxembourg,5,2017,2904
+LU,Luxembourg,6,2017,1229
+LU,Luxembourg,7,2017,905
+LU,Luxembourg,8,2017,1466
+LU,Luxembourg,9,2017,966
+LU,Luxembourg,10,2017,3626
+LU,Luxembourg,11,2017,3256
+LU,Luxembourg,12,2017,2913
+MO,Macau,1,2017,421
+MO,Macau,1,2018,53
+MO,Macau,2,2017,128
+MO,Macau,2,2018,1782
+MO,Macau,3,2017,211
+MO,Macau,4,2017,93
+MO,Macau,5,2017,154
+MO,Macau,6,2017,168
+MO,Macau,7,2017,107
+MO,Macau,8,2017,412
+MO,Macau,9,2017,192
+MO,Macau,10,2017,1119
+MO,Macau,11,2017,170
+MO,Macau,12,2017,80
+MK,Macedonia,1,2017,703
+MK,Macedonia,1,2018,391
+MK,Macedonia,2,2017,584
+MK,Macedonia,2,2018,630
+MK,Macedonia,3,2017,662
+MK,Macedonia,4,2017,536
+MK,Macedonia,5,2017,866
+MK,Macedonia,6,2017,759
+MK,Macedonia,7,2017,431
+MK,Macedonia,8,2017,724
+MK,Macedonia,9,2017,963
+MK,Macedonia,10,2017,851
+MK,Macedonia,11,2017,882
+MK,Macedonia,12,2017,660
+MG,Madagascar,1,2017,6
+MG,Madagascar,1,2018,7
+MG,Madagascar,2,2017,12
+MG,Madagascar,2,2018,28
+MG,Madagascar,3,2017,43
+MG,Madagascar,4,2017,44
+MG,Madagascar,5,2017,66
+MG,Madagascar,6,2017,13
+MG,Madagascar,7,2017,6
+MG,Madagascar,8,2017,43
+MG,Madagascar,9,2017,40
+MG,Madagascar,10,2017,8
+MG,Madagascar,11,2017,31
+MG,Madagascar,12,2017,28
+MW,Malawi,1,2017,2
+MW,Malawi,2,2017,2
+MW,Malawi,2,2018,50
+MW,Malawi,3,2017,2
+MW,Malawi,4,2017,8
+MW,Malawi,5,2017,5
+MW,Malawi,6,2017,29
+MW,Malawi,7,2017,22
+MW,Malawi,8,2017,8
+MW,Malawi,9,2017,14
+MW,Malawi,10,2017,15
+MW,Malawi,12,2017,314
+MY,Malaysia,1,2017,10210
+MY,Malaysia,1,2018,5066
+MY,Malaysia,2,2017,7404
+MY,Malaysia,2,2018,8576
+MY,Malaysia,3,2017,6977
+MY,Malaysia,4,2017,6760
+MY,Malaysia,5,2017,9229
+MY,Malaysia,6,2017,7072
+MY,Malaysia,7,2017,5646
+MY,Malaysia,8,2017,10414
+MY,Malaysia,9,2017,11425
+MY,Malaysia,10,2017,11852
+MY,Malaysia,11,2017,16954
+MY,Malaysia,12,2017,17284
+MV,Maldives,1,2017,114
+MV,Maldives,1,2018,45
+MV,Maldives,2,2017,97
+MV,Maldives,2,2018,75
+MV,Maldives,3,2017,97
+MV,Maldives,4,2017,107
+MV,Maldives,5,2017,44
+MV,Maldives,6,2017,182
+MV,Maldives,7,2017,96
+MV,Maldives,8,2017,203
+MV,Maldives,9,2017,182
+MV,Maldives,10,2017,192
+MV,Maldives,11,2017,111
+MV,Maldives,12,2017,133
+ML,Mali,1,2018,3
+ML,Mali,2,2017,2
+ML,Mali,2,2018,12
+ML,Mali,4,2017,2
+ML,Mali,5,2017,2
+ML,Mali,6,2017,3
+ML,Mali,8,2017,11
+ML,Mali,10,2017,17
+ML,Mali,11,2017,9
+ML,Mali,12,2017,2
+MT,Malta,1,2017,193
+MT,Malta,1,2018,89
+MT,Malta,2,2017,144
+MT,Malta,2,2018,197
+MT,Malta,3,2017,227
+MT,Malta,4,2017,153
+MT,Malta,5,2017,226
+MT,Malta,6,2017,162
+MT,Malta,7,2017,138
+MT,Malta,8,2017,114
+MT,Malta,9,2017,234
+MT,Malta,10,2017,142
+MT,Malta,11,2017,164
+MT,Malta,12,2017,194
+MH,"Marshall Islands",1,2017,2
+MH,"Marshall Islands",2,2017,12
+MH,"Marshall Islands",3,2017,2
+MH,"Marshall Islands",11,2017,2
+MQ,Martinique,1,2017,92
+MQ,Martinique,1,2018,17
+MQ,Martinique,2,2017,13
+MQ,Martinique,2,2018,44
+MQ,Martinique,3,2017,58
+MQ,Martinique,4,2017,20
+MQ,Martinique,5,2017,30
+MQ,Martinique,6,2017,62
+MQ,Martinique,7,2017,22
+MQ,Martinique,8,2017,44
+MQ,Martinique,9,2017,46
+MQ,Martinique,10,2017,60
+MQ,Martinique,11,2017,77
+MQ,Martinique,12,2017,79
+MR,Mauritania,1,2017,35
+MR,Mauritania,1,2018,66
+MR,Mauritania,2,2017,19
+MR,Mauritania,2,2018,72
+MR,Mauritania,3,2017,69
+MR,Mauritania,4,2017,47
+MR,Mauritania,5,2017,58
+MR,Mauritania,6,2017,42
+MR,Mauritania,7,2017,55
+MR,Mauritania,8,2017,10
+MR,Mauritania,9,2017,20
+MR,Mauritania,10,2017,34
+MR,Mauritania,11,2017,29
+MR,Mauritania,12,2017,20
+MU,Mauritius,1,2017,397
+MU,Mauritius,1,2018,310
+MU,Mauritius,2,2017,186
+MU,Mauritius,2,2018,360
+MU,Mauritius,3,2017,505
+MU,Mauritius,4,2017,441
+MU,Mauritius,5,2017,474
+MU,Mauritius,6,2017,332
+MU,Mauritius,7,2017,262
+MU,Mauritius,8,2017,451
+MU,Mauritius,9,2017,391
+MU,Mauritius,10,2017,562
+MU,Mauritius,11,2017,682
+MU,Mauritius,12,2017,494
+YT,Mayotte,1,2017,2
+YT,Mayotte,1,2018,2
+YT,Mayotte,2,2017,13
+YT,Mayotte,2,2018,3
+YT,Mayotte,3,2017,12
+YT,Mayotte,4,2017,12
+YT,Mayotte,6,2017,11
+YT,Mayotte,8,2017,40
+YT,Mayotte,9,2017,38
+YT,Mayotte,11,2017,6
+YT,Mayotte,12,2017,6
+MX,Mexico,1,2017,29976
+MX,Mexico,1,2018,8531
+MX,Mexico,2,2017,30406
+MX,Mexico,2,2018,43597
+MX,Mexico,3,2017,55091
+MX,Mexico,4,2017,85555
+MX,Mexico,5,2017,77567
+MX,Mexico,6,2017,56256
+MX,Mexico,7,2017,21766
+MX,Mexico,8,2017,50470
+MX,Mexico,9,2017,48635
+MX,Mexico,10,2017,42208
+MX,Mexico,11,2017,65762
+MX,Mexico,12,2017,62684
+FM,"Micronesia, Federated States of",1,2018,14
+FM,"Micronesia, Federated States of",2,2017,4
+FM,"Micronesia, Federated States of",3,2017,17
+FM,"Micronesia, Federated States of",4,2017,4
+FM,"Micronesia, Federated States of",5,2017,4
+FM,"Micronesia, Federated States of",8,2017,26
+FM,"Micronesia, Federated States of",9,2017,6
+MD,"Moldova, Republic of",1,2017,304
+MD,"Moldova, Republic of",1,2018,194
+MD,"Moldova, Republic of",2,2017,325
+MD,"Moldova, Republic of",2,2018,660
+MD,"Moldova, Republic of",3,2017,279
+MD,"Moldova, Republic of",4,2017,411
+MD,"Moldova, Republic of",5,2017,387
+MD,"Moldova, Republic of",6,2017,420
+MD,"Moldova, Republic of",7,2017,193
+MD,"Moldova, Republic of",8,2017,351
+MD,"Moldova, Republic of",9,2017,302
+MD,"Moldova, Republic of",10,2017,255
+MD,"Moldova, Republic of",11,2017,619
+MD,"Moldova, Republic of",12,2017,712
+MC,Monaco,2,2018,7
+MC,Monaco,3,2017,12
+MC,Monaco,5,2017,8
+MC,Monaco,6,2017,2
+MC,Monaco,7,2017,6
+MC,Monaco,8,2017,4
+MC,Monaco,10,2017,8
+MN,Mongolia,1,2017,435
+MN,Mongolia,1,2018,172
+MN,Mongolia,2,2017,230
+MN,Mongolia,2,2018,184
+MN,Mongolia,3,2017,411
+MN,Mongolia,4,2017,435
+MN,Mongolia,5,2017,511
+MN,Mongolia,6,2017,428
+MN,Mongolia,7,2017,323
+MN,Mongolia,8,2017,475
+MN,Mongolia,9,2017,630
+MN,Mongolia,10,2017,598
+MN,Mongolia,11,2017,616
+MN,Mongolia,12,2017,465
+ME,Montenegro,1,2017,257
+ME,Montenegro,1,2018,68
+ME,Montenegro,2,2017,148
+ME,Montenegro,2,2018,186
+ME,Montenegro,3,2017,163
+ME,Montenegro,4,2017,260
+ME,Montenegro,5,2017,146
+ME,Montenegro,6,2017,285
+ME,Montenegro,7,2017,85
+ME,Montenegro,8,2017,184
+ME,Montenegro,9,2017,211
+ME,Montenegro,10,2017,262
+ME,Montenegro,11,2017,390
+ME,Montenegro,12,2017,234
+MA,Morocco,1,2017,1867
+MA,Morocco,1,2018,2079
+MA,Morocco,2,2017,1570
+MA,Morocco,2,2018,2835
+MA,Morocco,3,2017,2591
+MA,Morocco,4,2017,1715
+MA,Morocco,5,2017,2486
+MA,Morocco,6,2017,2341
+MA,Morocco,7,2017,1434
+MA,Morocco,8,2017,2387
+MA,Morocco,9,2017,2690
+MA,Morocco,10,2017,3012
+MA,Morocco,11,2017,3259
+MA,Morocco,12,2017,2985
+MZ,Mozambique,2,2017,1
+MZ,Mozambique,2,2018,22
+MZ,Mozambique,4,2017,2
+MZ,Mozambique,6,2017,3
+MZ,Mozambique,8,2017,1
+MZ,Mozambique,9,2017,5
+MZ,Mozambique,11,2017,1
+MM,Myanmar,1,2017,40
+MM,Myanmar,1,2018,96
+MM,Myanmar,2,2017,123
+MM,Myanmar,2,2018,149
+MM,Myanmar,3,2017,58
+MM,Myanmar,4,2017,62
+MM,Myanmar,5,2017,15
+MM,Myanmar,6,2017,89
+MM,Myanmar,7,2017,82
+MM,Myanmar,8,2017,158
+MM,Myanmar,9,2017,205
+MM,Myanmar,10,2017,152
+MM,Myanmar,11,2017,207
+MM,Myanmar,12,2017,94
+NA,Namibia,1,2017,100
+NA,Namibia,1,2018,116
+NA,Namibia,2,2017,73
+NA,Namibia,2,2018,160
+NA,Namibia,3,2017,1954
+NA,Namibia,4,2017,208
+NA,Namibia,5,2017,156
+NA,Namibia,6,2017,115
+NA,Namibia,7,2017,65
+NA,Namibia,8,2017,149
+NA,Namibia,9,2017,123
+NA,Namibia,10,2017,146
+NA,Namibia,11,2017,172
+NA,Namibia,12,2017,96
+NR,Nauru,1,2017,20
+NP,Nepal,1,2017,354
+NP,Nepal,1,2018,60
+NP,Nepal,2,2017,254
+NP,Nepal,2,2018,281
+NP,Nepal,3,2017,210
+NP,Nepal,4,2017,305
+NP,Nepal,5,2017,353
+NP,Nepal,6,2017,199
+NP,Nepal,7,2017,70
+NP,Nepal,8,2017,367
+NP,Nepal,9,2017,192
+NP,Nepal,10,2017,316
+NP,Nepal,11,2017,198
+NP,Nepal,12,2017,226
+NL,Netherlands,1,2017,32524
+NL,Netherlands,1,2018,12890
+NL,Netherlands,2,2017,31509
+NL,Netherlands,2,2018,27013
+NL,Netherlands,3,2017,33316
+NL,Netherlands,4,2017,24775
+NL,Netherlands,5,2017,34109
+NL,Netherlands,6,2017,28973
+NL,Netherlands,7,2017,20258
+NL,Netherlands,8,2017,21803
+NL,Netherlands,9,2017,41834
+NL,Netherlands,10,2017,40350
+NL,Netherlands,11,2017,48709
+NL,Netherlands,12,2017,30834
+NC,"New Caledonia",1,2017,82
+NC,"New Caledonia",1,2018,6
+NC,"New Caledonia",2,2017,4
+NC,"New Caledonia",2,2018,19
+NC,"New Caledonia",3,2017,6
+NC,"New Caledonia",4,2017,8
+NC,"New Caledonia",5,2017,29
+NC,"New Caledonia",6,2017,27
+NC,"New Caledonia",7,2017,26
+NC,"New Caledonia",8,2017,44
+NC,"New Caledonia",9,2017,94
+NC,"New Caledonia",10,2017,37
+NC,"New Caledonia",11,2017,172
+NC,"New Caledonia",12,2017,8
+NZ,"New Zealand",1,2017,3354
+NZ,"New Zealand",1,2018,1521
+NZ,"New Zealand",2,2017,3151
+NZ,"New Zealand",2,2018,3733
+NZ,"New Zealand",3,2017,6059
+NZ,"New Zealand",4,2017,8177
+NZ,"New Zealand",5,2017,4584
+NZ,"New Zealand",6,2017,4319
+NZ,"New Zealand",7,2017,2166
+NZ,"New Zealand",8,2017,6239
+NZ,"New Zealand",9,2017,4583
+NZ,"New Zealand",10,2017,5135
+NZ,"New Zealand",11,2017,4884
+NZ,"New Zealand",12,2017,3956
+NI,Nicaragua,1,2017,43
+NI,Nicaragua,1,2018,24
+NI,Nicaragua,2,2017,41
+NI,Nicaragua,2,2018,49
+NI,Nicaragua,3,2017,49
+NI,Nicaragua,4,2017,16
+NI,Nicaragua,5,2017,25
+NI,Nicaragua,6,2017,49
+NI,Nicaragua,7,2017,40
+NI,Nicaragua,8,2017,134
+NI,Nicaragua,9,2017,135
+NI,Nicaragua,10,2017,22
+NI,Nicaragua,11,2017,55
+NI,Nicaragua,12,2017,5
+NG,Nigeria,1,2017,1068
+NG,Nigeria,1,2018,915
+NG,Nigeria,2,2017,1213
+NG,Nigeria,2,2018,3803
+NG,Nigeria,3,2017,1676
+NG,Nigeria,4,2017,1024
+NG,Nigeria,5,2017,2291
+NG,Nigeria,6,2017,2416
+NG,Nigeria,7,2017,931
+NG,Nigeria,8,2017,1576
+NG,Nigeria,9,2017,1360
+NG,Nigeria,10,2017,1738
+NG,Nigeria,11,2017,1896
+NG,Nigeria,12,2017,1501
+MP,"Northern Mariana Islands",1,2017,2
+MP,"Northern Mariana Islands",1,2018,8
+MP,"Northern Mariana Islands",2,2017,5
+MP,"Northern Mariana Islands",2,2018,2
+MP,"Northern Mariana Islands",6,2017,18
+MP,"Northern Mariana Islands",7,2017,4
+MP,"Northern Mariana Islands",8,2017,18
+MP,"Northern Mariana Islands",9,2017,6
+MP,"Northern Mariana Islands",10,2017,4
+MP,"Northern Mariana Islands",11,2017,2
+MP,"Northern Mariana Islands",12,2017,39
+NO,Norway,1,2017,4830
+NO,Norway,1,2018,2311
+NO,Norway,2,2017,6052
+NO,Norway,2,2018,4570
+NO,Norway,3,2017,5948
+NO,Norway,4,2017,3839
+NO,Norway,5,2017,7079
+NO,Norway,6,2017,5497
+NO,Norway,7,2017,2965
+NO,Norway,8,2017,5884
+NO,Norway,9,2017,13729
+NO,Norway,10,2017,7354
+NO,Norway,11,2017,5453
+NO,Norway,12,2017,5879
+OM,Oman,1,2017,360
+OM,Oman,1,2018,208
+OM,Oman,2,2017,1021
+OM,Oman,2,2018,330
+OM,Oman,3,2017,419
+OM,Oman,4,2017,568
+OM,Oman,5,2017,594
+OM,Oman,6,2017,456
+OM,Oman,7,2017,303
+OM,Oman,8,2017,490
+OM,Oman,9,2017,483
+OM,Oman,10,2017,456
+OM,Oman,11,2017,428
+OM,Oman,12,2017,1058
+PK,Pakistan,1,2017,11672
+PK,Pakistan,1,2018,19693
+PK,Pakistan,2,2017,16569
+PK,Pakistan,2,2018,16466
+PK,Pakistan,3,2017,17512
+PK,Pakistan,4,2017,18331
+PK,Pakistan,5,2017,20843
+PK,Pakistan,6,2017,13314
+PK,Pakistan,7,2017,9076
+PK,Pakistan,8,2017,15838
+PK,Pakistan,9,2017,22546
+PK,Pakistan,10,2017,25331
+PK,Pakistan,11,2017,21945
+PK,Pakistan,12,2017,18117
+PS,"Palestinian Territory",1,2017,326
+PS,"Palestinian Territory",1,2018,91
+PS,"Palestinian Territory",2,2017,138
+PS,"Palestinian Territory",2,2018,201
+PS,"Palestinian Territory",3,2017,143
+PS,"Palestinian Territory",4,2017,119
+PS,"Palestinian Territory",5,2017,311
+PS,"Palestinian Territory",6,2017,271
+PS,"Palestinian Territory",7,2017,128
+PS,"Palestinian Territory",8,2017,453
+PS,"Palestinian Territory",9,2017,279
+PS,"Palestinian Territory",10,2017,315
+PS,"Palestinian Territory",11,2017,242
+PS,"Palestinian Territory",12,2017,426
+PA,Panama,1,2017,170
+PA,Panama,1,2018,38
+PA,Panama,2,2017,437
+PA,Panama,2,2018,68
+PA,Panama,3,2017,136
+PA,Panama,4,2017,140
+PA,Panama,5,2017,272
+PA,Panama,6,2017,125
+PA,Panama,7,2017,173
+PA,Panama,8,2017,117
+PA,Panama,9,2017,106
+PA,Panama,10,2017,649
+PA,Panama,11,2017,157
+PA,Panama,12,2017,246
+PG,"Papua New Guinea",1,2017,6
+PG,"Papua New Guinea",1,2018,6
+PG,"Papua New Guinea",2,2017,14
+PG,"Papua New Guinea",2,2018,12
+PG,"Papua New Guinea",3,2017,17
+PG,"Papua New Guinea",4,2017,24
+PG,"Papua New Guinea",5,2017,23
+PG,"Papua New Guinea",6,2017,3
+PG,"Papua New Guinea",7,2017,3
+PG,"Papua New Guinea",8,2017,5
+PG,"Papua New Guinea",9,2017,16
+PG,"Papua New Guinea",10,2017,55
+PG,"Papua New Guinea",11,2017,43
+PG,"Papua New Guinea",12,2017,26
+PY,Paraguay,1,2017,139
+PY,Paraguay,1,2018,98
+PY,Paraguay,2,2017,84
+PY,Paraguay,2,2018,153
+PY,Paraguay,3,2017,153
+PY,Paraguay,4,2017,145
+PY,Paraguay,5,2017,704
+PY,Paraguay,6,2017,77
+PY,Paraguay,7,2017,59
+PY,Paraguay,8,2017,684
+PY,Paraguay,9,2017,924
+PY,Paraguay,10,2017,107
+PY,Paraguay,11,2017,162
+PY,Paraguay,12,2017,350
+PE,Peru,1,2017,1884
+PE,Peru,1,2018,476
+PE,Peru,2,2017,3097
+PE,Peru,2,2018,1472
+PE,Peru,3,2017,1367
+PE,Peru,4,2017,2254
+PE,Peru,5,2017,8167
+PE,Peru,6,2017,3010
+PE,Peru,7,2017,2418
+PE,Peru,8,2017,3492
+PE,Peru,9,2017,1762
+PE,Peru,10,2017,3582
+PE,Peru,11,2017,1265
+PE,Peru,12,2017,775
+PH,Philippines,1,2017,5871
+PH,Philippines,1,2018,6317
+PH,Philippines,2,2017,6396
+PH,Philippines,2,2018,10548
+PH,Philippines,3,2017,8893
+PH,Philippines,4,2017,7588
+PH,Philippines,5,2017,11565
+PH,Philippines,6,2017,9521
+PH,Philippines,7,2017,6913
+PH,Philippines,8,2017,11593
+PH,Philippines,9,2017,13970
+PH,Philippines,10,2017,19648
+PH,Philippines,11,2017,16556
+PH,Philippines,12,2017,13304
+PN,"Pitcairn Islands",9,2017,1
+PL,Poland,1,2017,37827
+PL,Poland,1,2018,20433
+PL,Poland,2,2017,28830
+PL,Poland,2,2018,108798
+PL,Poland,3,2017,31064
+PL,Poland,4,2017,24658
+PL,Poland,5,2017,51595
+PL,Poland,6,2017,24006
+PL,Poland,7,2017,14476
+PL,Poland,8,2017,18600
+PL,Poland,9,2017,62695
+PL,Poland,10,2017,36997
+PL,Poland,11,2017,74808
+PL,Poland,12,2017,55859
+PT,Portugal,1,2017,23731
+PT,Portugal,1,2018,6440
+PT,Portugal,2,2017,17705
+PT,Portugal,2,2018,34386
+PT,Portugal,3,2017,30949
+PT,Portugal,4,2017,19083
+PT,Portugal,5,2017,23411
+PT,Portugal,6,2017,13901
+PT,Portugal,7,2017,6459
+PT,Portugal,8,2017,8146
+PT,Portugal,9,2017,22138
+PT,Portugal,10,2017,66326
+PT,Portugal,11,2017,49106
+PT,Portugal,12,2017,27996
+PR,"Puerto Rico",1,2017,317
+PR,"Puerto Rico",1,2018,172
+PR,"Puerto Rico",2,2017,394
+PR,"Puerto Rico",2,2018,662
+PR,"Puerto Rico",3,2017,744
+PR,"Puerto Rico",4,2017,276
+PR,"Puerto Rico",5,2017,281
+PR,"Puerto Rico",6,2017,334
+PR,"Puerto Rico",7,2017,562
+PR,"Puerto Rico",8,2017,638
+PR,"Puerto Rico",9,2017,202
+PR,"Puerto Rico",10,2017,94
+PR,"Puerto Rico",11,2017,100
+PR,"Puerto Rico",12,2017,510
+QA,Qatar,1,2017,368
+QA,Qatar,1,2018,245
+QA,Qatar,2,2017,360
+QA,Qatar,2,2018,488
+QA,Qatar,3,2017,399
+QA,Qatar,4,2017,503
+QA,Qatar,5,2017,581
+QA,Qatar,6,2017,649
+QA,Qatar,7,2017,407
+QA,Qatar,8,2017,731
+QA,Qatar,9,2017,753
+QA,Qatar,10,2017,710
+QA,Qatar,11,2017,780
+QA,Qatar,12,2017,585
+RE,Reunion,1,2017,572
+RE,Reunion,1,2018,19
+RE,Reunion,2,2017,271
+RE,Reunion,2,2018,294
+RE,Reunion,3,2017,194
+RE,Reunion,4,2017,312
+RE,Reunion,5,2017,143
+RE,Reunion,6,2017,125
+RE,Reunion,7,2017,104
+RE,Reunion,8,2017,188
+RE,Reunion,9,2017,325
+RE,Reunion,10,2017,170
+RE,Reunion,11,2017,136
+RE,Reunion,12,2017,205
+RO,Romania,1,2017,7555
+RO,Romania,1,2018,4620
+RO,Romania,2,2017,6193
+RO,Romania,2,2018,7770
+RO,Romania,3,2017,5661
+RO,Romania,4,2017,5159
+RO,Romania,5,2017,7627
+RO,Romania,6,2017,7578
+RO,Romania,7,2017,4295
+RO,Romania,8,2017,7323
+RO,Romania,9,2017,7810
+RO,Romania,10,2017,10152
+RO,Romania,11,2017,8136
+RO,Romania,12,2017,8245
+RU,"Russian Federation",1,2017,38404
+RU,"Russian Federation",1,2018,80347
+RU,"Russian Federation",2,2017,37268
+RU,"Russian Federation",2,2018,125947
+RU,"Russian Federation",3,2017,41358
+RU,"Russian Federation",4,2017,33002
+RU,"Russian Federation",5,2017,57331
+RU,"Russian Federation",6,2017,55858
+RU,"Russian Federation",7,2017,61303
+RU,"Russian Federation",8,2017,75416
+RU,"Russian Federation",9,2017,341260
+RU,"Russian Federation",10,2017,128063
+RU,"Russian Federation",11,2017,126225
+RU,"Russian Federation",12,2017,145549
+RW,Rwanda,1,2017,35
+RW,Rwanda,1,2018,2
+RW,Rwanda,2,2017,60
+RW,Rwanda,2,2018,6
+RW,Rwanda,3,2017,8
+RW,Rwanda,4,2017,13
+RW,Rwanda,5,2017,12
+RW,Rwanda,6,2017,12
+RW,Rwanda,8,2017,4
+RW,Rwanda,9,2017,12
+RW,Rwanda,10,2017,42
+RW,Rwanda,11,2017,12
+RW,Rwanda,12,2017,11
+KN,"Saint Kitts and Nevis",1,2017,8
+KN,"Saint Kitts and Nevis",1,2018,75
+KN,"Saint Kitts and Nevis",2,2017,22
+KN,"Saint Kitts and Nevis",2,2018,4
+KN,"Saint Kitts and Nevis",3,2017,19
+KN,"Saint Kitts and Nevis",4,2017,20
+KN,"Saint Kitts and Nevis",5,2017,37
+KN,"Saint Kitts and Nevis",6,2017,184
+KN,"Saint Kitts and Nevis",7,2017,48
+KN,"Saint Kitts and Nevis",8,2017,7
+KN,"Saint Kitts and Nevis",9,2017,53
+KN,"Saint Kitts and Nevis",10,2017,11
+KN,"Saint Kitts and Nevis",11,2017,29
+KN,"Saint Kitts and Nevis",12,2017,6
+LC,"Saint Lucia",1,2017,24
+LC,"Saint Lucia",1,2018,18
+LC,"Saint Lucia",2,2017,41
+LC,"Saint Lucia",2,2018,8
+LC,"Saint Lucia",3,2017,82
+LC,"Saint Lucia",4,2017,8
+LC,"Saint Lucia",5,2017,63
+LC,"Saint Lucia",6,2017,46
+LC,"Saint Lucia",7,2017,51
+LC,"Saint Lucia",8,2017,83
+LC,"Saint Lucia",9,2017,54
+LC,"Saint Lucia",10,2017,102
+LC,"Saint Lucia",11,2017,72
+LC,"Saint Lucia",12,2017,55
+MF,"Saint Martin",1,2017,20
+PM,"Saint Pierre and Miquelon",1,2017,2
+VC,"Saint Vincent and the Grenadines",1,2017,7
+VC,"Saint Vincent and the Grenadines",1,2018,20
+VC,"Saint Vincent and the Grenadines",2,2018,6
+VC,"Saint Vincent and the Grenadines",3,2017,5
+VC,"Saint Vincent and the Grenadines",4,2017,10
+VC,"Saint Vincent and the Grenadines",5,2017,8
+VC,"Saint Vincent and the Grenadines",6,2017,30
+VC,"Saint Vincent and the Grenadines",7,2017,16
+VC,"Saint Vincent and the Grenadines",8,2017,13
+VC,"Saint Vincent and the Grenadines",9,2017,18
+VC,"Saint Vincent and the Grenadines",10,2017,78
+VC,"Saint Vincent and the Grenadines",11,2017,77
+VC,"Saint Vincent and the Grenadines",12,2017,16
+WS,Samoa,1,2018,2
+WS,Samoa,2,2018,2
+WS,Samoa,5,2017,11
+WS,Samoa,6,2017,12
+WS,Samoa,11,2017,1
+SM,"San Marino",1,2017,4
+SM,"San Marino",5,2017,2
+SM,"San Marino",11,2017,14
+SM,"San Marino",12,2017,8
+ST,"Sao Tome and Principe",1,2017,11
+ST,"Sao Tome and Principe",2,2018,12
+ST,"Sao Tome and Principe",3,2017,16
+ST,"Sao Tome and Principe",5,2017,5
+ST,"Sao Tome and Principe",6,2017,8
+ST,"Sao Tome and Principe",8,2017,30
+ST,"Sao Tome and Principe",9,2017,6
+ST,"Sao Tome and Principe",11,2017,7
+SA,"Saudi Arabia",1,2017,2230
+SA,"Saudi Arabia",1,2018,1736
+SA,"Saudi Arabia",2,2017,1775
+SA,"Saudi Arabia",2,2018,3501
+SA,"Saudi Arabia",3,2017,2357
+SA,"Saudi Arabia",4,2017,2395
+SA,"Saudi Arabia",5,2017,2954
+SA,"Saudi Arabia",6,2017,2036
+SA,"Saudi Arabia",7,2017,2090
+SA,"Saudi Arabia",8,2017,2984
+SA,"Saudi Arabia",9,2017,3709
+SA,"Saudi Arabia",10,2017,3823
+SA,"Saudi Arabia",11,2017,4261
+SA,"Saudi Arabia",12,2017,3320
+SN,Senegal,1,2017,97
+SN,Senegal,1,2018,575
+SN,Senegal,2,2017,507
+SN,Senegal,2,2018,462
+SN,Senegal,3,2017,246
+SN,Senegal,4,2017,587
+SN,Senegal,5,2017,622
+SN,Senegal,6,2017,402
+SN,Senegal,7,2017,175
+SN,Senegal,8,2017,472
+SN,Senegal,9,2017,243
+SN,Senegal,10,2017,432
+SN,Senegal,11,2017,242
+SN,Senegal,12,2017,235
+RS,Serbia,1,2017,4373
+RS,Serbia,1,2018,2419
+RS,Serbia,2,2017,3180
+RS,Serbia,2,2018,3758
+RS,Serbia,3,2017,4517
+RS,Serbia,4,2017,3629
+RS,Serbia,5,2017,5754
+RS,Serbia,6,2017,5234
+RS,Serbia,7,2017,2927
+RS,Serbia,8,2017,4455
+RS,Serbia,9,2017,6407
+RS,Serbia,10,2017,4693
+RS,Serbia,11,2017,5141
+RS,Serbia,12,2017,4596
+SC,Seychelles,1,2017,18
+SC,Seychelles,1,2018,25
+SC,Seychelles,2,2017,22
+SC,Seychelles,2,2018,19
+SC,Seychelles,3,2017,31
+SC,Seychelles,4,2017,4
+SC,Seychelles,5,2017,6
+SC,Seychelles,6,2017,22
+SC,Seychelles,8,2017,34
+SC,Seychelles,9,2017,49
+SC,Seychelles,10,2017,33
+SC,Seychelles,11,2017,23
+SC,Seychelles,12,2017,17
+SL,"Sierra Leone",2,2017,12
+SL,"Sierra Leone",2,2018,8
+SL,"Sierra Leone",5,2017,4
+SL,"Sierra Leone",6,2017,7
+SL,"Sierra Leone",8,2017,4
+SL,"Sierra Leone",10,2017,2
+SL,"Sierra Leone",12,2017,2
+SG,Singapore,1,2017,11239
+SG,Singapore,1,2018,7739
+SG,Singapore,2,2017,12509
+SG,Singapore,2,2018,13492
+SG,Singapore,3,2017,16798
+SG,Singapore,4,2017,23445
+SG,Singapore,5,2017,20137
+SG,Singapore,6,2017,14184
+SG,Singapore,7,2017,11792
+SG,Singapore,8,2017,18522
+SG,Singapore,9,2017,31151
+SG,Singapore,10,2017,32316
+SG,Singapore,11,2017,23657
+SG,Singapore,12,2017,11418
+SX,"Sint Maarten (Dutch part)",1,2017,23
+SX,"Sint Maarten (Dutch part)",2,2017,5
+SX,"Sint Maarten (Dutch part)",2,2018,4
+SX,"Sint Maarten (Dutch part)",3,2017,18
+SX,"Sint Maarten (Dutch part)",4,2017,24
+SX,"Sint Maarten (Dutch part)",5,2017,33
+SX,"Sint Maarten (Dutch part)",6,2017,29
+SX,"Sint Maarten (Dutch part)",7,2017,2
+SX,"Sint Maarten (Dutch part)",8,2017,1
+SX,"Sint Maarten (Dutch part)",11,2017,24
+SX,"Sint Maarten (Dutch part)",12,2017,7
+SK,Slovakia,1,2017,3491
+SK,Slovakia,1,2018,2350
+SK,Slovakia,2,2017,2349
+SK,Slovakia,2,2018,3212
+SK,Slovakia,3,2017,3028
+SK,Slovakia,4,2017,2599
+SK,Slovakia,5,2017,3948
+SK,Slovakia,6,2017,3038
+SK,Slovakia,7,2017,1743
+SK,Slovakia,8,2017,1983
+SK,Slovakia,9,2017,1485
+SK,Slovakia,10,2017,3348
+SK,Slovakia,11,2017,4226
+SK,Slovakia,12,2017,2431
+SI,Slovenia,1,2017,2551
+SI,Slovenia,1,2018,1388
+SI,Slovenia,2,2017,1560
+SI,Slovenia,2,2018,2257
+SI,Slovenia,3,2017,1627
+SI,Slovenia,4,2017,2080
+SI,Slovenia,5,2017,1640
+SI,Slovenia,6,2017,1428
+SI,Slovenia,7,2017,809
+SI,Slovenia,8,2017,1078
+SI,Slovenia,9,2017,1578
+SI,Slovenia,10,2017,5184
+SI,Slovenia,11,2017,2829
+SI,Slovenia,12,2017,1494
+SB,"Solomon Islands",1,2018,1
+SB,"Solomon Islands",2,2018,1
+SB,"Solomon Islands",4,2017,4
+SB,"Solomon Islands",5,2017,2
+SB,"Solomon Islands",7,2017,2
+SB,"Solomon Islands",9,2017,2
+SB,"Solomon Islands",10,2017,14
+SO,Somalia,1,2018,3
+SO,Somalia,2,2018,25
+SO,Somalia,5,2017,8
+SO,Somalia,6,2017,20
+SO,Somalia,7,2017,13
+SO,Somalia,9,2017,4
+SO,Somalia,10,2017,3
+SO,Somalia,12,2017,5
+ZA,"South Africa",1,2017,7322
+ZA,"South Africa",1,2018,2742
+ZA,"South Africa",2,2017,8907
+ZA,"South Africa",2,2018,9767
+ZA,"South Africa",3,2017,8833
+ZA,"South Africa",4,2017,4412
+ZA,"South Africa",5,2017,9576
+ZA,"South Africa",6,2017,6692
+ZA,"South Africa",7,2017,4354
+ZA,"South Africa",8,2017,11106
+ZA,"South Africa",9,2017,6911
+ZA,"South Africa",10,2017,8828
+ZA,"South Africa",11,2017,8353
+ZA,"South Africa",12,2017,6536
+SS,"South Sudan",2,2018,2
+SS,"South Sudan",5,2017,1
+SS,"South Sudan",6,2017,1
+SS,"South Sudan",9,2017,6
+SS,"South Sudan",10,2017,1
+SS,"South Sudan",12,2017,1
+ES,Spain,1,2017,55324
+ES,Spain,1,2018,27343
+ES,Spain,2,2017,60945
+ES,Spain,2,2018,60084
+ES,Spain,3,2017,62785
+ES,Spain,4,2017,53880
+ES,Spain,5,2017,77353
+ES,Spain,6,2017,61529
+ES,Spain,7,2017,29313
+ES,Spain,8,2017,27929
+ES,Spain,9,2017,49661
+ES,Spain,10,2017,75659
+ES,Spain,11,2017,52186
+ES,Spain,12,2017,43025
+LK,"Sri Lanka",1,2017,1636
+LK,"Sri Lanka",1,2018,1449
+LK,"Sri Lanka",2,2017,1267
+LK,"Sri Lanka",2,2018,3706
+LK,"Sri Lanka",3,2017,5721
+LK,"Sri Lanka",4,2017,1975
+LK,"Sri Lanka",5,2017,4279
+LK,"Sri Lanka",6,2017,2075
+LK,"Sri Lanka",7,2017,1463
+LK,"Sri Lanka",8,2017,2396
+LK,"Sri Lanka",9,2017,2972
+LK,"Sri Lanka",10,2017,2431
+LK,"Sri Lanka",11,2017,2469
+LK,"Sri Lanka",12,2017,2895
+SD,Sudan,1,2017,396
+SD,Sudan,1,2018,109
+SD,Sudan,2,2017,60
+SD,Sudan,2,2018,275
+SD,Sudan,3,2017,214
+SD,Sudan,4,2017,205
+SD,Sudan,5,2017,727
+SD,Sudan,6,2017,140
+SD,Sudan,7,2017,117
+SD,Sudan,8,2017,117
+SD,Sudan,9,2017,233
+SD,Sudan,10,2017,286
+SD,Sudan,11,2017,212
+SD,Sudan,12,2017,253
+SR,Suriname,1,2017,26
+SR,Suriname,1,2018,40
+SR,Suriname,2,2017,19
+SR,Suriname,2,2018,96
+SR,Suriname,3,2017,44
+SR,Suriname,4,2017,68
+SR,Suriname,5,2017,57
+SR,Suriname,6,2017,152
+SR,Suriname,7,2017,59
+SR,Suriname,8,2017,69
+SR,Suriname,9,2017,68
+SR,Suriname,10,2017,78
+SR,Suriname,11,2017,65
+SR,Suriname,12,2017,79
+SJ,"Svalbard and Jan Mayen",1,2018,1
+SZ,Swaziland,1,2017,8
+SZ,Swaziland,1,2018,36
+SZ,Swaziland,2,2018,9
+SZ,Swaziland,3,2017,22
+SZ,Swaziland,4,2017,3
+SZ,Swaziland,5,2017,4
+SZ,Swaziland,6,2017,21
+SZ,Swaziland,7,2017,7
+SZ,Swaziland,8,2017,16
+SZ,Swaziland,9,2017,28
+SZ,Swaziland,10,2017,48
+SZ,Swaziland,11,2017,12
+SZ,Swaziland,12,2017,10
+SE,Sweden,1,2017,13559
+SE,Sweden,1,2018,13914
+SE,Sweden,2,2017,15992
+SE,Sweden,2,2018,22425
+SE,Sweden,3,2017,20797
+SE,Sweden,4,2017,20671
+SE,Sweden,5,2017,31561
+SE,Sweden,6,2017,22727
+SE,Sweden,7,2017,15314
+SE,Sweden,8,2017,56723
+SE,Sweden,9,2017,25561
+SE,Sweden,10,2017,43868
+SE,Sweden,11,2017,38726
+SE,Sweden,12,2017,22777
+CH,Switzerland,1,2017,9728
+CH,Switzerland,1,2018,6523
+CH,Switzerland,2,2017,8872
+CH,Switzerland,2,2018,9341
+CH,Switzerland,3,2017,7864
+CH,Switzerland,4,2017,6102
+CH,Switzerland,5,2017,9868
+CH,Switzerland,6,2017,7088
+CH,Switzerland,7,2017,4703
+CH,Switzerland,8,2017,6629
+CH,Switzerland,9,2017,8763
+CH,Switzerland,10,2017,10283
+CH,Switzerland,11,2017,11023
+CH,Switzerland,12,2017,10598
+SY,"Syrian Arab Republic",1,2017,381
+SY,"Syrian Arab Republic",1,2018,188
+SY,"Syrian Arab Republic",2,2017,112
+SY,"Syrian Arab Republic",2,2018,409
+SY,"Syrian Arab Republic",3,2017,281
+SY,"Syrian Arab Republic",4,2017,226
+SY,"Syrian Arab Republic",5,2017,367
+SY,"Syrian Arab Republic",6,2017,320
+SY,"Syrian Arab Republic",7,2017,347
+SY,"Syrian Arab Republic",8,2017,456
+SY,"Syrian Arab Republic",9,2017,384
+SY,"Syrian Arab Republic",10,2017,538
+SY,"Syrian Arab Republic",11,2017,1280
+SY,"Syrian Arab Republic",12,2017,320
+TW,Taiwan,1,2017,21501
+TW,Taiwan,1,2018,15247
+TW,Taiwan,2,2017,15380
+TW,Taiwan,2,2018,19765
+TW,Taiwan,3,2017,25969
+TW,Taiwan,4,2017,22167
+TW,Taiwan,5,2017,33926
+TW,Taiwan,6,2017,34014
+TW,Taiwan,7,2017,23800
+TW,Taiwan,8,2017,32117
+TW,Taiwan,9,2017,26832
+TW,Taiwan,10,2017,27233
+TW,Taiwan,11,2017,33808
+TW,Taiwan,12,2017,34975
+TJ,Tajikistan,1,2017,2
+TJ,Tajikistan,1,2018,1
+TJ,Tajikistan,2,2018,2
+TJ,Tajikistan,3,2017,4
+TJ,Tajikistan,5,2017,2
+TJ,Tajikistan,10,2017,5
+TZ,"Tanzania, United Republic of",1,2017,70
+TZ,"Tanzania, United Republic of",1,2018,47
+TZ,"Tanzania, United Republic of",2,2017,88
+TZ,"Tanzania, United Republic of",2,2018,68
+TZ,"Tanzania, United Republic of",3,2017,49
+TZ,"Tanzania, United Republic of",4,2017,38
+TZ,"Tanzania, United Republic of",5,2017,133
+TZ,"Tanzania, United Republic of",6,2017,78
+TZ,"Tanzania, United Republic of",7,2017,19
+TZ,"Tanzania, United Republic of",8,2017,86
+TZ,"Tanzania, United Republic of",9,2017,108
+TZ,"Tanzania, United Republic of",10,2017,96
+TZ,"Tanzania, United Republic of",11,2017,88
+TZ,"Tanzania, United Republic of",12,2017,65
+TH,Thailand,1,2017,4691
+TH,Thailand,1,2018,3341
+TH,Thailand,2,2017,3591
+TH,Thailand,2,2018,19674
+TH,Thailand,3,2017,5315
+TH,Thailand,4,2017,3121
+TH,Thailand,5,2017,7571
+TH,Thailand,6,2017,8505
+TH,Thailand,7,2017,5203
+TH,Thailand,8,2017,7274
+TH,Thailand,9,2017,6516
+TH,Thailand,10,2017,9175
+TH,Thailand,11,2017,12678
+TH,Thailand,12,2017,6634
+TL,Timor-Leste,2,2017,7
+TL,Timor-Leste,2,2018,6
+TL,Timor-Leste,3,2017,10
+TL,Timor-Leste,4,2017,4
+TL,Timor-Leste,5,2017,10
+TL,Timor-Leste,6,2017,8
+TL,Timor-Leste,7,2017,2
+TL,Timor-Leste,8,2017,2
+TL,Timor-Leste,10,2017,5
+TL,Timor-Leste,11,2017,11
+TL,Timor-Leste,12,2017,5
+TG,Togo,1,2017,8
+TG,Togo,1,2018,17
+TG,Togo,2,2017,2
+TG,Togo,2,2018,27
+TG,Togo,3,2017,6
+TG,Togo,4,2017,17
+TG,Togo,5,2017,24
+TG,Togo,6,2017,26
+TG,Togo,7,2017,9
+TG,Togo,8,2017,30
+TG,Togo,9,2017,27
+TG,Togo,10,2017,30
+TG,Togo,11,2017,32
+TG,Togo,12,2017,61
+TO,Tonga,1,2017,4
+TO,Tonga,6,2017,2
+TO,Tonga,8,2017,32
+TO,Tonga,9,2017,8
+TO,Tonga,10,2017,7
+TO,Tonga,12,2017,4
+TT,"Trinidad and Tobago",1,2017,359
+TT,"Trinidad and Tobago",1,2018,166
+TT,"Trinidad and Tobago",2,2017,592
+TT,"Trinidad and Tobago",2,2018,227
+TT,"Trinidad and Tobago",3,2017,810
+TT,"Trinidad and Tobago",4,2017,313
+TT,"Trinidad and Tobago",5,2017,360
+TT,"Trinidad and Tobago",6,2017,369
+TT,"Trinidad and Tobago",7,2017,166
+TT,"Trinidad and Tobago",8,2017,270
+TT,"Trinidad and Tobago",9,2017,465
+TT,"Trinidad and Tobago",10,2017,403
+TT,"Trinidad and Tobago",11,2017,308
+TT,"Trinidad and Tobago",12,2017,310
+TN,Tunisia,1,2017,2780
+TN,Tunisia,1,2018,1805
+TN,Tunisia,2,2017,2444
+TN,Tunisia,2,2018,3763
+TN,Tunisia,3,2017,2364
+TN,Tunisia,4,2017,3203
+TN,Tunisia,5,2017,2105
+TN,Tunisia,6,2017,1713
+TN,Tunisia,7,2017,1570
+TN,Tunisia,8,2017,1677
+TN,Tunisia,9,2017,2753
+TN,Tunisia,10,2017,3869
+TN,Tunisia,11,2017,3226
+TN,Tunisia,12,2017,4330
+TR,Turkey,1,2017,9711
+TR,Turkey,1,2018,6568
+TR,Turkey,2,2017,7476
+TR,Turkey,2,2018,13960
+TR,Turkey,3,2017,10481
+TR,Turkey,4,2017,7433
+TR,Turkey,5,2017,13021
+TR,Turkey,6,2017,7435
+TR,Turkey,7,2017,4138
+TR,Turkey,8,2017,8013
+TR,Turkey,9,2017,8600
+TR,Turkey,10,2017,14805
+TR,Turkey,11,2017,14012
+TR,Turkey,12,2017,12646
+TM,Turkmenistan,1,2017,3
+TM,Turkmenistan,1,2018,3
+TM,Turkmenistan,2,2017,4
+TM,Turkmenistan,2,2018,15
+TM,Turkmenistan,3,2017,1
+TM,Turkmenistan,4,2017,7
+TM,Turkmenistan,6,2017,2
+TM,Turkmenistan,8,2017,8
+TM,Turkmenistan,9,2017,10
+TM,Turkmenistan,10,2017,10
+TM,Turkmenistan,12,2017,4
+TC,"Turks and Caicos Islands",1,2017,2
+TC,"Turks and Caicos Islands",1,2018,19
+TC,"Turks and Caicos Islands",2,2017,2
+TC,"Turks and Caicos Islands",2,2018,2
+TC,"Turks and Caicos Islands",3,2017,39
+TC,"Turks and Caicos Islands",6,2017,5
+TC,"Turks and Caicos Islands",7,2017,2
+TC,"Turks and Caicos Islands",8,2017,28
+TC,"Turks and Caicos Islands",9,2017,6
+TC,"Turks and Caicos Islands",11,2017,10
+TC,"Turks and Caicos Islands",12,2017,5
+UG,Uganda,1,2017,47
+UG,Uganda,1,2018,130
+UG,Uganda,2,2017,44
+UG,Uganda,2,2018,32
+UG,Uganda,3,2017,24
+UG,Uganda,4,2017,60
+UG,Uganda,5,2017,47
+UG,Uganda,6,2017,44
+UG,Uganda,7,2017,27
+UG,Uganda,8,2017,21
+UG,Uganda,9,2017,22
+UG,Uganda,10,2017,26
+UG,Uganda,11,2017,252
+UG,Uganda,12,2017,36
+UA,Ukraine,1,2017,15170
+UA,Ukraine,1,2018,3897
+UA,Ukraine,2,2017,26207
+UA,Ukraine,2,2018,9838
+UA,Ukraine,3,2017,18700
+UA,Ukraine,4,2017,10651
+UA,Ukraine,5,2017,10400
+UA,Ukraine,6,2017,11508
+UA,Ukraine,7,2017,5905
+UA,Ukraine,8,2017,11961
+UA,Ukraine,9,2017,12123
+UA,Ukraine,10,2017,10387
+UA,Ukraine,11,2017,11484
+UA,Ukraine,12,2017,8213
+AE,"United Arab Emirates",1,2017,1817
+AE,"United Arab Emirates",1,2018,958
+AE,"United Arab Emirates",2,2017,1359
+AE,"United Arab Emirates",2,2018,2059
+AE,"United Arab Emirates",3,2017,1758
+AE,"United Arab Emirates",4,2017,1728
+AE,"United Arab Emirates",5,2017,2831
+AE,"United Arab Emirates",6,2017,2065
+AE,"United Arab Emirates",7,2017,1062
+AE,"United Arab Emirates",8,2017,1833
+AE,"United Arab Emirates",9,2017,2149
+AE,"United Arab Emirates",10,2017,2360
+AE,"United Arab Emirates",11,2017,2295
+AE,"United Arab Emirates",12,2017,2890
+GB,"United Kingdom",1,2017,85081
+GB,"United Kingdom",1,2018,44497
+GB,"United Kingdom",2,2017,76680
+GB,"United Kingdom",2,2018,94446
+GB,"United Kingdom",3,2017,142166
+GB,"United Kingdom",4,2017,83009
+GB,"United Kingdom",5,2017,83253
+GB,"United Kingdom",6,2017,80374
+GB,"United Kingdom",7,2017,50689
+GB,"United Kingdom",8,2017,121379
+GB,"United Kingdom",9,2017,82772
+GB,"United Kingdom",10,2017,87213
+GB,"United Kingdom",11,2017,149531
+GB,"United Kingdom",12,2017,69038
+US,"United States",1,2017,583181
+US,"United States",1,2018,599485
+US,"United States",2,2017,667762
+US,"United States",2,2018,1205849
+US,"United States",3,2017,685966
+US,"United States",4,2017,712578
+US,"United States",5,2017,1285667
+US,"United States",6,2017,868938
+US,"United States",7,2017,455543
+US,"United States",8,2017,890360
+US,"United States",9,2017,1071763
+US,"United States",10,2017,991203
+US,"United States",11,2017,2456538
+US,"United States",12,2017,2421717
+UM,"United States Minor Outlying Islands",8,2017,2
+UY,Uruguay,1,2017,487
+UY,Uruguay,1,2018,139
+UY,Uruguay,2,2017,783
+UY,Uruguay,2,2018,315
+UY,Uruguay,3,2017,1069
+UY,Uruguay,4,2017,1082
+UY,Uruguay,5,2017,692
+UY,Uruguay,6,2017,392
+UY,Uruguay,7,2017,444
+UY,Uruguay,8,2017,600
+UY,Uruguay,9,2017,326
+UY,Uruguay,10,2017,570
+UY,Uruguay,11,2017,677
+UY,Uruguay,12,2017,1032
+UZ,Uzbekistan,1,2017,104
+UZ,Uzbekistan,1,2018,36
+UZ,Uzbekistan,2,2017,68
+UZ,Uzbekistan,2,2018,241
+UZ,Uzbekistan,3,2017,35
+UZ,Uzbekistan,4,2017,78
+UZ,Uzbekistan,5,2017,78
+UZ,Uzbekistan,6,2017,97
+UZ,Uzbekistan,7,2017,12
+UZ,Uzbekistan,8,2017,37
+UZ,Uzbekistan,9,2017,81
+UZ,Uzbekistan,10,2017,61
+UZ,Uzbekistan,11,2017,31
+UZ,Uzbekistan,12,2017,144
+VU,Vanuatu,1,2018,3
+VU,Vanuatu,2,2017,18
+VU,Vanuatu,3,2017,6
+VU,Vanuatu,5,2017,6
+VU,Vanuatu,6,2017,27
+VU,Vanuatu,10,2017,8
+VU,Vanuatu,11,2017,8
+VE,Venezuela,1,2017,727
+VE,Venezuela,1,2018,401
+VE,Venezuela,2,2017,389
+VE,Venezuela,2,2018,1776
+VE,Venezuela,3,2017,709
+VE,Venezuela,4,2017,740
+VE,Venezuela,5,2017,734
+VE,Venezuela,6,2017,696
+VE,Venezuela,7,2017,511
+VE,Venezuela,8,2017,700
+VE,Venezuela,9,2017,846
+VE,Venezuela,10,2017,1051
+VE,Venezuela,11,2017,844
+VE,Venezuela,12,2017,757
+VN,Vietnam,1,2017,2189
+VN,Vietnam,1,2018,1780
+VN,Vietnam,2,2017,2076
+VN,Vietnam,2,2018,2620
+VN,Vietnam,3,2017,4433
+VN,Vietnam,4,2017,3976
+VN,Vietnam,5,2017,4177
+VN,Vietnam,6,2017,3766
+VN,Vietnam,7,2017,2729
+VN,Vietnam,8,2017,2945
+VN,Vietnam,9,2017,4962
+VN,Vietnam,10,2017,4280
+VN,Vietnam,11,2017,3165
+VN,Vietnam,12,2017,3612
+VG,"Virgin Islands, British",1,2017,246
+VG,"Virgin Islands, British",1,2018,7
+VG,"Virgin Islands, British",2,2017,55
+VG,"Virgin Islands, British",2,2018,2
+VG,"Virgin Islands, British",3,2017,63
+VG,"Virgin Islands, British",4,2017,52
+VG,"Virgin Islands, British",5,2017,238
+VG,"Virgin Islands, British",6,2017,132
+VG,"Virgin Islands, British",7,2017,52
+VG,"Virgin Islands, British",8,2017,71
+VG,"Virgin Islands, British",9,2017,146
+VG,"Virgin Islands, British",10,2017,89
+VG,"Virgin Islands, British",11,2017,17
+VG,"Virgin Islands, British",12,2017,15
+VI,"Virgin Islands, U.S.",1,2017,19
+VI,"Virgin Islands, U.S.",2,2017,2
+VI,"Virgin Islands, U.S.",3,2017,15
+VI,"Virgin Islands, U.S.",4,2017,6
+VI,"Virgin Islands, U.S.",5,2017,4
+VI,"Virgin Islands, U.S.",6,2017,2
+VI,"Virgin Islands, U.S.",7,2017,4
+VI,"Virgin Islands, U.S.",8,2017,2
+VI,"Virgin Islands, U.S.",12,2017,3
+YE,Yemen,1,2017,58
+YE,Yemen,1,2018,41
+YE,Yemen,2,2017,19
+YE,Yemen,2,2018,50
+YE,Yemen,3,2017,44
+YE,Yemen,4,2017,40
+YE,Yemen,5,2017,57
+YE,Yemen,6,2017,32
+YE,Yemen,7,2017,69
+YE,Yemen,8,2017,55
+YE,Yemen,9,2017,225
+YE,Yemen,10,2017,111
+YE,Yemen,11,2017,97
+YE,Yemen,12,2017,97
+ZM,Zambia,1,2017,365
+ZM,Zambia,1,2018,67
+ZM,Zambia,2,2017,436
+ZM,Zambia,2,2018,198
+ZM,Zambia,3,2017,245
+ZM,Zambia,4,2017,750
+ZM,Zambia,5,2017,343
+ZM,Zambia,6,2017,134
+ZM,Zambia,7,2017,49
+ZM,Zambia,8,2017,131
+ZM,Zambia,9,2017,769
+ZM,Zambia,10,2017,1195
+ZM,Zambia,11,2017,99
+ZM,Zambia,12,2017,90
+ZW,Zimbabwe,1,2017,62
+ZW,Zimbabwe,1,2018,35
+ZW,Zimbabwe,2,2017,67
+ZW,Zimbabwe,2,2018,67
+ZW,Zimbabwe,3,2017,45
+ZW,Zimbabwe,4,2017,52
+ZW,Zimbabwe,5,2017,103
+ZW,Zimbabwe,6,2017,134
+ZW,Zimbabwe,7,2017,76
+ZW,Zimbabwe,8,2017,158
+ZW,Zimbabwe,9,2017,144
+ZW,Zimbabwe,10,2017,149
+ZW,Zimbabwe,11,2017,117
+ZW,Zimbabwe,12,2017,42

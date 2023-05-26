@@ -1,0 +1,27 @@
+
+.content-wrapper {
+  font-size: 16px;
+}
+.content-header h1 {
+  font-size: 35px;
+}
+.direct-chat-text {
+  font-size: 14px;
+}
+#components > h3 {
+  font-size: 25px;
+  /*color: #000;*/
+}
+#components > h4 {
+  font-size: 20px;
+}
+.page-header {
+  font-size: 30px;
+}
+.page-header span::before,
+.page-header a::before {
+  font-size: inherit;
+}
+.affiliate .heading {
+  font-size: 18px;
+}

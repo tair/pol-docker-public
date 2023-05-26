@@ -1,0 +1,2761 @@
+country_code,country_name,date,sum(total_views)
+AF,Afghanistan,2017-01-01,5
+AF,Afghanistan,2017-02-01,2
+AF,Afghanistan,2017-03-01,2
+AF,Afghanistan,2017-04-01,17
+AF,Afghanistan,2017-05-01,11
+AF,Afghanistan,2017-06-01,4
+AF,Afghanistan,2017-07-01,6
+AF,Afghanistan,2017-08-01,11
+AF,Afghanistan,2017-09-01,18
+AF,Afghanistan,2017-10-01,39
+AF,Afghanistan,2017-11-01,21
+AF,Afghanistan,2017-12-01,10
+AF,Afghanistan,2018-02-01,27
+AX,"Aland Islands",2017-03-01,2
+AX,"Aland Islands",2017-04-01,4
+AX,"Aland Islands",2017-07-01,2
+AX,"Aland Islands",2017-10-01,5
+AL,Albania,2017-01-01,482
+AL,Albania,2017-02-01,485
+AL,Albania,2017-03-01,394
+AL,Albania,2017-04-01,479
+AL,Albania,2017-05-01,1014
+AL,Albania,2017-06-01,809
+AL,Albania,2017-07-01,560
+AL,Albania,2017-08-01,745
+AL,Albania,2017-09-01,971
+AL,Albania,2017-10-01,1160
+AL,Albania,2017-11-01,1018
+AL,Albania,2017-12-01,933
+AL,Albania,2018-01-01,428
+AL,Albania,2018-02-01,648
+DZ,Algeria,2017-01-01,3078
+DZ,Algeria,2017-02-01,2939
+DZ,Algeria,2017-03-01,2709
+DZ,Algeria,2017-04-01,3238
+DZ,Algeria,2017-05-01,3991
+DZ,Algeria,2017-06-01,3498
+DZ,Algeria,2017-07-01,2104
+DZ,Algeria,2017-08-01,3781
+DZ,Algeria,2017-09-01,4271
+DZ,Algeria,2017-10-01,5004
+DZ,Algeria,2017-11-01,8706
+DZ,Algeria,2017-12-01,4600
+DZ,Algeria,2018-01-01,2341
+DZ,Algeria,2018-02-01,4264
+AS,"American Samoa",2017-02-01,2
+AS,"American Samoa",2017-03-01,4
+AS,"American Samoa",2017-05-01,10
+AS,"American Samoa",2017-09-01,52
+AS,"American Samoa",2017-10-01,2
+AS,"American Samoa",2017-11-01,221
+AD,Andorra,2017-01-01,2
+AD,Andorra,2017-02-01,8
+AD,Andorra,2017-03-01,7
+AD,Andorra,2017-05-01,42
+AD,Andorra,2017-06-01,3
+AD,Andorra,2017-07-01,2
+AD,Andorra,2017-08-01,16
+AD,Andorra,2017-09-01,10
+AD,Andorra,2017-10-01,12
+AD,Andorra,2017-11-01,32
+AD,Andorra,2017-12-01,25
+AD,Andorra,2018-01-01,13
+AD,Andorra,2018-02-01,6
+AO,Angola,2017-01-01,174
+AO,Angola,2017-02-01,150
+AO,Angola,2017-03-01,101
+AO,Angola,2017-04-01,105
+AO,Angola,2017-05-01,189
+AO,Angola,2017-06-01,252
+AO,Angola,2017-07-01,107
+AO,Angola,2017-08-01,256
+AO,Angola,2017-09-01,248
+AO,Angola,2017-10-01,191
+AO,Angola,2017-11-01,297
+AO,Angola,2017-12-01,164
+AO,Angola,2018-01-01,54
+AO,Angola,2018-02-01,199
+AI,Anguilla,2017-06-01,3
+A1,"Anonymous Proxy",2017-01-01,17
+A1,"Anonymous Proxy",2017-02-01,23
+A1,"Anonymous Proxy",2017-04-01,4
+A1,"Anonymous Proxy",2017-05-01,125
+A1,"Anonymous Proxy",2017-06-01,3
+A1,"Anonymous Proxy",2017-07-01,23
+A1,"Anonymous Proxy",2017-08-01,4
+A1,"Anonymous Proxy",2017-10-01,5
+A1,"Anonymous Proxy",2017-11-01,15
+A1,"Anonymous Proxy",2017-12-01,3
+A1,"Anonymous Proxy",2018-02-01,3
+AG,"Antigua and Barbuda",2017-01-01,31
+AG,"Antigua and Barbuda",2017-02-01,8
+AG,"Antigua and Barbuda",2017-03-01,34
+AG,"Antigua and Barbuda",2017-04-01,13
+AG,"Antigua and Barbuda",2017-05-01,14
+AG,"Antigua and Barbuda",2017-06-01,50
+AG,"Antigua and Barbuda",2017-07-01,7
+AG,"Antigua and Barbuda",2017-08-01,28
+AG,"Antigua and Barbuda",2017-09-01,6
+AG,"Antigua and Barbuda",2017-10-01,69
+AG,"Antigua and Barbuda",2017-11-01,67
+AG,"Antigua and Barbuda",2017-12-01,21
+AG,"Antigua and Barbuda",2018-01-01,21
+AG,"Antigua and Barbuda",2018-02-01,50
+AR,Argentina,2017-01-01,14856
+AR,Argentina,2017-02-01,8928
+AR,Argentina,2017-03-01,10477
+AR,Argentina,2017-04-01,12591
+AR,Argentina,2017-05-01,20199
+AR,Argentina,2017-06-01,19316
+AR,Argentina,2017-07-01,8515
+AR,Argentina,2017-08-01,14592
+AR,Argentina,2017-09-01,14699
+AR,Argentina,2017-10-01,18784
+AR,Argentina,2017-11-01,14299
+AR,Argentina,2017-12-01,18439
+AR,Argentina,2018-01-01,9588
+AR,Argentina,2018-02-01,11767
+AM,Armenia,2017-01-01,209
+AM,Armenia,2017-02-01,118
+AM,Armenia,2017-03-01,148
+AM,Armenia,2017-04-01,183
+AM,Armenia,2017-05-01,263
+AM,Armenia,2017-06-01,219
+AM,Armenia,2017-07-01,226
+AM,Armenia,2017-08-01,399
+AM,Armenia,2017-09-01,646
+AM,Armenia,2017-10-01,665
+AM,Armenia,2017-11-01,346
+AM,Armenia,2017-12-01,433
+AM,Armenia,2018-01-01,214
+AM,Armenia,2018-02-01,699
+AW,Aruba,2017-01-01,4
+AW,Aruba,2017-03-01,33
+AW,Aruba,2017-04-01,10
+AW,Aruba,2017-05-01,18
+AW,Aruba,2017-06-01,39
+AW,Aruba,2017-07-01,44
+AW,Aruba,2017-08-01,43
+AW,Aruba,2017-09-01,28
+AW,Aruba,2017-10-01,14
+AW,Aruba,2017-11-01,17
+AW,Aruba,2017-12-01,7
+AW,Aruba,2018-01-01,24
+AW,Aruba,2018-02-01,2
+AP,"Asia/Pacific Region",2017-01-01,347
+AP,"Asia/Pacific Region",2017-02-01,56
+AP,"Asia/Pacific Region",2017-03-01,373
+AP,"Asia/Pacific Region",2017-04-01,665
+AP,"Asia/Pacific Region",2017-05-01,800
+AP,"Asia/Pacific Region",2017-06-01,2183
+AP,"Asia/Pacific Region",2017-07-01,36
+AP,"Asia/Pacific Region",2017-08-01,40
+AP,"Asia/Pacific Region",2017-09-01,69
+AP,"Asia/Pacific Region",2017-10-01,47
+AP,"Asia/Pacific Region",2017-11-01,442
+AP,"Asia/Pacific Region",2017-12-01,531
+AP,"Asia/Pacific Region",2018-01-01,242
+AP,"Asia/Pacific Region",2018-02-01,166
+AU,Australia,2017-01-01,24895
+AU,Australia,2017-02-01,21426
+AU,Australia,2017-03-01,38400
+AU,Australia,2017-04-01,29566
+AU,Australia,2017-05-01,136586
+AU,Australia,2017-06-01,159461
+AU,Australia,2017-07-01,42153
+AU,Australia,2017-08-01,41796
+AU,Australia,2017-09-01,33127
+AU,Australia,2017-10-01,34315
+AU,Australia,2017-11-01,34722
+AU,Australia,2017-12-01,20124
+AU,Australia,2018-01-01,8424
+AU,Australia,2018-02-01,23088
+AT,Austria,2017-01-01,11187
+AT,Austria,2017-02-01,9377
+AT,Austria,2017-03-01,9836
+AT,Austria,2017-04-01,9922
+AT,Austria,2017-05-01,24930
+AT,Austria,2017-06-01,10372
+AT,Austria,2017-07-01,6756
+AT,Austria,2017-08-01,9744
+AT,Austria,2017-09-01,29793
+AT,Austria,2017-10-01,105722
+AT,Austria,2017-11-01,89912
+AT,Austria,2017-12-01,32918
+AT,Austria,2018-01-01,12313
+AT,Austria,2018-02-01,31205
+AZ,Azerbaijan,2017-01-01,295
+AZ,Azerbaijan,2017-02-01,304
+AZ,Azerbaijan,2017-03-01,355
+AZ,Azerbaijan,2017-04-01,377
+AZ,Azerbaijan,2017-05-01,272
+AZ,Azerbaijan,2017-06-01,312
+AZ,Azerbaijan,2017-07-01,214
+AZ,Azerbaijan,2017-08-01,464
+AZ,Azerbaijan,2017-09-01,504
+AZ,Azerbaijan,2017-10-01,395
+AZ,Azerbaijan,2017-11-01,564
+AZ,Azerbaijan,2017-12-01,653
+AZ,Azerbaijan,2018-01-01,329
+AZ,Azerbaijan,2018-02-01,432
+BS,Bahamas,2017-01-01,58
+BS,Bahamas,2017-02-01,19
+BS,Bahamas,2017-03-01,32
+BS,Bahamas,2017-04-01,10
+BS,Bahamas,2017-05-01,50
+BS,Bahamas,2017-06-01,72
+BS,Bahamas,2017-07-01,21
+BS,Bahamas,2017-08-01,54
+BS,Bahamas,2017-09-01,92
+BS,Bahamas,2017-10-01,22
+BS,Bahamas,2017-11-01,32
+BS,Bahamas,2017-12-01,6
+BS,Bahamas,2018-01-01,13
+BS,Bahamas,2018-02-01,26
+BH,Bahrain,2017-01-01,296
+BH,Bahrain,2017-02-01,91
+BH,Bahrain,2017-03-01,106
+BH,Bahrain,2017-04-01,170
+BH,Bahrain,2017-05-01,320
+BH,Bahrain,2017-06-01,266
+BH,Bahrain,2017-07-01,167
+BH,Bahrain,2017-08-01,228
+BH,Bahrain,2017-09-01,272
+BH,Bahrain,2017-10-01,159
+BH,Bahrain,2017-11-01,127
+BH,Bahrain,2017-12-01,169
+BH,Bahrain,2018-01-01,192
+BH,Bahrain,2018-02-01,113
+BD,Bangladesh,2017-01-01,1495
+BD,Bangladesh,2017-02-01,1127
+BD,Bangladesh,2017-03-01,1577
+BD,Bangladesh,2017-04-01,1543
+BD,Bangladesh,2017-05-01,1771
+BD,Bangladesh,2017-06-01,1599
+BD,Bangladesh,2017-07-01,1353
+BD,Bangladesh,2017-08-01,1876
+BD,Bangladesh,2017-09-01,2112
+BD,Bangladesh,2017-10-01,2822
+BD,Bangladesh,2017-11-01,2849
+BD,Bangladesh,2017-12-01,2730
+BD,Bangladesh,2018-01-01,1115
+BD,Bangladesh,2018-02-01,2016
+BB,Barbados,2017-01-01,1355
+BB,Barbados,2017-02-01,302
+BB,Barbados,2017-03-01,87
+BB,Barbados,2017-04-01,168
+BB,Barbados,2017-05-01,121
+BB,Barbados,2017-06-01,107
+BB,Barbados,2017-07-01,182
+BB,Barbados,2017-08-01,163
+BB,Barbados,2017-09-01,64
+BB,Barbados,2017-10-01,102
+BB,Barbados,2017-11-01,188
+BB,Barbados,2017-12-01,159
+BB,Barbados,2018-01-01,60
+BB,Barbados,2018-02-01,94
+BY,Belarus,2017-01-01,369
+BY,Belarus,2017-02-01,515
+BY,Belarus,2017-03-01,902
+BY,Belarus,2017-04-01,1339
+BY,Belarus,2017-05-01,2133
+BY,Belarus,2017-06-01,964
+BY,Belarus,2017-07-01,346
+BY,Belarus,2017-08-01,512
+BY,Belarus,2017-09-01,969
+BY,Belarus,2017-10-01,1023
+BY,Belarus,2017-11-01,971
+BY,Belarus,2017-12-01,693
+BY,Belarus,2018-01-01,374
+BY,Belarus,2018-02-01,631
+BE,Belgium,2017-01-01,18705
+BE,Belgium,2017-02-01,16532
+BE,Belgium,2017-03-01,21648
+BE,Belgium,2017-04-01,17624
+BE,Belgium,2017-05-01,29694
+BE,Belgium,2017-06-01,22259
+BE,Belgium,2017-07-01,12127
+BE,Belgium,2017-08-01,17910
+BE,Belgium,2017-09-01,17555
+BE,Belgium,2017-10-01,22371
+BE,Belgium,2017-11-01,22764
+BE,Belgium,2017-12-01,17667
+BE,Belgium,2018-01-01,9951
+BE,Belgium,2018-02-01,18869
+BZ,Belize,2017-01-01,90
+BZ,Belize,2017-02-01,42
+BZ,Belize,2017-03-01,293
+BZ,Belize,2017-04-01,58
+BZ,Belize,2017-05-01,45
+BZ,Belize,2017-06-01,36
+BZ,Belize,2017-07-01,82
+BZ,Belize,2017-08-01,132
+BZ,Belize,2017-09-01,60
+BZ,Belize,2017-10-01,125
+BZ,Belize,2017-11-01,163
+BZ,Belize,2017-12-01,42
+BZ,Belize,2018-01-01,8
+BZ,Belize,2018-02-01,29
+BJ,Benin,2017-01-01,2
+BJ,Benin,2017-04-01,1
+BJ,Benin,2017-05-01,2
+BJ,Benin,2017-06-01,1
+BJ,Benin,2017-07-01,26
+BJ,Benin,2017-08-01,12
+BJ,Benin,2017-10-01,10
+BJ,Benin,2017-12-01,2
+BJ,Benin,2018-01-01,2
+BJ,Benin,2018-02-01,49
+BM,Bermuda,2017-01-01,2
+BM,Bermuda,2017-03-01,4
+BM,Bermuda,2017-04-01,32
+BM,Bermuda,2017-09-01,5
+BM,Bermuda,2017-10-01,5
+BM,Bermuda,2017-11-01,2
+BM,Bermuda,2017-12-01,26
+BM,Bermuda,2018-01-01,1
+BM,Bermuda,2018-02-01,9
+BT,Bhutan,2017-01-01,39
+BT,Bhutan,2017-02-01,6
+BT,Bhutan,2017-03-01,22
+BT,Bhutan,2017-04-01,20
+BT,Bhutan,2017-05-01,33
+BT,Bhutan,2017-06-01,47
+BT,Bhutan,2017-07-01,20
+BT,Bhutan,2017-08-01,20
+BT,Bhutan,2017-09-01,28
+BT,Bhutan,2017-10-01,28
+BT,Bhutan,2017-11-01,29
+BT,Bhutan,2017-12-01,5
+BT,Bhutan,2018-01-01,15
+BT,Bhutan,2018-02-01,10
+BO,Bolivia,2017-01-01,103
+BO,Bolivia,2017-02-01,79
+BO,Bolivia,2017-03-01,113
+BO,Bolivia,2017-04-01,98
+BO,Bolivia,2017-05-01,117
+BO,Bolivia,2017-06-01,70
+BO,Bolivia,2017-07-01,55
+BO,Bolivia,2017-08-01,149
+BO,Bolivia,2017-09-01,140
+BO,Bolivia,2017-10-01,120
+BO,Bolivia,2017-11-01,199
+BO,Bolivia,2017-12-01,155
+BO,Bolivia,2018-01-01,86
+BO,Bolivia,2018-02-01,107
+BQ,"Bonaire, Saint Eustatius and Saba",2017-01-01,12
+BQ,"Bonaire, Saint Eustatius and Saba",2017-02-01,46
+BQ,"Bonaire, Saint Eustatius and Saba",2017-03-01,20
+BQ,"Bonaire, Saint Eustatius and Saba",2017-04-01,10
+BQ,"Bonaire, Saint Eustatius and Saba",2017-05-01,2
+BQ,"Bonaire, Saint Eustatius and Saba",2017-09-01,20
+BQ,"Bonaire, Saint Eustatius and Saba",2017-11-01,3
+BQ,"Bonaire, Saint Eustatius and Saba",2017-12-01,12
+BQ,"Bonaire, Saint Eustatius and Saba",2018-02-01,4
+BA,"Bosnia and Herzegovina",2017-01-01,1068
+BA,"Bosnia and Herzegovina",2017-02-01,976
+BA,"Bosnia and Herzegovina",2017-03-01,1170
+BA,"Bosnia and Herzegovina",2017-04-01,1505
+BA,"Bosnia and Herzegovina",2017-05-01,1632
+BA,"Bosnia and Herzegovina",2017-06-01,1251
+BA,"Bosnia and Herzegovina",2017-07-01,590
+BA,"Bosnia and Herzegovina",2017-08-01,1057
+BA,"Bosnia and Herzegovina",2017-09-01,1345
+BA,"Bosnia and Herzegovina",2017-10-01,1139
+BA,"Bosnia and Herzegovina",2017-11-01,1371
+BA,"Bosnia and Herzegovina",2017-12-01,1041
+BA,"Bosnia and Herzegovina",2018-01-01,688
+BA,"Bosnia and Herzegovina",2018-02-01,1211
+BW,Botswana,2017-01-01,47
+BW,Botswana,2017-02-01,61
+BW,Botswana,2017-03-01,96
+BW,Botswana,2017-04-01,150
+BW,Botswana,2017-05-01,256
+BW,Botswana,2017-06-01,126
+BW,Botswana,2017-07-01,69
+BW,Botswana,2017-08-01,266
+BW,Botswana,2017-09-01,106
+BW,Botswana,2017-10-01,246
+BW,Botswana,2017-11-01,504
+BW,Botswana,2017-12-01,941
+BW,Botswana,2018-01-01,414
+BW,Botswana,2018-02-01,253
+BV,"Bouvet Island",2017-09-01,4
+BV,"Bouvet Island",2017-10-01,1
+BV,"Bouvet Island",2017-11-01,4
+BV,"Bouvet Island",2018-02-01,10
+BR,Brazil,2017-01-01,27992
+BR,Brazil,2017-02-01,31678
+BR,Brazil,2017-03-01,38080
+BR,Brazil,2017-04-01,38378
+BR,Brazil,2017-05-01,53795
+BR,Brazil,2017-06-01,47527
+BR,Brazil,2017-07-01,29964
+BR,Brazil,2017-08-01,44611
+BR,Brazil,2017-09-01,42700
+BR,Brazil,2017-10-01,42651
+BR,Brazil,2017-11-01,46933
+BR,Brazil,2017-12-01,66920
+BR,Brazil,2018-01-01,13000
+BR,Brazil,2018-02-01,34002
+BN,"Brunei Darussalam",2017-01-01,142
+BN,"Brunei Darussalam",2017-02-01,86
+BN,"Brunei Darussalam",2017-03-01,123
+BN,"Brunei Darussalam",2017-04-01,177
+BN,"Brunei Darussalam",2017-05-01,188
+BN,"Brunei Darussalam",2017-06-01,124
+BN,"Brunei Darussalam",2017-07-01,71
+BN,"Brunei Darussalam",2017-08-01,211
+BN,"Brunei Darussalam",2017-09-01,239
+BN,"Brunei Darussalam",2017-10-01,256
+BN,"Brunei Darussalam",2017-11-01,270
+BN,"Brunei Darussalam",2017-12-01,204
+BN,"Brunei Darussalam",2018-01-01,185
+BN,"Brunei Darussalam",2018-02-01,275
+BG,Bulgaria,2017-01-01,2988
+BG,Bulgaria,2017-02-01,2348
+BG,Bulgaria,2017-03-01,2611
+BG,Bulgaria,2017-04-01,3385
+BG,Bulgaria,2017-05-01,2653
+BG,Bulgaria,2017-06-01,2243
+BG,Bulgaria,2017-07-01,1407
+BG,Bulgaria,2017-08-01,1942
+BG,Bulgaria,2017-09-01,14728
+BG,Bulgaria,2017-10-01,3107
+BG,Bulgaria,2017-11-01,2904
+BG,Bulgaria,2017-12-01,1929
+BG,Bulgaria,2018-01-01,1483
+BG,Bulgaria,2018-02-01,1738
+BF,"Burkina Faso",2017-10-01,8
+BF,"Burkina Faso",2018-02-01,21
+BI,Burundi,2017-01-01,2
+BI,Burundi,2017-04-01,4
+BI,Burundi,2017-05-01,2
+BI,Burundi,2017-06-01,4
+BI,Burundi,2017-09-01,7
+BI,Burundi,2017-11-01,17
+BI,Burundi,2017-12-01,6
+BI,Burundi,2018-02-01,4
+KH,Cambodia,2017-01-01,107
+KH,Cambodia,2017-02-01,40
+KH,Cambodia,2017-03-01,130
+KH,Cambodia,2017-04-01,82
+KH,Cambodia,2017-05-01,82
+KH,Cambodia,2017-06-01,122
+KH,Cambodia,2017-07-01,181
+KH,Cambodia,2017-08-01,865
+KH,Cambodia,2017-09-01,232
+KH,Cambodia,2017-10-01,204
+KH,Cambodia,2017-11-01,270
+KH,Cambodia,2017-12-01,150
+KH,Cambodia,2018-01-01,41
+KH,Cambodia,2018-02-01,74
+CM,Cameroon,2017-01-01,205
+CM,Cameroon,2017-02-01,82
+CM,Cameroon,2017-03-01,119
+CM,Cameroon,2017-04-01,178
+CM,Cameroon,2017-05-01,318
+CM,Cameroon,2017-06-01,280
+CM,Cameroon,2017-07-01,294
+CM,Cameroon,2017-08-01,404
+CM,Cameroon,2017-09-01,634
+CM,Cameroon,2017-10-01,352
+CM,Cameroon,2017-11-01,428
+CM,Cameroon,2017-12-01,234
+CM,Cameroon,2018-01-01,123
+CM,Cameroon,2018-02-01,317
+CA,Canada,2017-01-01,96755
+CA,Canada,2017-02-01,87792
+CA,Canada,2017-03-01,90300
+CA,Canada,2017-04-01,72356
+CA,Canada,2017-05-01,75496
+CA,Canada,2017-06-01,66850
+CA,Canada,2017-07-01,47271
+CA,Canada,2017-08-01,69709
+CA,Canada,2017-09-01,78426
+CA,Canada,2017-10-01,85520
+CA,Canada,2017-11-01,102670
+CA,Canada,2017-12-01,61275
+CA,Canada,2018-01-01,35384
+CA,Canada,2018-02-01,97666
+CV,"Cape Verde",2017-01-01,8
+CV,"Cape Verde",2017-02-01,3
+CV,"Cape Verde",2017-03-01,4
+CV,"Cape Verde",2017-04-01,4
+CV,"Cape Verde",2017-05-01,58
+CV,"Cape Verde",2017-06-01,26
+CV,"Cape Verde",2017-07-01,4
+CV,"Cape Verde",2017-08-01,58
+CV,"Cape Verde",2017-09-01,12
+CV,"Cape Verde",2017-10-01,6
+CV,"Cape Verde",2017-11-01,47
+CV,"Cape Verde",2017-12-01,11
+CV,"Cape Verde",2018-01-01,2
+CV,"Cape Verde",2018-02-01,55
+KY,"Cayman Islands",2017-01-01,10
+KY,"Cayman Islands",2017-02-01,22
+KY,"Cayman Islands",2017-03-01,24
+KY,"Cayman Islands",2017-04-01,18
+KY,"Cayman Islands",2017-05-01,16
+KY,"Cayman Islands",2017-06-01,17
+KY,"Cayman Islands",2017-07-01,16
+KY,"Cayman Islands",2017-08-01,18
+KY,"Cayman Islands",2017-09-01,7
+KY,"Cayman Islands",2017-10-01,26
+KY,"Cayman Islands",2017-11-01,1
+KY,"Cayman Islands",2017-12-01,6
+KY,"Cayman Islands",2018-01-01,1
+KY,"Cayman Islands",2018-02-01,6
+CF,"Central African Republic",2017-05-01,4
+CF,"Central African Republic",2017-06-01,2
+CF,"Central African Republic",2017-08-01,2
+CF,"Central African Republic",2017-09-01,6
+CF,"Central African Republic",2017-11-01,17
+CF,"Central African Republic",2018-01-01,2
+TD,Chad,2017-03-01,16
+TD,Chad,2017-10-01,2
+TD,Chad,2017-11-01,1
+CL,Chile,2017-01-01,14232
+CL,Chile,2017-02-01,6587
+CL,Chile,2017-03-01,18640
+CL,Chile,2017-04-01,17949
+CL,Chile,2017-05-01,25243
+CL,Chile,2017-06-01,27550
+CL,Chile,2017-07-01,8545
+CL,Chile,2017-08-01,15917
+CL,Chile,2017-09-01,12334
+CL,Chile,2017-10-01,17097
+CL,Chile,2017-11-01,22200
+CL,Chile,2017-12-01,12864
+CL,Chile,2018-01-01,4114
+CL,Chile,2018-02-01,9920
+CN,China,2017-01-01,660885
+CN,China,2017-02-01,199384
+CN,China,2017-03-01,309344
+CN,China,2017-04-01,391107
+CN,China,2017-05-01,545003
+CN,China,2017-06-01,293507
+CN,China,2017-07-01,443646
+CN,China,2017-08-01,357566
+CN,China,2017-09-01,315682
+CN,China,2017-10-01,811911
+CN,China,2017-11-01,1592851
+CN,China,2017-12-01,1277943
+CN,China,2018-01-01,396988
+CN,China,2018-02-01,1403023
+CO,Colombia,2017-01-01,2204
+CO,Colombia,2017-02-01,3894
+CO,Colombia,2017-03-01,7621
+CO,Colombia,2017-04-01,5535
+CO,Colombia,2017-05-01,9459
+CO,Colombia,2017-06-01,16356
+CO,Colombia,2017-07-01,3221
+CO,Colombia,2017-08-01,12394
+CO,Colombia,2017-09-01,12588
+CO,Colombia,2017-10-01,33662
+CO,Colombia,2017-11-01,11206
+CO,Colombia,2017-12-01,6607
+CO,Colombia,2018-01-01,1205
+CO,Colombia,2018-02-01,6979
+CG,Congo,2017-01-01,4
+CG,Congo,2017-02-01,20
+CG,Congo,2017-03-01,18
+CG,Congo,2017-04-01,23
+CG,Congo,2017-05-01,34
+CG,Congo,2017-06-01,45
+CG,Congo,2017-07-01,6
+CG,Congo,2017-08-01,21
+CG,Congo,2017-09-01,65
+CG,Congo,2017-10-01,6
+CG,Congo,2017-11-01,9
+CG,Congo,2017-12-01,2
+CG,Congo,2018-01-01,15
+CG,Congo,2018-02-01,11
+CD,"Congo, The Democratic Republic of the",2017-01-01,6
+CD,"Congo, The Democratic Republic of the",2017-02-01,9
+CD,"Congo, The Democratic Republic of the",2017-03-01,3
+CD,"Congo, The Democratic Republic of the",2017-04-01,8
+CD,"Congo, The Democratic Republic of the",2017-05-01,31
+CD,"Congo, The Democratic Republic of the",2017-06-01,29
+CD,"Congo, The Democratic Republic of the",2017-07-01,45
+CD,"Congo, The Democratic Republic of the",2017-08-01,25
+CD,"Congo, The Democratic Republic of the",2017-09-01,9
+CD,"Congo, The Democratic Republic of the",2017-10-01,6
+CD,"Congo, The Democratic Republic of the",2017-11-01,19
+CD,"Congo, The Democratic Republic of the",2017-12-01,8
+CD,"Congo, The Democratic Republic of the",2018-01-01,10
+CD,"Congo, The Democratic Republic of the",2018-02-01,35
+CK,"Cook Islands",2017-09-01,1
+CR,"Costa Rica",2017-01-01,504
+CR,"Costa Rica",2017-02-01,1088
+CR,"Costa Rica",2017-03-01,2589
+CR,"Costa Rica",2017-04-01,626
+CR,"Costa Rica",2017-05-01,4698
+CR,"Costa Rica",2017-06-01,1129
+CR,"Costa Rica",2017-07-01,296
+CR,"Costa Rica",2017-08-01,1220
+CR,"Costa Rica",2017-09-01,6364
+CR,"Costa Rica",2017-10-01,2042
+CR,"Costa Rica",2017-11-01,1040
+CR,"Costa Rica",2017-12-01,918
+CR,"Costa Rica",2018-01-01,236
+CR,"Costa Rica",2018-02-01,1054
+CI,"Cote D'Ivoire",2017-01-01,173
+CI,"Cote D'Ivoire",2017-02-01,199
+CI,"Cote D'Ivoire",2017-03-01,216
+CI,"Cote D'Ivoire",2017-04-01,278
+CI,"Cote D'Ivoire",2017-05-01,401
+CI,"Cote D'Ivoire",2017-06-01,375
+CI,"Cote D'Ivoire",2017-07-01,615
+CI,"Cote D'Ivoire",2017-08-01,392
+CI,"Cote D'Ivoire",2017-09-01,508
+CI,"Cote D'Ivoire",2017-10-01,559
+CI,"Cote D'Ivoire",2017-11-01,650
+CI,"Cote D'Ivoire",2017-12-01,443
+CI,"Cote D'Ivoire",2018-01-01,8969
+CI,"Cote D'Ivoire",2018-02-01,375
+HR,Croatia,2017-01-01,2543
+HR,Croatia,2017-02-01,1602
+HR,Croatia,2017-03-01,2962
+HR,Croatia,2017-04-01,2454
+HR,Croatia,2017-05-01,2857
+HR,Croatia,2017-06-01,2709
+HR,Croatia,2017-07-01,1374
+HR,Croatia,2017-08-01,3682
+HR,Croatia,2017-09-01,4289
+HR,Croatia,2017-10-01,4592
+HR,Croatia,2017-11-01,5657
+HR,Croatia,2017-12-01,4234
+HR,Croatia,2018-01-01,3947
+HR,Croatia,2018-02-01,3997
+CU,Cuba,2017-01-01,247
+CU,Cuba,2017-02-01,104
+CU,Cuba,2017-03-01,106
+CU,Cuba,2017-04-01,181
+CU,Cuba,2017-05-01,153
+CU,Cuba,2017-06-01,270
+CU,Cuba,2017-07-01,19
+CU,Cuba,2017-08-01,301
+CU,Cuba,2017-09-01,248
+CU,Cuba,2017-10-01,77
+CU,Cuba,2017-11-01,215
+CU,Cuba,2017-12-01,313
+CU,Cuba,2018-01-01,8
+CU,Cuba,2018-02-01,68
+CW,Curacao,2017-01-01,42
+CW,Curacao,2017-02-01,34
+CW,Curacao,2017-03-01,43
+CW,Curacao,2017-04-01,36
+CW,Curacao,2017-05-01,52
+CW,Curacao,2017-06-01,29
+CW,Curacao,2017-07-01,47
+CW,Curacao,2017-08-01,81
+CW,Curacao,2017-09-01,99
+CW,Curacao,2017-10-01,48
+CW,Curacao,2017-11-01,24
+CW,Curacao,2017-12-01,54
+CW,Curacao,2018-01-01,11
+CW,Curacao,2018-02-01,10
+CY,Cyprus,2017-01-01,586
+CY,Cyprus,2017-02-01,1165
+CY,Cyprus,2017-03-01,1440
+CY,Cyprus,2017-04-01,275
+CY,Cyprus,2017-05-01,492
+CY,Cyprus,2017-06-01,747
+CY,Cyprus,2017-07-01,162
+CY,Cyprus,2017-08-01,290
+CY,Cyprus,2017-09-01,1401
+CY,Cyprus,2017-10-01,698
+CY,Cyprus,2017-11-01,515
+CY,Cyprus,2017-12-01,429
+CY,Cyprus,2018-01-01,170
+CY,Cyprus,2018-02-01,607
+CZ,"Czech Republic",2017-01-01,11364
+CZ,"Czech Republic",2017-02-01,9904
+CZ,"Czech Republic",2017-03-01,783005
+CZ,"Czech Republic",2017-04-01,10585
+CZ,"Czech Republic",2017-05-01,25218
+CZ,"Czech Republic",2017-06-01,8246
+CZ,"Czech Republic",2017-07-01,4203
+CZ,"Czech Republic",2017-08-01,7345
+CZ,"Czech Republic",2017-09-01,17100
+CZ,"Czech Republic",2017-10-01,16833
+CZ,"Czech Republic",2017-11-01,9827
+CZ,"Czech Republic",2017-12-01,8512
+CZ,"Czech Republic",2018-01-01,4588
+CZ,"Czech Republic",2018-02-01,8881
+DK,Denmark,2017-01-01,21541
+DK,Denmark,2017-02-01,19640
+DK,Denmark,2017-03-01,19359
+DK,Denmark,2017-04-01,18258
+DK,Denmark,2017-05-01,24997
+DK,Denmark,2017-06-01,28004
+DK,Denmark,2017-07-01,12274
+DK,Denmark,2017-08-01,19962
+DK,Denmark,2017-09-01,16646
+DK,Denmark,2017-10-01,22416
+DK,Denmark,2017-11-01,27739
+DK,Denmark,2017-12-01,19283
+DK,Denmark,2018-01-01,10977
+DK,Denmark,2018-02-01,17038
+DJ,Djibouti,2017-02-01,3
+DJ,Djibouti,2017-05-01,4
+DJ,Djibouti,2017-08-01,1
+DJ,Djibouti,2017-09-01,8
+DJ,Djibouti,2017-10-01,2
+DJ,Djibouti,2017-11-01,2
+DJ,Djibouti,2017-12-01,1
+DJ,Djibouti,2018-01-01,2
+DJ,Djibouti,2018-02-01,26
+DM,Dominica,2017-01-01,4
+DM,Dominica,2017-02-01,10
+DM,Dominica,2017-03-01,8
+DM,Dominica,2017-04-01,24
+DM,Dominica,2017-05-01,30
+DM,Dominica,2017-06-01,10
+DM,Dominica,2017-07-01,17
+DM,Dominica,2017-08-01,19
+DM,Dominica,2017-09-01,63
+DM,Dominica,2018-02-01,10
+DO,"Dominican Republic",2017-01-01,305
+DO,"Dominican Republic",2017-02-01,349
+DO,"Dominican Republic",2017-03-01,317
+DO,"Dominican Republic",2017-04-01,498
+DO,"Dominican Republic",2017-05-01,529
+DO,"Dominican Republic",2017-06-01,440
+DO,"Dominican Republic",2017-07-01,274
+DO,"Dominican Republic",2017-08-01,335
+DO,"Dominican Republic",2017-09-01,546
+DO,"Dominican Republic",2017-10-01,483
+DO,"Dominican Republic",2017-11-01,585
+DO,"Dominican Republic",2017-12-01,362
+DO,"Dominican Republic",2018-01-01,265
+DO,"Dominican Republic",2018-02-01,365
+EC,Ecuador,2017-01-01,1470
+EC,Ecuador,2017-02-01,483
+EC,Ecuador,2017-03-01,1350
+EC,Ecuador,2017-04-01,1508
+EC,Ecuador,2017-05-01,5323
+EC,Ecuador,2017-06-01,1190
+EC,Ecuador,2017-07-01,878
+EC,Ecuador,2017-08-01,1518
+EC,Ecuador,2017-09-01,1149
+EC,Ecuador,2017-10-01,7070
+EC,Ecuador,2017-11-01,1440
+EC,Ecuador,2017-12-01,763
+EC,Ecuador,2018-01-01,669
+EC,Ecuador,2018-02-01,888
+EG,Egypt,2017-01-01,3685
+EG,Egypt,2017-02-01,5458
+EG,Egypt,2017-03-01,6361
+EG,Egypt,2017-04-01,3616
+EG,Egypt,2017-05-01,3756
+EG,Egypt,2017-06-01,3892
+EG,Egypt,2017-07-01,3101
+EG,Egypt,2017-08-01,4317
+EG,Egypt,2017-09-01,5302
+EG,Egypt,2017-10-01,6745
+EG,Egypt,2017-11-01,6276
+EG,Egypt,2017-12-01,6053
+EG,Egypt,2018-01-01,2943
+EG,Egypt,2018-02-01,4840
+SV,"El Salvador",2017-01-01,37
+SV,"El Salvador",2017-02-01,56
+SV,"El Salvador",2017-03-01,188
+SV,"El Salvador",2017-04-01,56
+SV,"El Salvador",2017-05-01,74
+SV,"El Salvador",2017-06-01,65
+SV,"El Salvador",2017-07-01,36
+SV,"El Salvador",2017-08-01,87
+SV,"El Salvador",2017-09-01,183
+SV,"El Salvador",2017-10-01,95
+SV,"El Salvador",2017-11-01,104
+SV,"El Salvador",2017-12-01,114
+SV,"El Salvador",2018-01-01,11
+SV,"El Salvador",2018-02-01,29
+GQ,"Equatorial Guinea",2017-02-01,10
+GQ,"Equatorial Guinea",2017-03-01,4
+GQ,"Equatorial Guinea",2017-04-01,15
+GQ,"Equatorial Guinea",2017-05-01,27
+GQ,"Equatorial Guinea",2017-06-01,2
+GQ,"Equatorial Guinea",2017-07-01,14
+GQ,"Equatorial Guinea",2017-08-01,11
+GQ,"Equatorial Guinea",2017-09-01,26
+GQ,"Equatorial Guinea",2017-10-01,8
+GQ,"Equatorial Guinea",2017-11-01,27
+GQ,"Equatorial Guinea",2017-12-01,21
+GQ,"Equatorial Guinea",2018-01-01,19
+GQ,"Equatorial Guinea",2018-02-01,16
+EE,Estonia,2017-01-01,2778
+EE,Estonia,2017-02-01,3629
+EE,Estonia,2017-03-01,921
+EE,Estonia,2017-04-01,1790
+EE,Estonia,2017-05-01,2698
+EE,Estonia,2017-06-01,1368
+EE,Estonia,2017-07-01,772
+EE,Estonia,2017-08-01,2126
+EE,Estonia,2017-09-01,3244
+EE,Estonia,2017-10-01,2419
+EE,Estonia,2017-11-01,6355
+EE,Estonia,2017-12-01,9695
+EE,Estonia,2018-01-01,2138
+EE,Estonia,2018-02-01,4372
+ET,Ethiopia,2017-01-01,32
+ET,Ethiopia,2017-02-01,25
+ET,Ethiopia,2017-03-01,22
+ET,Ethiopia,2017-04-01,54
+ET,Ethiopia,2017-05-01,50
+ET,Ethiopia,2017-06-01,33
+ET,Ethiopia,2017-07-01,40
+ET,Ethiopia,2017-08-01,63
+ET,Ethiopia,2017-09-01,48
+ET,Ethiopia,2017-10-01,308
+ET,Ethiopia,2017-11-01,84
+ET,Ethiopia,2017-12-01,99
+ET,Ethiopia,2018-01-01,64
+ET,Ethiopia,2018-02-01,84
+EU,Europe,2017-01-01,10745
+EU,Europe,2017-02-01,1033
+EU,Europe,2017-03-01,2120
+EU,Europe,2017-04-01,2043
+EU,Europe,2017-05-01,20962
+EU,Europe,2017-06-01,3465
+EU,Europe,2017-07-01,3318
+EU,Europe,2017-08-01,1900
+EU,Europe,2017-09-01,942
+EU,Europe,2017-10-01,8234
+EU,Europe,2017-11-01,1475
+EU,Europe,2017-12-01,1552
+EU,Europe,2018-01-01,2432
+EU,Europe,2018-02-01,10080
+FO,"Faroe Islands",2017-01-01,6
+FO,"Faroe Islands",2017-02-01,18
+FO,"Faroe Islands",2017-03-01,2
+FO,"Faroe Islands",2017-04-01,10
+FO,"Faroe Islands",2017-05-01,2
+FO,"Faroe Islands",2017-06-01,4
+FO,"Faroe Islands",2017-08-01,3
+FO,"Faroe Islands",2017-09-01,2
+FO,"Faroe Islands",2017-10-01,2
+FO,"Faroe Islands",2017-11-01,7
+FO,"Faroe Islands",2017-12-01,2
+FO,"Faroe Islands",2018-02-01,14
+FJ,Fiji,2017-01-01,57
+FJ,Fiji,2017-02-01,37
+FJ,Fiji,2017-03-01,51
+FJ,Fiji,2017-04-01,62
+FJ,Fiji,2017-05-01,33
+FJ,Fiji,2017-06-01,53
+FJ,Fiji,2017-07-01,68
+FJ,Fiji,2017-08-01,108
+FJ,Fiji,2017-09-01,79
+FJ,Fiji,2017-10-01,61
+FJ,Fiji,2017-11-01,114
+FJ,Fiji,2017-12-01,87
+FJ,Fiji,2018-01-01,8
+FJ,Fiji,2018-02-01,20
+FI,Finland,2017-01-01,4148
+FI,Finland,2017-02-01,3088
+FI,Finland,2017-03-01,3776
+FI,Finland,2017-04-01,4588
+FI,Finland,2017-05-01,4423
+FI,Finland,2017-06-01,2715
+FI,Finland,2017-07-01,1354
+FI,Finland,2017-08-01,2231
+FI,Finland,2017-09-01,2703
+FI,Finland,2017-10-01,2782
+FI,Finland,2017-11-01,2912
+FI,Finland,2017-12-01,3390
+FI,Finland,2018-01-01,2272
+FI,Finland,2018-02-01,3050
+FR,France,2017-01-01,151462
+FR,France,2017-02-01,116596
+FR,France,2017-03-01,169195
+FR,France,2017-04-01,125124
+FR,France,2017-05-01,223241
+FR,France,2017-06-01,152325
+FR,France,2017-07-01,72352
+FR,France,2017-08-01,102656
+FR,France,2017-09-01,133221
+FR,France,2017-10-01,209163
+FR,France,2017-11-01,221220
+FR,France,2017-12-01,212023
+FR,France,2018-01-01,82204
+FR,France,2018-02-01,162736
+GF,"French Guiana",2017-01-01,15
+GF,"French Guiana",2017-02-01,50
+GF,"French Guiana",2017-03-01,38
+GF,"French Guiana",2017-04-01,71
+GF,"French Guiana",2017-05-01,33
+GF,"French Guiana",2017-06-01,39
+GF,"French Guiana",2017-07-01,31
+GF,"French Guiana",2017-08-01,22
+GF,"French Guiana",2017-09-01,22
+GF,"French Guiana",2017-10-01,9
+GF,"French Guiana",2017-11-01,60
+GF,"French Guiana",2017-12-01,4
+GF,"French Guiana",2018-01-01,18
+GF,"French Guiana",2018-02-01,4
+PF,"French Polynesia",2017-01-01,22
+PF,"French Polynesia",2017-02-01,18
+PF,"French Polynesia",2017-03-01,4
+PF,"French Polynesia",2017-04-01,4
+PF,"French Polynesia",2017-05-01,38
+PF,"French Polynesia",2017-06-01,67
+PF,"French Polynesia",2017-07-01,4
+PF,"French Polynesia",2017-08-01,25
+PF,"French Polynesia",2017-09-01,88
+PF,"French Polynesia",2017-10-01,43
+PF,"French Polynesia",2017-11-01,193
+PF,"French Polynesia",2017-12-01,8
+PF,"French Polynesia",2018-01-01,14
+PF,"French Polynesia",2018-02-01,48
+GA,Gabon,2017-01-01,55
+GA,Gabon,2017-02-01,20
+GA,Gabon,2017-03-01,61
+GA,Gabon,2017-04-01,109
+GA,Gabon,2017-05-01,119
+GA,Gabon,2017-06-01,129
+GA,Gabon,2017-07-01,90
+GA,Gabon,2017-08-01,72
+GA,Gabon,2017-09-01,99
+GA,Gabon,2017-10-01,90
+GA,Gabon,2017-11-01,206
+GA,Gabon,2017-12-01,47
+GA,Gabon,2018-01-01,55
+GA,Gabon,2018-02-01,58
+GE,Georgia,2017-01-01,347
+GE,Georgia,2017-02-01,487
+GE,Georgia,2017-03-01,592
+GE,Georgia,2017-04-01,709
+GE,Georgia,2017-05-01,633
+GE,Georgia,2017-06-01,683
+GE,Georgia,2017-07-01,356
+GE,Georgia,2017-08-01,539
+GE,Georgia,2017-09-01,679
+GE,Georgia,2017-10-01,671
+GE,Georgia,2017-11-01,689
+GE,Georgia,2017-12-01,634
+GE,Georgia,2018-01-01,695
+GE,Georgia,2018-02-01,623
+DE,Germany,2017-01-01,176364
+DE,Germany,2017-02-01,145320
+DE,Germany,2017-03-01,180746
+DE,Germany,2017-04-01,389082
+DE,Germany,2017-05-01,423420
+DE,Germany,2017-06-01,429430
+DE,Germany,2017-07-01,319024
+DE,Germany,2017-08-01,363469
+DE,Germany,2017-09-01,407905
+DE,Germany,2017-10-01,299464
+DE,Germany,2017-11-01,449594
+DE,Germany,2017-12-01,309176
+DE,Germany,2018-01-01,102781
+DE,Germany,2018-02-01,249610
+GH,Ghana,2017-01-01,447
+GH,Ghana,2017-02-01,274
+GH,Ghana,2017-03-01,468
+GH,Ghana,2017-04-01,667
+GH,Ghana,2017-05-01,374
+GH,Ghana,2017-06-01,615
+GH,Ghana,2017-07-01,194
+GH,Ghana,2017-08-01,578
+GH,Ghana,2017-09-01,519
+GH,Ghana,2017-10-01,555
+GH,Ghana,2017-11-01,850
+GH,Ghana,2017-12-01,677
+GH,Ghana,2018-01-01,245
+GH,Ghana,2018-02-01,924
+GI,Gibraltar,2017-01-01,11
+GI,Gibraltar,2017-02-01,10
+GI,Gibraltar,2017-03-01,6
+GI,Gibraltar,2017-05-01,4
+GI,Gibraltar,2017-07-01,2
+GI,Gibraltar,2017-08-01,2
+GI,Gibraltar,2017-09-01,25
+GI,Gibraltar,2017-10-01,4
+GI,Gibraltar,2017-12-01,12
+GI,Gibraltar,2018-01-01,2
+GR,Greece,2017-01-01,6198
+GR,Greece,2017-02-01,6535
+GR,Greece,2017-03-01,7615
+GR,Greece,2017-04-01,6612
+GR,Greece,2017-05-01,4654
+GR,Greece,2017-06-01,5748
+GR,Greece,2017-07-01,6269
+GR,Greece,2017-08-01,5932
+GR,Greece,2017-09-01,5925
+GR,Greece,2017-10-01,6377
+GR,Greece,2017-11-01,7186
+GR,Greece,2017-12-01,3970
+GR,Greece,2018-01-01,2332
+GR,Greece,2018-02-01,8418
+GL,Greenland,2017-01-01,2
+GL,Greenland,2017-04-01,2
+GL,Greenland,2017-05-01,14
+GL,Greenland,2017-07-01,4
+GL,Greenland,2017-08-01,2
+GL,Greenland,2017-10-01,4
+GL,Greenland,2017-11-01,2
+GL,Greenland,2017-12-01,28
+GL,Greenland,2018-01-01,20
+GL,Greenland,2018-02-01,8
+GD,Grenada,2017-01-01,34
+GD,Grenada,2017-02-01,38
+GD,Grenada,2017-03-01,35
+GD,Grenada,2017-04-01,36
+GD,Grenada,2017-05-01,55
+GD,Grenada,2017-06-01,43
+GD,Grenada,2017-07-01,12
+GD,Grenada,2017-08-01,47
+GD,Grenada,2017-09-01,27
+GD,Grenada,2017-10-01,49
+GD,Grenada,2017-11-01,25
+GD,Grenada,2017-12-01,14
+GD,Grenada,2018-01-01,22
+GD,Grenada,2018-02-01,23
+GP,Guadeloupe,2017-01-01,21
+GP,Guadeloupe,2017-02-01,20
+GP,Guadeloupe,2017-03-01,13
+GP,Guadeloupe,2017-04-01,28
+GP,Guadeloupe,2017-05-01,45
+GP,Guadeloupe,2017-06-01,75
+GP,Guadeloupe,2017-07-01,74
+GP,Guadeloupe,2017-08-01,65
+GP,Guadeloupe,2017-09-01,69
+GP,Guadeloupe,2017-10-01,46
+GP,Guadeloupe,2017-11-01,40
+GP,Guadeloupe,2017-12-01,41
+GP,Guadeloupe,2018-01-01,26
+GP,Guadeloupe,2018-02-01,63
+GU,Guam,2017-02-01,6
+GU,Guam,2017-03-01,12
+GU,Guam,2017-04-01,2
+GU,Guam,2017-05-01,1
+GU,Guam,2017-06-01,2
+GU,Guam,2017-07-01,2
+GU,Guam,2017-08-01,4
+GU,Guam,2017-09-01,36
+GU,Guam,2017-10-01,7
+GU,Guam,2017-11-01,9
+GU,Guam,2017-12-01,4
+GU,Guam,2018-01-01,4
+GT,Guatemala,2017-01-01,95
+GT,Guatemala,2017-02-01,140
+GT,Guatemala,2017-03-01,278
+GT,Guatemala,2017-04-01,98
+GT,Guatemala,2017-05-01,1827
+GT,Guatemala,2017-06-01,210
+GT,Guatemala,2017-07-01,92
+GT,Guatemala,2017-08-01,115
+GT,Guatemala,2017-09-01,176
+GT,Guatemala,2017-10-01,198
+GT,Guatemala,2017-11-01,158
+GT,Guatemala,2017-12-01,145
+GT,Guatemala,2018-01-01,35
+GT,Guatemala,2018-02-01,237
+GG,Guernsey,2017-01-01,5
+GG,Guernsey,2017-03-01,1
+GG,Guernsey,2017-04-01,16
+GG,Guernsey,2017-06-01,4
+GG,Guernsey,2017-07-01,4
+GG,Guernsey,2017-08-01,26
+GG,Guernsey,2017-11-01,16
+GG,Guernsey,2017-12-01,4
+GG,Guernsey,2018-01-01,7
+GG,Guernsey,2018-02-01,9
+GW,Guinea-Bissau,2017-05-01,2
+GW,Guinea-Bissau,2017-06-01,6
+GW,Guinea-Bissau,2017-08-01,4
+GW,Guinea-Bissau,2017-09-01,2
+GW,Guinea-Bissau,2017-10-01,2
+GY,Guyana,2017-01-01,24
+GY,Guyana,2017-02-01,20
+GY,Guyana,2017-03-01,22
+GY,Guyana,2017-04-01,48
+GY,Guyana,2017-05-01,37
+GY,Guyana,2017-06-01,34
+GY,Guyana,2017-07-01,28
+GY,Guyana,2017-08-01,93
+GY,Guyana,2017-09-01,149
+GY,Guyana,2017-10-01,103
+GY,Guyana,2017-11-01,73
+GY,Guyana,2017-12-01,36
+GY,Guyana,2018-01-01,14
+GY,Guyana,2018-02-01,110
+HT,Haiti,2017-09-01,3
+HT,Haiti,2017-10-01,16
+HN,Honduras,2017-01-01,32
+HN,Honduras,2017-02-01,92
+HN,Honduras,2017-03-01,78
+HN,Honduras,2017-04-01,27
+HN,Honduras,2017-05-01,103
+HN,Honduras,2017-06-01,94
+HN,Honduras,2017-07-01,91
+HN,Honduras,2017-08-01,98
+HN,Honduras,2017-09-01,154
+HN,Honduras,2017-10-01,265
+HN,Honduras,2017-11-01,81
+HN,Honduras,2017-12-01,103
+HN,Honduras,2018-01-01,63
+HN,Honduras,2018-02-01,136
+HK,"Hong Kong",2017-01-01,17155
+HK,"Hong Kong",2017-02-01,25786
+HK,"Hong Kong",2017-03-01,23891
+HK,"Hong Kong",2017-04-01,14298
+HK,"Hong Kong",2017-05-01,16262
+HK,"Hong Kong",2017-06-01,16774
+HK,"Hong Kong",2017-07-01,12498
+HK,"Hong Kong",2017-08-01,21965
+HK,"Hong Kong",2017-09-01,18043
+HK,"Hong Kong",2017-10-01,17008
+HK,"Hong Kong",2017-11-01,20967
+HK,"Hong Kong",2017-12-01,13294
+HK,"Hong Kong",2018-01-01,8498
+HK,"Hong Kong",2018-02-01,11650
+HU,Hungary,2017-01-01,12143
+HU,Hungary,2017-02-01,7193
+HU,Hungary,2017-03-01,6371
+HU,Hungary,2017-04-01,6254
+HU,Hungary,2017-05-01,8291
+HU,Hungary,2017-06-01,6538
+HU,Hungary,2017-07-01,5236
+HU,Hungary,2017-08-01,7720
+HU,Hungary,2017-09-01,8886
+HU,Hungary,2017-10-01,10300
+HU,Hungary,2017-11-01,8522
+HU,Hungary,2017-12-01,7140
+HU,Hungary,2018-01-01,5139
+HU,Hungary,2018-02-01,7841
+IS,Iceland,2017-01-01,144
+IS,Iceland,2017-02-01,89
+IS,Iceland,2017-03-01,309
+IS,Iceland,2017-04-01,61
+IS,Iceland,2017-05-01,177
+IS,Iceland,2017-06-01,166
+IS,Iceland,2017-07-01,51
+IS,Iceland,2017-08-01,89
+IS,Iceland,2017-09-01,414
+IS,Iceland,2017-10-01,462
+IS,Iceland,2017-11-01,172
+IS,Iceland,2017-12-01,159
+IS,Iceland,2018-01-01,341
+IS,Iceland,2018-02-01,157
+IN,India,2017-01-01,124245
+IN,India,2017-02-01,102283
+IN,India,2017-03-01,114991
+IN,India,2017-04-01,182211
+IN,India,2017-05-01,157985
+IN,India,2017-06-01,110733
+IN,India,2017-07-01,94280
+IN,India,2017-08-01,108139
+IN,India,2017-09-01,131596
+IN,India,2017-10-01,148125
+IN,India,2017-11-01,149934
+IN,India,2017-12-01,157990
+IN,India,2018-01-01,70469
+IN,India,2018-02-01,141930
+ID,Indonesia,2017-01-01,4479
+ID,Indonesia,2017-02-01,3082
+ID,Indonesia,2017-03-01,5152
+ID,Indonesia,2017-04-01,5620
+ID,Indonesia,2017-05-01,5876
+ID,Indonesia,2017-06-01,4844
+ID,Indonesia,2017-07-01,3654
+ID,Indonesia,2017-08-01,6042
+ID,Indonesia,2017-09-01,7404
+ID,Indonesia,2017-10-01,8662
+ID,Indonesia,2017-11-01,7081
+ID,Indonesia,2017-12-01,6247
+ID,Indonesia,2018-01-01,3151
+ID,Indonesia,2018-02-01,6395
+IR,"Iran, Islamic Republic of",2017-01-01,9877
+IR,"Iran, Islamic Republic of",2017-02-01,8791
+IR,"Iran, Islamic Republic of",2017-03-01,5925
+IR,"Iran, Islamic Republic of",2017-04-01,6086
+IR,"Iran, Islamic Republic of",2017-05-01,10116
+IR,"Iran, Islamic Republic of",2017-06-01,9598
+IR,"Iran, Islamic Republic of",2017-07-01,4544
+IR,"Iran, Islamic Republic of",2017-08-01,6687
+IR,"Iran, Islamic Republic of",2017-09-01,8680
+IR,"Iran, Islamic Republic of",2017-10-01,9861
+IR,"Iran, Islamic Republic of",2017-11-01,16557
+IR,"Iran, Islamic Republic of",2017-12-01,12665
+IR,"Iran, Islamic Republic of",2018-01-01,5596
+IR,"Iran, Islamic Republic of",2018-02-01,7669
+IQ,Iraq,2017-01-01,990
+IQ,Iraq,2017-02-01,467
+IQ,Iraq,2017-03-01,764
+IQ,Iraq,2017-04-01,564
+IQ,Iraq,2017-05-01,673
+IQ,Iraq,2017-06-01,798
+IQ,Iraq,2017-07-01,417
+IQ,Iraq,2017-08-01,814
+IQ,Iraq,2017-09-01,1171
+IQ,Iraq,2017-10-01,760
+IQ,Iraq,2017-11-01,1188
+IQ,Iraq,2017-12-01,722
+IQ,Iraq,2018-01-01,453
+IQ,Iraq,2018-02-01,1023
+IE,Ireland,2017-01-01,11696
+IE,Ireland,2017-02-01,7345
+IE,Ireland,2017-03-01,9780
+IE,Ireland,2017-04-01,7184
+IE,Ireland,2017-05-01,6674
+IE,Ireland,2017-06-01,5964
+IE,Ireland,2017-07-01,5580
+IE,Ireland,2017-08-01,7460
+IE,Ireland,2017-09-01,11011
+IE,Ireland,2017-10-01,11581
+IE,Ireland,2017-11-01,12153
+IE,Ireland,2017-12-01,7986
+IE,Ireland,2018-01-01,5143
+IE,Ireland,2018-02-01,14140
+IM,"Isle of Man",2017-01-01,13
+IM,"Isle of Man",2017-02-01,2
+IM,"Isle of Man",2017-04-01,30
+IM,"Isle of Man",2017-05-01,6
+IM,"Isle of Man",2017-06-01,8
+IM,"Isle of Man",2017-07-01,2
+IM,"Isle of Man",2017-09-01,25
+IM,"Isle of Man",2017-10-01,14
+IM,"Isle of Man",2017-11-01,20
+IM,"Isle of Man",2017-12-01,6
+IM,"Isle of Man",2018-01-01,14
+IM,"Isle of Man",2018-02-01,2
+IL,Israel,2017-01-01,24527
+IL,Israel,2017-02-01,13953
+IL,Israel,2017-03-01,19434
+IL,Israel,2017-04-01,12253
+IL,Israel,2017-05-01,16857
+IL,Israel,2017-06-01,19643
+IL,Israel,2017-07-01,13524
+IL,Israel,2017-08-01,16155
+IL,Israel,2017-09-01,14938
+IL,Israel,2017-10-01,15606
+IL,Israel,2017-11-01,18016
+IL,Israel,2017-12-01,27867
+IL,Israel,2018-01-01,8066
+IL,Israel,2018-02-01,11480
+IT,Italy,2017-01-01,32733
+IT,Italy,2017-02-01,33503
+IT,Italy,2017-03-01,38431
+IT,Italy,2017-04-01,28448
+IT,Italy,2017-05-01,42382
+IT,Italy,2017-06-01,34216
+IT,Italy,2017-07-01,20856
+IT,Italy,2017-08-01,24000
+IT,Italy,2017-09-01,44702
+IT,Italy,2017-10-01,46703
+IT,Italy,2017-11-01,40945
+IT,Italy,2017-12-01,49881
+IT,Italy,2018-01-01,19550
+IT,Italy,2018-02-01,39396
+JM,Jamaica,2017-01-01,332
+JM,Jamaica,2017-02-01,374
+JM,Jamaica,2017-03-01,317
+JM,Jamaica,2017-04-01,367
+JM,Jamaica,2017-05-01,476
+JM,Jamaica,2017-06-01,383
+JM,Jamaica,2017-07-01,295
+JM,Jamaica,2017-08-01,371
+JM,Jamaica,2017-09-01,436
+JM,Jamaica,2017-10-01,378
+JM,Jamaica,2017-11-01,424
+JM,Jamaica,2017-12-01,430
+JM,Jamaica,2018-01-01,152
+JM,Jamaica,2018-02-01,404
+JP,Japan,2017-01-01,185923
+JP,Japan,2017-02-01,189184
+JP,Japan,2017-03-01,141755
+JP,Japan,2017-04-01,176185
+JP,Japan,2017-05-01,206829
+JP,Japan,2017-06-01,209807
+JP,Japan,2017-07-01,129780
+JP,Japan,2017-08-01,169281
+JP,Japan,2017-09-01,212719
+JP,Japan,2017-10-01,226118
+JP,Japan,2017-11-01,232970
+JP,Japan,2017-12-01,238689
+JP,Japan,2018-01-01,88716
+JP,Japan,2018-02-01,199859
+JE,Jersey,2017-01-01,17
+JE,Jersey,2017-02-01,24
+JE,Jersey,2017-08-01,100
+JE,Jersey,2017-09-01,13
+JE,Jersey,2017-10-01,17
+JE,Jersey,2017-11-01,15
+JE,Jersey,2017-12-01,7
+JE,Jersey,2018-01-01,24
+JE,Jersey,2018-02-01,5
+JO,Jordan,2017-01-01,696
+JO,Jordan,2017-02-01,740
+JO,Jordan,2017-03-01,1433
+JO,Jordan,2017-04-01,682
+JO,Jordan,2017-05-01,545
+JO,Jordan,2017-06-01,441
+JO,Jordan,2017-07-01,399
+JO,Jordan,2017-08-01,545
+JO,Jordan,2017-09-01,472
+JO,Jordan,2017-10-01,1208
+JO,Jordan,2017-11-01,937
+JO,Jordan,2017-12-01,795
+JO,Jordan,2018-01-01,410
+JO,Jordan,2018-02-01,586
+KZ,Kazakhstan,2017-01-01,184
+KZ,Kazakhstan,2017-02-01,2171
+KZ,Kazakhstan,2017-03-01,651
+KZ,Kazakhstan,2017-04-01,1376
+KZ,Kazakhstan,2017-05-01,1147
+KZ,Kazakhstan,2017-06-01,310
+KZ,Kazakhstan,2017-07-01,144
+KZ,Kazakhstan,2017-08-01,735
+KZ,Kazakhstan,2017-09-01,365
+KZ,Kazakhstan,2017-10-01,647
+KZ,Kazakhstan,2017-11-01,1234
+KZ,Kazakhstan,2017-12-01,503
+KZ,Kazakhstan,2018-01-01,255
+KZ,Kazakhstan,2018-02-01,497
+KE,Kenya,2017-01-01,956
+KE,Kenya,2017-02-01,661
+KE,Kenya,2017-03-01,210
+KE,Kenya,2017-04-01,129
+KE,Kenya,2017-05-01,256
+KE,Kenya,2017-06-01,291
+KE,Kenya,2017-07-01,390
+KE,Kenya,2017-08-01,1639
+KE,Kenya,2017-09-01,185
+KE,Kenya,2017-10-01,273
+KE,Kenya,2017-11-01,251
+KE,Kenya,2017-12-01,144
+KE,Kenya,2018-01-01,468
+KE,Kenya,2018-02-01,729
+KP,"Korea, Democratic People's Republic of",2018-01-01,1
+KR,"Korea, Republic of",2017-01-01,98323
+KR,"Korea, Republic of",2017-02-01,79434
+KR,"Korea, Republic of",2017-03-01,103766
+KR,"Korea, Republic of",2017-04-01,107307
+KR,"Korea, Republic of",2017-05-01,117816
+KR,"Korea, Republic of",2017-06-01,102730
+KR,"Korea, Republic of",2017-07-01,73968
+KR,"Korea, Republic of",2017-08-01,96340
+KR,"Korea, Republic of",2017-09-01,99039
+KR,"Korea, Republic of",2017-10-01,87932
+KR,"Korea, Republic of",2017-11-01,128267
+KR,"Korea, Republic of",2017-12-01,146896
+KR,"Korea, Republic of",2018-01-01,68980
+KR,"Korea, Republic of",2018-02-01,95549
+KW,Kuwait,2017-01-01,352
+KW,Kuwait,2017-02-01,314
+KW,Kuwait,2017-03-01,287
+KW,Kuwait,2017-04-01,332
+KW,Kuwait,2017-05-01,577
+KW,Kuwait,2017-06-01,578
+KW,Kuwait,2017-07-01,330
+KW,Kuwait,2017-08-01,510
+KW,Kuwait,2017-09-01,578
+KW,Kuwait,2017-10-01,571
+KW,Kuwait,2017-11-01,2270
+KW,Kuwait,2017-12-01,433
+KW,Kuwait,2018-01-01,177
+KW,Kuwait,2018-02-01,326
+KG,Kyrgyzstan,2017-01-01,28
+KG,Kyrgyzstan,2017-02-01,20
+KG,Kyrgyzstan,2017-03-01,100
+KG,Kyrgyzstan,2017-04-01,34
+KG,Kyrgyzstan,2017-05-01,43
+KG,Kyrgyzstan,2017-06-01,29
+KG,Kyrgyzstan,2017-07-01,19
+KG,Kyrgyzstan,2017-08-01,9
+KG,Kyrgyzstan,2017-09-01,58
+KG,Kyrgyzstan,2017-10-01,74
+KG,Kyrgyzstan,2017-11-01,92
+KG,Kyrgyzstan,2017-12-01,46
+KG,Kyrgyzstan,2018-01-01,9
+KG,Kyrgyzstan,2018-02-01,31
+LA,"Lao People's Democratic Republic",2017-01-01,26
+LA,"Lao People's Democratic Republic",2017-02-01,21
+LA,"Lao People's Democratic Republic",2017-03-01,92
+LA,"Lao People's Democratic Republic",2017-04-01,59
+LA,"Lao People's Democratic Republic",2017-05-01,32
+LA,"Lao People's Democratic Republic",2017-06-01,49
+LA,"Lao People's Democratic Republic",2017-07-01,5
+LA,"Lao People's Democratic Republic",2017-08-01,46
+LA,"Lao People's Democratic Republic",2017-09-01,29
+LA,"Lao People's Democratic Republic",2017-10-01,56
+LA,"Lao People's Democratic Republic",2017-11-01,49
+LA,"Lao People's Democratic Republic",2017-12-01,22
+LA,"Lao People's Democratic Republic",2018-01-01,67
+LA,"Lao People's Democratic Republic",2018-02-01,64
+LV,Latvia,2017-01-01,1294
+LV,Latvia,2017-02-01,1186
+LV,Latvia,2017-03-01,1035
+LV,Latvia,2017-04-01,883
+LV,Latvia,2017-05-01,715
+LV,Latvia,2017-06-01,1051
+LV,Latvia,2017-07-01,342
+LV,Latvia,2017-08-01,981
+LV,Latvia,2017-09-01,647
+LV,Latvia,2017-10-01,809
+LV,Latvia,2017-11-01,569
+LV,Latvia,2017-12-01,1006
+LV,Latvia,2018-01-01,225
+LV,Latvia,2018-02-01,687
+LB,Lebanon,2017-01-01,350
+LB,Lebanon,2017-02-01,265
+LB,Lebanon,2017-03-01,303
+LB,Lebanon,2017-04-01,272
+LB,Lebanon,2017-05-01,628
+LB,Lebanon,2017-06-01,330
+LB,Lebanon,2017-07-01,378
+LB,Lebanon,2017-08-01,382
+LB,Lebanon,2017-09-01,515
+LB,Lebanon,2017-10-01,653
+LB,Lebanon,2017-11-01,606
+LB,Lebanon,2017-12-01,508
+LB,Lebanon,2018-01-01,378
+LB,Lebanon,2018-02-01,857
+LS,Lesotho,2017-01-01,29
+LS,Lesotho,2017-02-01,8
+LS,Lesotho,2017-03-01,9
+LS,Lesotho,2017-05-01,13
+LS,Lesotho,2017-08-01,9
+LS,Lesotho,2017-09-01,6
+LS,Lesotho,2017-10-01,18
+LS,Lesotho,2017-11-01,7
+LS,Lesotho,2017-12-01,10
+LS,Lesotho,2018-01-01,4
+LS,Lesotho,2018-02-01,45
+LR,Liberia,2017-06-01,4
+LR,Liberia,2017-09-01,6
+LR,Liberia,2017-12-01,15
+LR,Liberia,2018-02-01,2
+LY,Libya,2017-01-01,81
+LY,Libya,2017-02-01,112
+LY,Libya,2017-03-01,209
+LY,Libya,2017-04-01,98
+LY,Libya,2017-05-01,144
+LY,Libya,2017-06-01,94
+LY,Libya,2017-07-01,83
+LY,Libya,2017-08-01,209
+LY,Libya,2017-09-01,195
+LY,Libya,2017-10-01,227
+LY,Libya,2017-11-01,131
+LY,Libya,2017-12-01,143
+LY,Libya,2018-01-01,93
+LY,Libya,2018-02-01,160
+LI,Liechtenstein,2017-05-01,10
+LI,Liechtenstein,2017-06-01,2
+LI,Liechtenstein,2017-09-01,5
+LI,Liechtenstein,2017-12-01,2
+LI,Liechtenstein,2018-01-01,3
+LT,Lithuania,2017-01-01,2291
+LT,Lithuania,2017-02-01,1386
+LT,Lithuania,2017-03-01,1944
+LT,Lithuania,2017-04-01,2078
+LT,Lithuania,2017-05-01,1802
+LT,Lithuania,2017-06-01,1134
+LT,Lithuania,2017-07-01,611
+LT,Lithuania,2017-08-01,1260
+LT,Lithuania,2017-09-01,1946
+LT,Lithuania,2017-10-01,1791
+LT,Lithuania,2017-11-01,12131
+LT,Lithuania,2017-12-01,3568
+LT,Lithuania,2018-01-01,1223
+LT,Lithuania,2018-02-01,1091
+LU,Luxembourg,2017-01-01,581
+LU,Luxembourg,2017-02-01,689
+LU,Luxembourg,2017-03-01,777
+LU,Luxembourg,2017-04-01,1620
+LU,Luxembourg,2017-05-01,2904
+LU,Luxembourg,2017-06-01,1229
+LU,Luxembourg,2017-07-01,905
+LU,Luxembourg,2017-08-01,1466
+LU,Luxembourg,2017-09-01,966
+LU,Luxembourg,2017-10-01,3626
+LU,Luxembourg,2017-11-01,3256
+LU,Luxembourg,2017-12-01,2913
+LU,Luxembourg,2018-01-01,1966
+LU,Luxembourg,2018-02-01,10074
+MO,Macau,2017-01-01,421
+MO,Macau,2017-02-01,128
+MO,Macau,2017-03-01,211
+MO,Macau,2017-04-01,93
+MO,Macau,2017-05-01,154
+MO,Macau,2017-06-01,168
+MO,Macau,2017-07-01,107
+MO,Macau,2017-08-01,412
+MO,Macau,2017-09-01,192
+MO,Macau,2017-10-01,1119
+MO,Macau,2017-11-01,170
+MO,Macau,2017-12-01,80
+MO,Macau,2018-01-01,53
+MO,Macau,2018-02-01,1782
+MK,Macedonia,2017-01-01,703
+MK,Macedonia,2017-02-01,584
+MK,Macedonia,2017-03-01,662
+MK,Macedonia,2017-04-01,536
+MK,Macedonia,2017-05-01,866
+MK,Macedonia,2017-06-01,759
+MK,Macedonia,2017-07-01,431
+MK,Macedonia,2017-08-01,724
+MK,Macedonia,2017-09-01,963
+MK,Macedonia,2017-10-01,851
+MK,Macedonia,2017-11-01,882
+MK,Macedonia,2017-12-01,660
+MK,Macedonia,2018-01-01,391
+MK,Macedonia,2018-02-01,630
+MG,Madagascar,2017-01-01,6
+MG,Madagascar,2017-02-01,12
+MG,Madagascar,2017-03-01,43
+MG,Madagascar,2017-04-01,44
+MG,Madagascar,2017-05-01,66
+MG,Madagascar,2017-06-01,13
+MG,Madagascar,2017-07-01,6
+MG,Madagascar,2017-08-01,43
+MG,Madagascar,2017-09-01,40
+MG,Madagascar,2017-10-01,8
+MG,Madagascar,2017-11-01,31
+MG,Madagascar,2017-12-01,28
+MG,Madagascar,2018-01-01,7
+MG,Madagascar,2018-02-01,28
+MW,Malawi,2017-01-01,2
+MW,Malawi,2017-02-01,2
+MW,Malawi,2017-03-01,2
+MW,Malawi,2017-04-01,8
+MW,Malawi,2017-05-01,5
+MW,Malawi,2017-06-01,29
+MW,Malawi,2017-07-01,22
+MW,Malawi,2017-08-01,8
+MW,Malawi,2017-09-01,14
+MW,Malawi,2017-10-01,15
+MW,Malawi,2017-12-01,314
+MW,Malawi,2018-02-01,50
+MY,Malaysia,2017-01-01,10210
+MY,Malaysia,2017-02-01,7404
+MY,Malaysia,2017-03-01,6977
+MY,Malaysia,2017-04-01,6760
+MY,Malaysia,2017-05-01,9229
+MY,Malaysia,2017-06-01,7072
+MY,Malaysia,2017-07-01,5646
+MY,Malaysia,2017-08-01,10414
+MY,Malaysia,2017-09-01,11425
+MY,Malaysia,2017-10-01,11852
+MY,Malaysia,2017-11-01,16954
+MY,Malaysia,2017-12-01,17284
+MY,Malaysia,2018-01-01,5066
+MY,Malaysia,2018-02-01,8576
+MV,Maldives,2017-01-01,114
+MV,Maldives,2017-02-01,97
+MV,Maldives,2017-03-01,97
+MV,Maldives,2017-04-01,107
+MV,Maldives,2017-05-01,44
+MV,Maldives,2017-06-01,182
+MV,Maldives,2017-07-01,96
+MV,Maldives,2017-08-01,203
+MV,Maldives,2017-09-01,182
+MV,Maldives,2017-10-01,192
+MV,Maldives,2017-11-01,111
+MV,Maldives,2017-12-01,133
+MV,Maldives,2018-01-01,45
+MV,Maldives,2018-02-01,75
+ML,Mali,2017-02-01,2
+ML,Mali,2017-04-01,2
+ML,Mali,2017-05-01,2
+ML,Mali,2017-06-01,3
+ML,Mali,2017-08-01,11
+ML,Mali,2017-10-01,17
+ML,Mali,2017-11-01,9
+ML,Mali,2017-12-01,2
+ML,Mali,2018-01-01,3
+ML,Mali,2018-02-01,12
+MT,Malta,2017-01-01,193
+MT,Malta,2017-02-01,144
+MT,Malta,2017-03-01,227
+MT,Malta,2017-04-01,153
+MT,Malta,2017-05-01,226
+MT,Malta,2017-06-01,162
+MT,Malta,2017-07-01,138
+MT,Malta,2017-08-01,114
+MT,Malta,2017-09-01,234
+MT,Malta,2017-10-01,142
+MT,Malta,2017-11-01,164
+MT,Malta,2017-12-01,194
+MT,Malta,2018-01-01,89
+MT,Malta,2018-02-01,197
+MH,"Marshall Islands",2017-01-01,2
+MH,"Marshall Islands",2017-02-01,12
+MH,"Marshall Islands",2017-03-01,2
+MH,"Marshall Islands",2017-11-01,2
+MQ,Martinique,2017-01-01,92
+MQ,Martinique,2017-02-01,13
+MQ,Martinique,2017-03-01,58
+MQ,Martinique,2017-04-01,20
+MQ,Martinique,2017-05-01,30
+MQ,Martinique,2017-06-01,62
+MQ,Martinique,2017-07-01,22
+MQ,Martinique,2017-08-01,44
+MQ,Martinique,2017-09-01,46
+MQ,Martinique,2017-10-01,60
+MQ,Martinique,2017-11-01,77
+MQ,Martinique,2017-12-01,79
+MQ,Martinique,2018-01-01,17
+MQ,Martinique,2018-02-01,44
+MR,Mauritania,2017-01-01,35
+MR,Mauritania,2017-02-01,19
+MR,Mauritania,2017-03-01,69
+MR,Mauritania,2017-04-01,47
+MR,Mauritania,2017-05-01,58
+MR,Mauritania,2017-06-01,42
+MR,Mauritania,2017-07-01,55
+MR,Mauritania,2017-08-01,10
+MR,Mauritania,2017-09-01,20
+MR,Mauritania,2017-10-01,34
+MR,Mauritania,2017-11-01,29
+MR,Mauritania,2017-12-01,20
+MR,Mauritania,2018-01-01,66
+MR,Mauritania,2018-02-01,72
+MU,Mauritius,2017-01-01,397
+MU,Mauritius,2017-02-01,186
+MU,Mauritius,2017-03-01,505
+MU,Mauritius,2017-04-01,441
+MU,Mauritius,2017-05-01,474
+MU,Mauritius,2017-06-01,332
+MU,Mauritius,2017-07-01,262
+MU,Mauritius,2017-08-01,451
+MU,Mauritius,2017-09-01,391
+MU,Mauritius,2017-10-01,562
+MU,Mauritius,2017-11-01,682
+MU,Mauritius,2017-12-01,494
+MU,Mauritius,2018-01-01,310
+MU,Mauritius,2018-02-01,360
+YT,Mayotte,2017-01-01,2
+YT,Mayotte,2017-02-01,13
+YT,Mayotte,2017-03-01,12
+YT,Mayotte,2017-04-01,12
+YT,Mayotte,2017-06-01,11
+YT,Mayotte,2017-08-01,40
+YT,Mayotte,2017-09-01,38
+YT,Mayotte,2017-11-01,6
+YT,Mayotte,2017-12-01,6
+YT,Mayotte,2018-01-01,2
+YT,Mayotte,2018-02-01,3
+MX,Mexico,2017-01-01,29976
+MX,Mexico,2017-02-01,30406
+MX,Mexico,2017-03-01,55091
+MX,Mexico,2017-04-01,85555
+MX,Mexico,2017-05-01,77567
+MX,Mexico,2017-06-01,56256
+MX,Mexico,2017-07-01,21766
+MX,Mexico,2017-08-01,50470
+MX,Mexico,2017-09-01,48635
+MX,Mexico,2017-10-01,42208
+MX,Mexico,2017-11-01,65762
+MX,Mexico,2017-12-01,62684
+MX,Mexico,2018-01-01,8531
+MX,Mexico,2018-02-01,43597
+FM,"Micronesia, Federated States of",2017-02-01,4
+FM,"Micronesia, Federated States of",2017-03-01,17
+FM,"Micronesia, Federated States of",2017-04-01,4
+FM,"Micronesia, Federated States of",2017-05-01,4
+FM,"Micronesia, Federated States of",2017-08-01,26
+FM,"Micronesia, Federated States of",2017-09-01,6
+FM,"Micronesia, Federated States of",2018-01-01,14
+MD,"Moldova, Republic of",2017-01-01,304
+MD,"Moldova, Republic of",2017-02-01,325
+MD,"Moldova, Republic of",2017-03-01,279
+MD,"Moldova, Republic of",2017-04-01,411
+MD,"Moldova, Republic of",2017-05-01,387
+MD,"Moldova, Republic of",2017-06-01,420
+MD,"Moldova, Republic of",2017-07-01,193
+MD,"Moldova, Republic of",2017-08-01,351
+MD,"Moldova, Republic of",2017-09-01,302
+MD,"Moldova, Republic of",2017-10-01,255
+MD,"Moldova, Republic of",2017-11-01,619
+MD,"Moldova, Republic of",2017-12-01,712
+MD,"Moldova, Republic of",2018-01-01,194
+MD,"Moldova, Republic of",2018-02-01,660
+MC,Monaco,2017-03-01,12
+MC,Monaco,2017-05-01,8
+MC,Monaco,2017-06-01,2
+MC,Monaco,2017-07-01,6
+MC,Monaco,2017-08-01,4
+MC,Monaco,2017-10-01,8
+MC,Monaco,2018-02-01,7
+MN,Mongolia,2017-01-01,435
+MN,Mongolia,2017-02-01,230
+MN,Mongolia,2017-03-01,411
+MN,Mongolia,2017-04-01,435
+MN,Mongolia,2017-05-01,511
+MN,Mongolia,2017-06-01,428
+MN,Mongolia,2017-07-01,323
+MN,Mongolia,2017-08-01,475
+MN,Mongolia,2017-09-01,630
+MN,Mongolia,2017-10-01,598
+MN,Mongolia,2017-11-01,616
+MN,Mongolia,2017-12-01,465
+MN,Mongolia,2018-01-01,172
+MN,Mongolia,2018-02-01,184
+ME,Montenegro,2017-01-01,257
+ME,Montenegro,2017-02-01,148
+ME,Montenegro,2017-03-01,163
+ME,Montenegro,2017-04-01,260
+ME,Montenegro,2017-05-01,146
+ME,Montenegro,2017-06-01,285
+ME,Montenegro,2017-07-01,85
+ME,Montenegro,2017-08-01,184
+ME,Montenegro,2017-09-01,211
+ME,Montenegro,2017-10-01,262
+ME,Montenegro,2017-11-01,390
+ME,Montenegro,2017-12-01,234
+ME,Montenegro,2018-01-01,68
+ME,Montenegro,2018-02-01,186
+MA,Morocco,2017-01-01,1867
+MA,Morocco,2017-02-01,1570
+MA,Morocco,2017-03-01,2591
+MA,Morocco,2017-04-01,1715
+MA,Morocco,2017-05-01,2486
+MA,Morocco,2017-06-01,2341
+MA,Morocco,2017-07-01,1434
+MA,Morocco,2017-08-01,2387
+MA,Morocco,2017-09-01,2690
+MA,Morocco,2017-10-01,3012
+MA,Morocco,2017-11-01,3259
+MA,Morocco,2017-12-01,2985
+MA,Morocco,2018-01-01,2079
+MA,Morocco,2018-02-01,2835
+MZ,Mozambique,2017-02-01,1
+MZ,Mozambique,2017-04-01,2
+MZ,Mozambique,2017-06-01,3
+MZ,Mozambique,2017-08-01,1
+MZ,Mozambique,2017-09-01,5
+MZ,Mozambique,2017-11-01,1
+MZ,Mozambique,2018-02-01,22
+MM,Myanmar,2017-01-01,40
+MM,Myanmar,2017-02-01,123
+MM,Myanmar,2017-03-01,58
+MM,Myanmar,2017-04-01,62
+MM,Myanmar,2017-05-01,15
+MM,Myanmar,2017-06-01,89
+MM,Myanmar,2017-07-01,82
+MM,Myanmar,2017-08-01,158
+MM,Myanmar,2017-09-01,205
+MM,Myanmar,2017-10-01,152
+MM,Myanmar,2017-11-01,207
+MM,Myanmar,2017-12-01,94
+MM,Myanmar,2018-01-01,96
+MM,Myanmar,2018-02-01,149
+NA,Namibia,2017-01-01,100
+NA,Namibia,2017-02-01,73
+NA,Namibia,2017-03-01,1954
+NA,Namibia,2017-04-01,208
+NA,Namibia,2017-05-01,156
+NA,Namibia,2017-06-01,115
+NA,Namibia,2017-07-01,65
+NA,Namibia,2017-08-01,149
+NA,Namibia,2017-09-01,123
+NA,Namibia,2017-10-01,146
+NA,Namibia,2017-11-01,172
+NA,Namibia,2017-12-01,96
+NA,Namibia,2018-01-01,116
+NA,Namibia,2018-02-01,160
+NR,Nauru,2017-01-01,20
+NP,Nepal,2017-01-01,354
+NP,Nepal,2017-02-01,254
+NP,Nepal,2017-03-01,210
+NP,Nepal,2017-04-01,305
+NP,Nepal,2017-05-01,353
+NP,Nepal,2017-06-01,199
+NP,Nepal,2017-07-01,70
+NP,Nepal,2017-08-01,367
+NP,Nepal,2017-09-01,192
+NP,Nepal,2017-10-01,316
+NP,Nepal,2017-11-01,198
+NP,Nepal,2017-12-01,226
+NP,Nepal,2018-01-01,60
+NP,Nepal,2018-02-01,281
+NL,Netherlands,2017-01-01,32524
+NL,Netherlands,2017-02-01,31509
+NL,Netherlands,2017-03-01,33316
+NL,Netherlands,2017-04-01,24775
+NL,Netherlands,2017-05-01,34109
+NL,Netherlands,2017-06-01,28973
+NL,Netherlands,2017-07-01,20258
+NL,Netherlands,2017-08-01,21803
+NL,Netherlands,2017-09-01,41834
+NL,Netherlands,2017-10-01,40350
+NL,Netherlands,2017-11-01,48709
+NL,Netherlands,2017-12-01,30834
+NL,Netherlands,2018-01-01,12890
+NL,Netherlands,2018-02-01,27013
+NC,"New Caledonia",2017-01-01,82
+NC,"New Caledonia",2017-02-01,4
+NC,"New Caledonia",2017-03-01,6
+NC,"New Caledonia",2017-04-01,8
+NC,"New Caledonia",2017-05-01,29
+NC,"New Caledonia",2017-06-01,27
+NC,"New Caledonia",2017-07-01,26
+NC,"New Caledonia",2017-08-01,44
+NC,"New Caledonia",2017-09-01,94
+NC,"New Caledonia",2017-10-01,37
+NC,"New Caledonia",2017-11-01,172
+NC,"New Caledonia",2017-12-01,8
+NC,"New Caledonia",2018-01-01,6
+NC,"New Caledonia",2018-02-01,19
+NZ,"New Zealand",2017-01-01,3354
+NZ,"New Zealand",2017-02-01,3151
+NZ,"New Zealand",2017-03-01,6059
+NZ,"New Zealand",2017-04-01,8177
+NZ,"New Zealand",2017-05-01,4584
+NZ,"New Zealand",2017-06-01,4319
+NZ,"New Zealand",2017-07-01,2166
+NZ,"New Zealand",2017-08-01,6239
+NZ,"New Zealand",2017-09-01,4583
+NZ,"New Zealand",2017-10-01,5135
+NZ,"New Zealand",2017-11-01,4884
+NZ,"New Zealand",2017-12-01,3956
+NZ,"New Zealand",2018-01-01,1521
+NZ,"New Zealand",2018-02-01,3733
+NI,Nicaragua,2017-01-01,43
+NI,Nicaragua,2017-02-01,41
+NI,Nicaragua,2017-03-01,49
+NI,Nicaragua,2017-04-01,16
+NI,Nicaragua,2017-05-01,25
+NI,Nicaragua,2017-06-01,49
+NI,Nicaragua,2017-07-01,40
+NI,Nicaragua,2017-08-01,134
+NI,Nicaragua,2017-09-01,135
+NI,Nicaragua,2017-10-01,22
+NI,Nicaragua,2017-11-01,55
+NI,Nicaragua,2017-12-01,5
+NI,Nicaragua,2018-01-01,24
+NI,Nicaragua,2018-02-01,49
+NG,Nigeria,2017-01-01,1068
+NG,Nigeria,2017-02-01,1213
+NG,Nigeria,2017-03-01,1676
+NG,Nigeria,2017-04-01,1024
+NG,Nigeria,2017-05-01,2291
+NG,Nigeria,2017-06-01,2416
+NG,Nigeria,2017-07-01,931
+NG,Nigeria,2017-08-01,1576
+NG,Nigeria,2017-09-01,1360
+NG,Nigeria,2017-10-01,1738
+NG,Nigeria,2017-11-01,1896
+NG,Nigeria,2017-12-01,1501
+NG,Nigeria,2018-01-01,915
+NG,Nigeria,2018-02-01,3803
+MP,"Northern Mariana Islands",2017-01-01,2
+MP,"Northern Mariana Islands",2017-02-01,5
+MP,"Northern Mariana Islands",2017-06-01,18
+MP,"Northern Mariana Islands",2017-07-01,4
+MP,"Northern Mariana Islands",2017-08-01,18
+MP,"Northern Mariana Islands",2017-09-01,6
+MP,"Northern Mariana Islands",2017-10-01,4
+MP,"Northern Mariana Islands",2017-11-01,2
+MP,"Northern Mariana Islands",2017-12-01,39
+MP,"Northern Mariana Islands",2018-01-01,8
+MP,"Northern Mariana Islands",2018-02-01,2
+NO,Norway,2017-01-01,4830
+NO,Norway,2017-02-01,6052
+NO,Norway,2017-03-01,5948
+NO,Norway,2017-04-01,3839
+NO,Norway,2017-05-01,7079
+NO,Norway,2017-06-01,5497
+NO,Norway,2017-07-01,2965
+NO,Norway,2017-08-01,5884
+NO,Norway,2017-09-01,13729
+NO,Norway,2017-10-01,7354
+NO,Norway,2017-11-01,5453
+NO,Norway,2017-12-01,5879
+NO,Norway,2018-01-01,2311
+NO,Norway,2018-02-01,4570
+OM,Oman,2017-01-01,360
+OM,Oman,2017-02-01,1021
+OM,Oman,2017-03-01,419
+OM,Oman,2017-04-01,568
+OM,Oman,2017-05-01,594
+OM,Oman,2017-06-01,456
+OM,Oman,2017-07-01,303
+OM,Oman,2017-08-01,490
+OM,Oman,2017-09-01,483
+OM,Oman,2017-10-01,456
+OM,Oman,2017-11-01,428
+OM,Oman,2017-12-01,1058
+OM,Oman,2018-01-01,208
+OM,Oman,2018-02-01,330
+PK,Pakistan,2017-01-01,11672
+PK,Pakistan,2017-02-01,16569
+PK,Pakistan,2017-03-01,17512
+PK,Pakistan,2017-04-01,18331
+PK,Pakistan,2017-05-01,20843
+PK,Pakistan,2017-06-01,13314
+PK,Pakistan,2017-07-01,9076
+PK,Pakistan,2017-08-01,15838
+PK,Pakistan,2017-09-01,22546
+PK,Pakistan,2017-10-01,25331
+PK,Pakistan,2017-11-01,21945
+PK,Pakistan,2017-12-01,18117
+PK,Pakistan,2018-01-01,19693
+PK,Pakistan,2018-02-01,16466
+PS,"Palestinian Territory",2017-01-01,326
+PS,"Palestinian Territory",2017-02-01,138
+PS,"Palestinian Territory",2017-03-01,143
+PS,"Palestinian Territory",2017-04-01,119
+PS,"Palestinian Territory",2017-05-01,311
+PS,"Palestinian Territory",2017-06-01,271
+PS,"Palestinian Territory",2017-07-01,128
+PS,"Palestinian Territory",2017-08-01,453
+PS,"Palestinian Territory",2017-09-01,279
+PS,"Palestinian Territory",2017-10-01,315
+PS,"Palestinian Territory",2017-11-01,242
+PS,"Palestinian Territory",2017-12-01,426
+PS,"Palestinian Territory",2018-01-01,91
+PS,"Palestinian Territory",2018-02-01,201
+PA,Panama,2017-01-01,170
+PA,Panama,2017-02-01,437
+PA,Panama,2017-03-01,136
+PA,Panama,2017-04-01,140
+PA,Panama,2017-05-01,272
+PA,Panama,2017-06-01,125
+PA,Panama,2017-07-01,173
+PA,Panama,2017-08-01,117
+PA,Panama,2017-09-01,106
+PA,Panama,2017-10-01,649
+PA,Panama,2017-11-01,157
+PA,Panama,2017-12-01,246
+PA,Panama,2018-01-01,38
+PA,Panama,2018-02-01,68
+PG,"Papua New Guinea",2017-01-01,6
+PG,"Papua New Guinea",2017-02-01,14
+PG,"Papua New Guinea",2017-03-01,17
+PG,"Papua New Guinea",2017-04-01,24
+PG,"Papua New Guinea",2017-05-01,23
+PG,"Papua New Guinea",2017-06-01,3
+PG,"Papua New Guinea",2017-07-01,3
+PG,"Papua New Guinea",2017-08-01,5
+PG,"Papua New Guinea",2017-09-01,16
+PG,"Papua New Guinea",2017-10-01,55
+PG,"Papua New Guinea",2017-11-01,43
+PG,"Papua New Guinea",2017-12-01,26
+PG,"Papua New Guinea",2018-01-01,6
+PG,"Papua New Guinea",2018-02-01,12
+PY,Paraguay,2017-01-01,139
+PY,Paraguay,2017-02-01,84
+PY,Paraguay,2017-03-01,153
+PY,Paraguay,2017-04-01,145
+PY,Paraguay,2017-05-01,704
+PY,Paraguay,2017-06-01,77
+PY,Paraguay,2017-07-01,59
+PY,Paraguay,2017-08-01,684
+PY,Paraguay,2017-09-01,924
+PY,Paraguay,2017-10-01,107
+PY,Paraguay,2017-11-01,162
+PY,Paraguay,2017-12-01,350
+PY,Paraguay,2018-01-01,98
+PY,Paraguay,2018-02-01,153
+PE,Peru,2017-01-01,1884
+PE,Peru,2017-02-01,3097
+PE,Peru,2017-03-01,1367
+PE,Peru,2017-04-01,2254
+PE,Peru,2017-05-01,8167
+PE,Peru,2017-06-01,3010
+PE,Peru,2017-07-01,2418
+PE,Peru,2017-08-01,3492
+PE,Peru,2017-09-01,1762
+PE,Peru,2017-10-01,3582
+PE,Peru,2017-11-01,1265
+PE,Peru,2017-12-01,775
+PE,Peru,2018-01-01,476
+PE,Peru,2018-02-01,1472
+PH,Philippines,2017-01-01,5871
+PH,Philippines,2017-02-01,6396
+PH,Philippines,2017-03-01,8893
+PH,Philippines,2017-04-01,7588
+PH,Philippines,2017-05-01,11565
+PH,Philippines,2017-06-01,9521
+PH,Philippines,2017-07-01,6913
+PH,Philippines,2017-08-01,11593
+PH,Philippines,2017-09-01,13970
+PH,Philippines,2017-10-01,19648
+PH,Philippines,2017-11-01,16556
+PH,Philippines,2017-12-01,13304
+PH,Philippines,2018-01-01,6317
+PH,Philippines,2018-02-01,10548
+PN,"Pitcairn Islands",2017-09-01,1
+PL,Poland,2017-01-01,37827
+PL,Poland,2017-02-01,28830
+PL,Poland,2017-03-01,31064
+PL,Poland,2017-04-01,24658
+PL,Poland,2017-05-01,51595
+PL,Poland,2017-06-01,24006
+PL,Poland,2017-07-01,14476
+PL,Poland,2017-08-01,18600
+PL,Poland,2017-09-01,62695
+PL,Poland,2017-10-01,36997
+PL,Poland,2017-11-01,74808
+PL,Poland,2017-12-01,55859
+PL,Poland,2018-01-01,20433
+PL,Poland,2018-02-01,108798
+PT,Portugal,2017-01-01,23731
+PT,Portugal,2017-02-01,17705
+PT,Portugal,2017-03-01,30949
+PT,Portugal,2017-04-01,19083
+PT,Portugal,2017-05-01,23411
+PT,Portugal,2017-06-01,13901
+PT,Portugal,2017-07-01,6459
+PT,Portugal,2017-08-01,8146
+PT,Portugal,2017-09-01,22138
+PT,Portugal,2017-10-01,66326
+PT,Portugal,2017-11-01,49106
+PT,Portugal,2017-12-01,27996
+PT,Portugal,2018-01-01,6440
+PT,Portugal,2018-02-01,34386
+PR,"Puerto Rico",2017-01-01,317
+PR,"Puerto Rico",2017-02-01,394
+PR,"Puerto Rico",2017-03-01,744
+PR,"Puerto Rico",2017-04-01,276
+PR,"Puerto Rico",2017-05-01,281
+PR,"Puerto Rico",2017-06-01,334
+PR,"Puerto Rico",2017-07-01,562
+PR,"Puerto Rico",2017-08-01,638
+PR,"Puerto Rico",2017-09-01,202
+PR,"Puerto Rico",2017-10-01,94
+PR,"Puerto Rico",2017-11-01,100
+PR,"Puerto Rico",2017-12-01,510
+PR,"Puerto Rico",2018-01-01,172
+PR,"Puerto Rico",2018-02-01,662
+QA,Qatar,2017-01-01,368
+QA,Qatar,2017-02-01,360
+QA,Qatar,2017-03-01,399
+QA,Qatar,2017-04-01,503
+QA,Qatar,2017-05-01,581
+QA,Qatar,2017-06-01,649
+QA,Qatar,2017-07-01,407
+QA,Qatar,2017-08-01,731
+QA,Qatar,2017-09-01,753
+QA,Qatar,2017-10-01,710
+QA,Qatar,2017-11-01,780
+QA,Qatar,2017-12-01,585
+QA,Qatar,2018-01-01,245
+QA,Qatar,2018-02-01,488
+RE,Reunion,2017-01-01,572
+RE,Reunion,2017-02-01,271
+RE,Reunion,2017-03-01,194
+RE,Reunion,2017-04-01,312
+RE,Reunion,2017-05-01,143
+RE,Reunion,2017-06-01,125
+RE,Reunion,2017-07-01,104
+RE,Reunion,2017-08-01,188
+RE,Reunion,2017-09-01,325
+RE,Reunion,2017-10-01,170
+RE,Reunion,2017-11-01,136
+RE,Reunion,2017-12-01,205
+RE,Reunion,2018-01-01,19
+RE,Reunion,2018-02-01,294
+RO,Romania,2017-01-01,7555
+RO,Romania,2017-02-01,6193
+RO,Romania,2017-03-01,5661
+RO,Romania,2017-04-01,5159
+RO,Romania,2017-05-01,7627
+RO,Romania,2017-06-01,7578
+RO,Romania,2017-07-01,4295
+RO,Romania,2017-08-01,7323
+RO,Romania,2017-09-01,7810
+RO,Romania,2017-10-01,10152
+RO,Romania,2017-11-01,8136
+RO,Romania,2017-12-01,8245
+RO,Romania,2018-01-01,4620
+RO,Romania,2018-02-01,7770
+RU,"Russian Federation",2017-01-01,38404
+RU,"Russian Federation",2017-02-01,37268
+RU,"Russian Federation",2017-03-01,41358
+RU,"Russian Federation",2017-04-01,33002
+RU,"Russian Federation",2017-05-01,57331
+RU,"Russian Federation",2017-06-01,55858
+RU,"Russian Federation",2017-07-01,61303
+RU,"Russian Federation",2017-08-01,75416
+RU,"Russian Federation",2017-09-01,341260
+RU,"Russian Federation",2017-10-01,128063
+RU,"Russian Federation",2017-11-01,126225
+RU,"Russian Federation",2017-12-01,145549
+RU,"Russian Federation",2018-01-01,80347
+RU,"Russian Federation",2018-02-01,125947
+RW,Rwanda,2017-01-01,35
+RW,Rwanda,2017-02-01,60
+RW,Rwanda,2017-03-01,8
+RW,Rwanda,2017-04-01,13
+RW,Rwanda,2017-05-01,12
+RW,Rwanda,2017-06-01,12
+RW,Rwanda,2017-08-01,4
+RW,Rwanda,2017-09-01,12
+RW,Rwanda,2017-10-01,42
+RW,Rwanda,2017-11-01,12
+RW,Rwanda,2017-12-01,11
+RW,Rwanda,2018-01-01,2
+RW,Rwanda,2018-02-01,6
+KN,"Saint Kitts and Nevis",2017-01-01,8
+KN,"Saint Kitts and Nevis",2017-02-01,22
+KN,"Saint Kitts and Nevis",2017-03-01,19
+KN,"Saint Kitts and Nevis",2017-04-01,20
+KN,"Saint Kitts and Nevis",2017-05-01,37
+KN,"Saint Kitts and Nevis",2017-06-01,184
+KN,"Saint Kitts and Nevis",2017-07-01,48
+KN,"Saint Kitts and Nevis",2017-08-01,7
+KN,"Saint Kitts and Nevis",2017-09-01,53
+KN,"Saint Kitts and Nevis",2017-10-01,11
+KN,"Saint Kitts and Nevis",2017-11-01,29
+KN,"Saint Kitts and Nevis",2017-12-01,6
+KN,"Saint Kitts and Nevis",2018-01-01,75
+KN,"Saint Kitts and Nevis",2018-02-01,4
+LC,"Saint Lucia",2017-01-01,24
+LC,"Saint Lucia",2017-02-01,41
+LC,"Saint Lucia",2017-03-01,82
+LC,"Saint Lucia",2017-04-01,8
+LC,"Saint Lucia",2017-05-01,63
+LC,"Saint Lucia",2017-06-01,46
+LC,"Saint Lucia",2017-07-01,51
+LC,"Saint Lucia",2017-08-01,83
+LC,"Saint Lucia",2017-09-01,54
+LC,"Saint Lucia",2017-10-01,102
+LC,"Saint Lucia",2017-11-01,72
+LC,"Saint Lucia",2017-12-01,55
+LC,"Saint Lucia",2018-01-01,18
+LC,"Saint Lucia",2018-02-01,8
+MF,"Saint Martin",2017-01-01,20
+PM,"Saint Pierre and Miquelon",2017-01-01,2
+VC,"Saint Vincent and the Grenadines",2017-01-01,7
+VC,"Saint Vincent and the Grenadines",2017-03-01,5
+VC,"Saint Vincent and the Grenadines",2017-04-01,10
+VC,"Saint Vincent and the Grenadines",2017-05-01,8
+VC,"Saint Vincent and the Grenadines",2017-06-01,30
+VC,"Saint Vincent and the Grenadines",2017-07-01,16
+VC,"Saint Vincent and the Grenadines",2017-08-01,13
+VC,"Saint Vincent and the Grenadines",2017-09-01,18
+VC,"Saint Vincent and the Grenadines",2017-10-01,78
+VC,"Saint Vincent and the Grenadines",2017-11-01,77
+VC,"Saint Vincent and the Grenadines",2017-12-01,16
+VC,"Saint Vincent and the Grenadines",2018-01-01,20
+VC,"Saint Vincent and the Grenadines",2018-02-01,6
+WS,Samoa,2017-05-01,11
+WS,Samoa,2017-06-01,12
+WS,Samoa,2017-11-01,1
+WS,Samoa,2018-01-01,2
+WS,Samoa,2018-02-01,2
+SM,"San Marino",2017-01-01,4
+SM,"San Marino",2017-05-01,2
+SM,"San Marino",2017-11-01,14
+SM,"San Marino",2017-12-01,8
+ST,"Sao Tome and Principe",2017-01-01,11
+ST,"Sao Tome and Principe",2017-03-01,16
+ST,"Sao Tome and Principe",2017-05-01,5
+ST,"Sao Tome and Principe",2017-06-01,8
+ST,"Sao Tome and Principe",2017-08-01,30
+ST,"Sao Tome and Principe",2017-09-01,6
+ST,"Sao Tome and Principe",2017-11-01,7
+ST,"Sao Tome and Principe",2018-02-01,12
+SA,"Saudi Arabia",2017-01-01,2230
+SA,"Saudi Arabia",2017-02-01,1775
+SA,"Saudi Arabia",2017-03-01,2357
+SA,"Saudi Arabia",2017-04-01,2395
+SA,"Saudi Arabia",2017-05-01,2954
+SA,"Saudi Arabia",2017-06-01,2036
+SA,"Saudi Arabia",2017-07-01,2090
+SA,"Saudi Arabia",2017-08-01,2984
+SA,"Saudi Arabia",2017-09-01,3709
+SA,"Saudi Arabia",2017-10-01,3823
+SA,"Saudi Arabia",2017-11-01,4261
+SA,"Saudi Arabia",2017-12-01,3320
+SA,"Saudi Arabia",2018-01-01,1736
+SA,"Saudi Arabia",2018-02-01,3501
+SN,Senegal,2017-01-01,97
+SN,Senegal,2017-02-01,507
+SN,Senegal,2017-03-01,246
+SN,Senegal,2017-04-01,587
+SN,Senegal,2017-05-01,622
+SN,Senegal,2017-06-01,402
+SN,Senegal,2017-07-01,175
+SN,Senegal,2017-08-01,472
+SN,Senegal,2017-09-01,243
+SN,Senegal,2017-10-01,432
+SN,Senegal,2017-11-01,242
+SN,Senegal,2017-12-01,235
+SN,Senegal,2018-01-01,575
+SN,Senegal,2018-02-01,462
+RS,Serbia,2017-01-01,4373
+RS,Serbia,2017-02-01,3180
+RS,Serbia,2017-03-01,4517
+RS,Serbia,2017-04-01,3629
+RS,Serbia,2017-05-01,5754
+RS,Serbia,2017-06-01,5234
+RS,Serbia,2017-07-01,2927
+RS,Serbia,2017-08-01,4455
+RS,Serbia,2017-09-01,6407
+RS,Serbia,2017-10-01,4693
+RS,Serbia,2017-11-01,5141
+RS,Serbia,2017-12-01,4596
+RS,Serbia,2018-01-01,2419
+RS,Serbia,2018-02-01,3758
+SC,Seychelles,2017-01-01,18
+SC,Seychelles,2017-02-01,22
+SC,Seychelles,2017-03-01,31
+SC,Seychelles,2017-04-01,4
+SC,Seychelles,2017-05-01,6
+SC,Seychelles,2017-06-01,22
+SC,Seychelles,2017-08-01,34
+SC,Seychelles,2017-09-01,49
+SC,Seychelles,2017-10-01,33
+SC,Seychelles,2017-11-01,23
+SC,Seychelles,2017-12-01,17
+SC,Seychelles,2018-01-01,25
+SC,Seychelles,2018-02-01,19
+SL,"Sierra Leone",2017-02-01,12
+SL,"Sierra Leone",2017-05-01,4
+SL,"Sierra Leone",2017-06-01,7
+SL,"Sierra Leone",2017-08-01,4
+SL,"Sierra Leone",2017-10-01,2
+SL,"Sierra Leone",2017-12-01,2
+SL,"Sierra Leone",2018-02-01,8
+SG,Singapore,2017-01-01,11239
+SG,Singapore,2017-02-01,12509
+SG,Singapore,2017-03-01,16798
+SG,Singapore,2017-04-01,23445
+SG,Singapore,2017-05-01,20137
+SG,Singapore,2017-06-01,14184
+SG,Singapore,2017-07-01,11792
+SG,Singapore,2017-08-01,18522
+SG,Singapore,2017-09-01,31151
+SG,Singapore,2017-10-01,32316
+SG,Singapore,2017-11-01,23657
+SG,Singapore,2017-12-01,11418
+SG,Singapore,2018-01-01,7739
+SG,Singapore,2018-02-01,13492
+SX,"Sint Maarten (Dutch part)",2017-01-01,23
+SX,"Sint Maarten (Dutch part)",2017-02-01,5
+SX,"Sint Maarten (Dutch part)",2017-03-01,18
+SX,"Sint Maarten (Dutch part)",2017-04-01,24
+SX,"Sint Maarten (Dutch part)",2017-05-01,33
+SX,"Sint Maarten (Dutch part)",2017-06-01,29
+SX,"Sint Maarten (Dutch part)",2017-07-01,2
+SX,"Sint Maarten (Dutch part)",2017-08-01,1
+SX,"Sint Maarten (Dutch part)",2017-11-01,24
+SX,"Sint Maarten (Dutch part)",2017-12-01,7
+SX,"Sint Maarten (Dutch part)",2018-02-01,4
+SK,Slovakia,2017-01-01,3491
+SK,Slovakia,2017-02-01,2349
+SK,Slovakia,2017-03-01,3028
+SK,Slovakia,2017-04-01,2599
+SK,Slovakia,2017-05-01,3948
+SK,Slovakia,2017-06-01,3038
+SK,Slovakia,2017-07-01,1743
+SK,Slovakia,2017-08-01,1983
+SK,Slovakia,2017-09-01,1485
+SK,Slovakia,2017-10-01,3348
+SK,Slovakia,2017-11-01,4226
+SK,Slovakia,2017-12-01,2431
+SK,Slovakia,2018-01-01,2350
+SK,Slovakia,2018-02-01,3212
+SI,Slovenia,2017-01-01,2551
+SI,Slovenia,2017-02-01,1560
+SI,Slovenia,2017-03-01,1627
+SI,Slovenia,2017-04-01,2080
+SI,Slovenia,2017-05-01,1640
+SI,Slovenia,2017-06-01,1428
+SI,Slovenia,2017-07-01,809
+SI,Slovenia,2017-08-01,1078
+SI,Slovenia,2017-09-01,1578
+SI,Slovenia,2017-10-01,5184
+SI,Slovenia,2017-11-01,2829
+SI,Slovenia,2017-12-01,1494
+SI,Slovenia,2018-01-01,1388
+SI,Slovenia,2018-02-01,2257
+SB,"Solomon Islands",2017-04-01,4
+SB,"Solomon Islands",2017-05-01,2
+SB,"Solomon Islands",2017-07-01,2
+SB,"Solomon Islands",2017-09-01,2
+SB,"Solomon Islands",2017-10-01,14
+SB,"Solomon Islands",2018-01-01,1
+SB,"Solomon Islands",2018-02-01,1
+SO,Somalia,2017-05-01,8
+SO,Somalia,2017-06-01,20
+SO,Somalia,2017-07-01,13
+SO,Somalia,2017-09-01,4
+SO,Somalia,2017-10-01,3
+SO,Somalia,2017-12-01,5
+SO,Somalia,2018-01-01,3
+SO,Somalia,2018-02-01,25
+ZA,"South Africa",2017-01-01,7322
+ZA,"South Africa",2017-02-01,8907
+ZA,"South Africa",2017-03-01,8833
+ZA,"South Africa",2017-04-01,4412
+ZA,"South Africa",2017-05-01,9576
+ZA,"South Africa",2017-06-01,6692
+ZA,"South Africa",2017-07-01,4354
+ZA,"South Africa",2017-08-01,11106
+ZA,"South Africa",2017-09-01,6911
+ZA,"South Africa",2017-10-01,8828
+ZA,"South Africa",2017-11-01,8353
+ZA,"South Africa",2017-12-01,6536
+ZA,"South Africa",2018-01-01,2742
+ZA,"South Africa",2018-02-01,9767
+SS,"South Sudan",2017-05-01,1
+SS,"South Sudan",2017-06-01,1
+SS,"South Sudan",2017-09-01,6
+SS,"South Sudan",2017-10-01,1
+SS,"South Sudan",2017-12-01,1
+SS,"South Sudan",2018-02-01,2
+ES,Spain,2017-01-01,55324
+ES,Spain,2017-02-01,60945
+ES,Spain,2017-03-01,62785
+ES,Spain,2017-04-01,53880
+ES,Spain,2017-05-01,77353
+ES,Spain,2017-06-01,61529
+ES,Spain,2017-07-01,29313
+ES,Spain,2017-08-01,27929
+ES,Spain,2017-09-01,49661
+ES,Spain,2017-10-01,75659
+ES,Spain,2017-11-01,52186
+ES,Spain,2017-12-01,43025
+ES,Spain,2018-01-01,27343
+ES,Spain,2018-02-01,60084
+LK,"Sri Lanka",2017-01-01,1636
+LK,"Sri Lanka",2017-02-01,1267
+LK,"Sri Lanka",2017-03-01,5721
+LK,"Sri Lanka",2017-04-01,1975
+LK,"Sri Lanka",2017-05-01,4279
+LK,"Sri Lanka",2017-06-01,2075
+LK,"Sri Lanka",2017-07-01,1463
+LK,"Sri Lanka",2017-08-01,2396
+LK,"Sri Lanka",2017-09-01,2972
+LK,"Sri Lanka",2017-10-01,2431
+LK,"Sri Lanka",2017-11-01,2469
+LK,"Sri Lanka",2017-12-01,2895
+LK,"Sri Lanka",2018-01-01,1449
+LK,"Sri Lanka",2018-02-01,3706
+SD,Sudan,2017-01-01,396
+SD,Sudan,2017-02-01,60
+SD,Sudan,2017-03-01,214
+SD,Sudan,2017-04-01,205
+SD,Sudan,2017-05-01,727
+SD,Sudan,2017-06-01,140
+SD,Sudan,2017-07-01,117
+SD,Sudan,2017-08-01,117
+SD,Sudan,2017-09-01,233
+SD,Sudan,2017-10-01,286
+SD,Sudan,2017-11-01,212
+SD,Sudan,2017-12-01,253
+SD,Sudan,2018-01-01,109
+SD,Sudan,2018-02-01,275
+SR,Suriname,2017-01-01,26
+SR,Suriname,2017-02-01,19
+SR,Suriname,2017-03-01,44
+SR,Suriname,2017-04-01,68
+SR,Suriname,2017-05-01,57
+SR,Suriname,2017-06-01,152
+SR,Suriname,2017-07-01,59
+SR,Suriname,2017-08-01,69
+SR,Suriname,2017-09-01,68
+SR,Suriname,2017-10-01,78
+SR,Suriname,2017-11-01,65
+SR,Suriname,2017-12-01,79
+SR,Suriname,2018-01-01,40
+SR,Suriname,2018-02-01,96
+SJ,"Svalbard and Jan Mayen",2018-01-01,1
+SZ,Swaziland,2017-01-01,8
+SZ,Swaziland,2017-03-01,22
+SZ,Swaziland,2017-04-01,3
+SZ,Swaziland,2017-05-01,4
+SZ,Swaziland,2017-06-01,21
+SZ,Swaziland,2017-07-01,7
+SZ,Swaziland,2017-08-01,16
+SZ,Swaziland,2017-09-01,28
+SZ,Swaziland,2017-10-01,48
+SZ,Swaziland,2017-11-01,12
+SZ,Swaziland,2017-12-01,10
+SZ,Swaziland,2018-01-01,36
+SZ,Swaziland,2018-02-01,9
+SE,Sweden,2017-01-01,13559
+SE,Sweden,2017-02-01,15992
+SE,Sweden,2017-03-01,20797
+SE,Sweden,2017-04-01,20671
+SE,Sweden,2017-05-01,31561
+SE,Sweden,2017-06-01,22727
+SE,Sweden,2017-07-01,15314
+SE,Sweden,2017-08-01,56723
+SE,Sweden,2017-09-01,25561
+SE,Sweden,2017-10-01,43868
+SE,Sweden,2017-11-01,38726
+SE,Sweden,2017-12-01,22777
+SE,Sweden,2018-01-01,13914
+SE,Sweden,2018-02-01,22425
+CH,Switzerland,2017-01-01,9728
+CH,Switzerland,2017-02-01,8872
+CH,Switzerland,2017-03-01,7864
+CH,Switzerland,2017-04-01,6102
+CH,Switzerland,2017-05-01,9868
+CH,Switzerland,2017-06-01,7088
+CH,Switzerland,2017-07-01,4703
+CH,Switzerland,2017-08-01,6629
+CH,Switzerland,2017-09-01,8763
+CH,Switzerland,2017-10-01,10283
+CH,Switzerland,2017-11-01,11023
+CH,Switzerland,2017-12-01,10598
+CH,Switzerland,2018-01-01,6523
+CH,Switzerland,2018-02-01,9341
+SY,"Syrian Arab Republic",2017-01-01,381
+SY,"Syrian Arab Republic",2017-02-01,112
+SY,"Syrian Arab Republic",2017-03-01,281
+SY,"Syrian Arab Republic",2017-04-01,226
+SY,"Syrian Arab Republic",2017-05-01,367
+SY,"Syrian Arab Republic",2017-06-01,320
+SY,"Syrian Arab Republic",2017-07-01,347
+SY,"Syrian Arab Republic",2017-08-01,456
+SY,"Syrian Arab Republic",2017-09-01,384
+SY,"Syrian Arab Republic",2017-10-01,538
+SY,"Syrian Arab Republic",2017-11-01,1280
+SY,"Syrian Arab Republic",2017-12-01,320
+SY,"Syrian Arab Republic",2018-01-01,188
+SY,"Syrian Arab Republic",2018-02-01,409
+TW,Taiwan,2017-01-01,21501
+TW,Taiwan,2017-02-01,15380
+TW,Taiwan,2017-03-01,25969
+TW,Taiwan,2017-04-01,22167
+TW,Taiwan,2017-05-01,33926
+TW,Taiwan,2017-06-01,34014
+TW,Taiwan,2017-07-01,23800
+TW,Taiwan,2017-08-01,32117
+TW,Taiwan,2017-09-01,26832
+TW,Taiwan,2017-10-01,27233
+TW,Taiwan,2017-11-01,33808
+TW,Taiwan,2017-12-01,34975
+TW,Taiwan,2018-01-01,15247
+TW,Taiwan,2018-02-01,19765
+TJ,Tajikistan,2017-01-01,2
+TJ,Tajikistan,2017-03-01,4
+TJ,Tajikistan,2017-05-01,2
+TJ,Tajikistan,2017-10-01,5
+TJ,Tajikistan,2018-01-01,1
+TJ,Tajikistan,2018-02-01,2
+TZ,"Tanzania, United Republic of",2017-01-01,70
+TZ,"Tanzania, United Republic of",2017-02-01,88
+TZ,"Tanzania, United Republic of",2017-03-01,49
+TZ,"Tanzania, United Republic of",2017-04-01,38
+TZ,"Tanzania, United Republic of",2017-05-01,133
+TZ,"Tanzania, United Republic of",2017-06-01,78
+TZ,"Tanzania, United Republic of",2017-07-01,19
+TZ,"Tanzania, United Republic of",2017-08-01,86
+TZ,"Tanzania, United Republic of",2017-09-01,108
+TZ,"Tanzania, United Republic of",2017-10-01,96
+TZ,"Tanzania, United Republic of",2017-11-01,88
+TZ,"Tanzania, United Republic of",2017-12-01,65
+TZ,"Tanzania, United Republic of",2018-01-01,47
+TZ,"Tanzania, United Republic of",2018-02-01,68
+TH,Thailand,2017-01-01,4691
+TH,Thailand,2017-02-01,3591
+TH,Thailand,2017-03-01,5315
+TH,Thailand,2017-04-01,3121
+TH,Thailand,2017-05-01,7571
+TH,Thailand,2017-06-01,8505
+TH,Thailand,2017-07-01,5203
+TH,Thailand,2017-08-01,7274
+TH,Thailand,2017-09-01,6516
+TH,Thailand,2017-10-01,9175
+TH,Thailand,2017-11-01,12678
+TH,Thailand,2017-12-01,6634
+TH,Thailand,2018-01-01,3341
+TH,Thailand,2018-02-01,19674
+TL,Timor-Leste,2017-02-01,7
+TL,Timor-Leste,2017-03-01,10
+TL,Timor-Leste,2017-04-01,4
+TL,Timor-Leste,2017-05-01,10
+TL,Timor-Leste,2017-06-01,8
+TL,Timor-Leste,2017-07-01,2
+TL,Timor-Leste,2017-08-01,2
+TL,Timor-Leste,2017-10-01,5
+TL,Timor-Leste,2017-11-01,11
+TL,Timor-Leste,2017-12-01,5
+TL,Timor-Leste,2018-02-01,6
+TG,Togo,2017-01-01,8
+TG,Togo,2017-02-01,2
+TG,Togo,2017-03-01,6
+TG,Togo,2017-04-01,17
+TG,Togo,2017-05-01,24
+TG,Togo,2017-06-01,26
+TG,Togo,2017-07-01,9
+TG,Togo,2017-08-01,30
+TG,Togo,2017-09-01,27
+TG,Togo,2017-10-01,30
+TG,Togo,2017-11-01,32
+TG,Togo,2017-12-01,61
+TG,Togo,2018-01-01,17
+TG,Togo,2018-02-01,27
+TO,Tonga,2017-01-01,4
+TO,Tonga,2017-06-01,2
+TO,Tonga,2017-08-01,32
+TO,Tonga,2017-09-01,8
+TO,Tonga,2017-10-01,7
+TO,Tonga,2017-12-01,4
+TT,"Trinidad and Tobago",2017-01-01,359
+TT,"Trinidad and Tobago",2017-02-01,592
+TT,"Trinidad and Tobago",2017-03-01,810
+TT,"Trinidad and Tobago",2017-04-01,313
+TT,"Trinidad and Tobago",2017-05-01,360
+TT,"Trinidad and Tobago",2017-06-01,369
+TT,"Trinidad and Tobago",2017-07-01,166
+TT,"Trinidad and Tobago",2017-08-01,270
+TT,"Trinidad and Tobago",2017-09-01,465
+TT,"Trinidad and Tobago",2017-10-01,403
+TT,"Trinidad and Tobago",2017-11-01,308
+TT,"Trinidad and Tobago",2017-12-01,310
+TT,"Trinidad and Tobago",2018-01-01,166
+TT,"Trinidad and Tobago",2018-02-01,227
+TN,Tunisia,2017-01-01,2780
+TN,Tunisia,2017-02-01,2444
+TN,Tunisia,2017-03-01,2364
+TN,Tunisia,2017-04-01,3203
+TN,Tunisia,2017-05-01,2105
+TN,Tunisia,2017-06-01,1713
+TN,Tunisia,2017-07-01,1570
+TN,Tunisia,2017-08-01,1677
+TN,Tunisia,2017-09-01,2753
+TN,Tunisia,2017-10-01,3869
+TN,Tunisia,2017-11-01,3226
+TN,Tunisia,2017-12-01,4330
+TN,Tunisia,2018-01-01,1805
+TN,Tunisia,2018-02-01,3763
+TR,Turkey,2017-01-01,9711
+TR,Turkey,2017-02-01,7476
+TR,Turkey,2017-03-01,10481
+TR,Turkey,2017-04-01,7433
+TR,Turkey,2017-05-01,13021
+TR,Turkey,2017-06-01,7435
+TR,Turkey,2017-07-01,4138
+TR,Turkey,2017-08-01,8013
+TR,Turkey,2017-09-01,8600
+TR,Turkey,2017-10-01,14805
+TR,Turkey,2017-11-01,14012
+TR,Turkey,2017-12-01,12646
+TR,Turkey,2018-01-01,6568
+TR,Turkey,2018-02-01,13960
+TM,Turkmenistan,2017-01-01,3
+TM,Turkmenistan,2017-02-01,4
+TM,Turkmenistan,2017-03-01,1
+TM,Turkmenistan,2017-04-01,7
+TM,Turkmenistan,2017-06-01,2
+TM,Turkmenistan,2017-08-01,8
+TM,Turkmenistan,2017-09-01,10
+TM,Turkmenistan,2017-10-01,10
+TM,Turkmenistan,2017-12-01,4
+TM,Turkmenistan,2018-01-01,3
+TM,Turkmenistan,2018-02-01,15
+TC,"Turks and Caicos Islands",2017-01-01,2
+TC,"Turks and Caicos Islands",2017-02-01,2
+TC,"Turks and Caicos Islands",2017-03-01,39
+TC,"Turks and Caicos Islands",2017-06-01,5
+TC,"Turks and Caicos Islands",2017-07-01,2
+TC,"Turks and Caicos Islands",2017-08-01,28
+TC,"Turks and Caicos Islands",2017-09-01,6
+TC,"Turks and Caicos Islands",2017-11-01,10
+TC,"Turks and Caicos Islands",2017-12-01,5
+TC,"Turks and Caicos Islands",2018-01-01,19
+TC,"Turks and Caicos Islands",2018-02-01,2
+UG,Uganda,2017-01-01,47
+UG,Uganda,2017-02-01,44
+UG,Uganda,2017-03-01,24
+UG,Uganda,2017-04-01,60
+UG,Uganda,2017-05-01,47
+UG,Uganda,2017-06-01,44
+UG,Uganda,2017-07-01,27
+UG,Uganda,2017-08-01,21
+UG,Uganda,2017-09-01,22
+UG,Uganda,2017-10-01,26
+UG,Uganda,2017-11-01,252
+UG,Uganda,2017-12-01,36
+UG,Uganda,2018-01-01,130
+UG,Uganda,2018-02-01,32
+UA,Ukraine,2017-01-01,15170
+UA,Ukraine,2017-02-01,26207
+UA,Ukraine,2017-03-01,18700
+UA,Ukraine,2017-04-01,10651
+UA,Ukraine,2017-05-01,10400
+UA,Ukraine,2017-06-01,11508
+UA,Ukraine,2017-07-01,5905
+UA,Ukraine,2017-08-01,11961
+UA,Ukraine,2017-09-01,12123
+UA,Ukraine,2017-10-01,10387
+UA,Ukraine,2017-11-01,11484
+UA,Ukraine,2017-12-01,8213
+UA,Ukraine,2018-01-01,3897
+UA,Ukraine,2018-02-01,9838
+AE,"United Arab Emirates",2017-01-01,1817
+AE,"United Arab Emirates",2017-02-01,1359
+AE,"United Arab Emirates",2017-03-01,1758
+AE,"United Arab Emirates",2017-04-01,1728
+AE,"United Arab Emirates",2017-05-01,2831
+AE,"United Arab Emirates",2017-06-01,2065
+AE,"United Arab Emirates",2017-07-01,1062
+AE,"United Arab Emirates",2017-08-01,1833
+AE,"United Arab Emirates",2017-09-01,2149
+AE,"United Arab Emirates",2017-10-01,2360
+AE,"United Arab Emirates",2017-11-01,2295
+AE,"United Arab Emirates",2017-12-01,2890
+AE,"United Arab Emirates",2018-01-01,958
+AE,"United Arab Emirates",2018-02-01,2059
+GB,"United Kingdom",2017-01-01,85081
+GB,"United Kingdom",2017-02-01,76680
+GB,"United Kingdom",2017-03-01,142166
+GB,"United Kingdom",2017-04-01,83009
+GB,"United Kingdom",2017-05-01,83253
+GB,"United Kingdom",2017-06-01,80374
+GB,"United Kingdom",2017-07-01,50689
+GB,"United Kingdom",2017-08-01,121379
+GB,"United Kingdom",2017-09-01,82772
+GB,"United Kingdom",2017-10-01,87213
+GB,"United Kingdom",2017-11-01,149531
+GB,"United Kingdom",2017-12-01,69038
+GB,"United Kingdom",2018-01-01,44497
+GB,"United Kingdom",2018-02-01,94446
+US,"United States",2017-01-01,583181
+US,"United States",2017-02-01,667762
+US,"United States",2017-03-01,685966
+US,"United States",2017-04-01,712578
+US,"United States",2017-05-01,1285667
+US,"United States",2017-06-01,868938
+US,"United States",2017-07-01,455543
+US,"United States",2017-08-01,890360
+US,"United States",2017-09-01,1071763
+US,"United States",2017-10-01,991203
+US,"United States",2017-11-01,2456538
+US,"United States",2017-12-01,2421717
+US,"United States",2018-01-01,599485
+US,"United States",2018-02-01,1205849
+UM,"United States Minor Outlying Islands",2017-08-01,2
+UY,Uruguay,2017-01-01,487
+UY,Uruguay,2017-02-01,783
+UY,Uruguay,2017-03-01,1069
+UY,Uruguay,2017-04-01,1082
+UY,Uruguay,2017-05-01,692
+UY,Uruguay,2017-06-01,392
+UY,Uruguay,2017-07-01,444
+UY,Uruguay,2017-08-01,600
+UY,Uruguay,2017-09-01,326
+UY,Uruguay,2017-10-01,570
+UY,Uruguay,2017-11-01,677
+UY,Uruguay,2017-12-01,1032
+UY,Uruguay,2018-01-01,139
+UY,Uruguay,2018-02-01,315
+UZ,Uzbekistan,2017-01-01,104
+UZ,Uzbekistan,2017-02-01,68
+UZ,Uzbekistan,2017-03-01,35
+UZ,Uzbekistan,2017-04-01,78
+UZ,Uzbekistan,2017-05-01,78
+UZ,Uzbekistan,2017-06-01,97
+UZ,Uzbekistan,2017-07-01,12
+UZ,Uzbekistan,2017-08-01,37
+UZ,Uzbekistan,2017-09-01,81
+UZ,Uzbekistan,2017-10-01,61
+UZ,Uzbekistan,2017-11-01,31
+UZ,Uzbekistan,2017-12-01,144
+UZ,Uzbekistan,2018-01-01,36
+UZ,Uzbekistan,2018-02-01,241
+VU,Vanuatu,2017-02-01,18
+VU,Vanuatu,2017-03-01,6
+VU,Vanuatu,2017-05-01,6
+VU,Vanuatu,2017-06-01,27
+VU,Vanuatu,2017-10-01,8
+VU,Vanuatu,2017-11-01,8
+VU,Vanuatu,2018-01-01,3
+VE,Venezuela,2017-01-01,727
+VE,Venezuela,2017-02-01,389
+VE,Venezuela,2017-03-01,709
+VE,Venezuela,2017-04-01,740
+VE,Venezuela,2017-05-01,734
+VE,Venezuela,2017-06-01,696
+VE,Venezuela,2017-07-01,511
+VE,Venezuela,2017-08-01,700
+VE,Venezuela,2017-09-01,846
+VE,Venezuela,2017-10-01,1051
+VE,Venezuela,2017-11-01,844
+VE,Venezuela,2017-12-01,757
+VE,Venezuela,2018-01-01,401
+VE,Venezuela,2018-02-01,1776
+VN,Vietnam,2017-01-01,2189
+VN,Vietnam,2017-02-01,2076
+VN,Vietnam,2017-03-01,4433
+VN,Vietnam,2017-04-01,3976
+VN,Vietnam,2017-05-01,4177
+VN,Vietnam,2017-06-01,3766
+VN,Vietnam,2017-07-01,2729
+VN,Vietnam,2017-08-01,2945
+VN,Vietnam,2017-09-01,4962
+VN,Vietnam,2017-10-01,4280
+VN,Vietnam,2017-11-01,3165
+VN,Vietnam,2017-12-01,3612
+VN,Vietnam,2018-01-01,1780
+VN,Vietnam,2018-02-01,2620
+VG,"Virgin Islands, British",2017-01-01,246
+VG,"Virgin Islands, British",2017-02-01,55
+VG,"Virgin Islands, British",2017-03-01,63
+VG,"Virgin Islands, British",2017-04-01,52
+VG,"Virgin Islands, British",2017-05-01,238
+VG,"Virgin Islands, British",2017-06-01,132
+VG,"Virgin Islands, British",2017-07-01,52
+VG,"Virgin Islands, British",2017-08-01,71
+VG,"Virgin Islands, British",2017-09-01,146
+VG,"Virgin Islands, British",2017-10-01,89
+VG,"Virgin Islands, British",2017-11-01,17
+VG,"Virgin Islands, British",2017-12-01,15
+VG,"Virgin Islands, British",2018-01-01,7
+VG,"Virgin Islands, British",2018-02-01,2
+VI,"Virgin Islands, U.S.",2017-01-01,19
+VI,"Virgin Islands, U.S.",2017-02-01,2
+VI,"Virgin Islands, U.S.",2017-03-01,15
+VI,"Virgin Islands, U.S.",2017-04-01,6
+VI,"Virgin Islands, U.S.",2017-05-01,4
+VI,"Virgin Islands, U.S.",2017-06-01,2
+VI,"Virgin Islands, U.S.",2017-07-01,4
+VI,"Virgin Islands, U.S.",2017-08-01,2
+VI,"Virgin Islands, U.S.",2017-12-01,3
+YE,Yemen,2017-01-01,58
+YE,Yemen,2017-02-01,19
+YE,Yemen,2017-03-01,44
+YE,Yemen,2017-04-01,40
+YE,Yemen,2017-05-01,57
+YE,Yemen,2017-06-01,32
+YE,Yemen,2017-07-01,69
+YE,Yemen,2017-08-01,55
+YE,Yemen,2017-09-01,225
+YE,Yemen,2017-10-01,111
+YE,Yemen,2017-11-01,97
+YE,Yemen,2017-12-01,97
+YE,Yemen,2018-01-01,41
+YE,Yemen,2018-02-01,50
+ZM,Zambia,2017-01-01,365
+ZM,Zambia,2017-02-01,436
+ZM,Zambia,2017-03-01,245
+ZM,Zambia,2017-04-01,750
+ZM,Zambia,2017-05-01,343
+ZM,Zambia,2017-06-01,134
+ZM,Zambia,2017-07-01,49
+ZM,Zambia,2017-08-01,131
+ZM,Zambia,2017-09-01,769
+ZM,Zambia,2017-10-01,1195
+ZM,Zambia,2017-11-01,99
+ZM,Zambia,2017-12-01,90
+ZM,Zambia,2018-01-01,67
+ZM,Zambia,2018-02-01,198
+ZW,Zimbabwe,2017-01-01,62
+ZW,Zimbabwe,2017-02-01,67
+ZW,Zimbabwe,2017-03-01,45
+ZW,Zimbabwe,2017-04-01,52
+ZW,Zimbabwe,2017-05-01,103
+ZW,Zimbabwe,2017-06-01,134
+ZW,Zimbabwe,2017-07-01,76
+ZW,Zimbabwe,2017-08-01,158
+ZW,Zimbabwe,2017-09-01,144
+ZW,Zimbabwe,2017-10-01,149
+ZW,Zimbabwe,2017-11-01,117
+ZW,Zimbabwe,2017-12-01,42
+ZW,Zimbabwe,2018-01-01,35
+ZW,Zimbabwe,2018-02-01,67

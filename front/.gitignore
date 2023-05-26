@@ -1,0 +1,19 @@
+.editorconfig
+# Dependency directory
+/node_modules
+
+# WebStorm
+.idea
+
+#env variables:
+.env
+
+# ignore build and dist for now
+/build
+/dist
+package-lock.json
+
+.DS_Store
+test/e2e/mock-template-build
+*.log
+_s3-upload/

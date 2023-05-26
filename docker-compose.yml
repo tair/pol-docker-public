@@ -1,0 +1,19 @@
+version: "3.6"
+services:
+  back:
+    build: ./back
+    ports:
+      - 8090:8090
+  front:
+    build: ./front
+    image: phoenix/pol-front
+    container_name: pol-front
+    ports:
+      - 8080:8080
+    depends_on:
+      - back
+    networks:
+      - frontback
+networks:
+  frontback:
+    driver: bridge
